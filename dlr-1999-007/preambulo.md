@@ -1,0 +1,5 @@
+Serviço Regional de Protecção Civil e de Bombeiros dos Açores
+Considerando que há uma alteração profunda na filosofia que deve nortear o Serviço Regional de Protecção Civil e de Bombeiros dos Açores, por forma a torná-lo mais próximo dos cidadãos, motivando-os para uma tarefa que é de todos e a todos deve mobilizar;
+Considerando que, por essa razão, se torna necessário reformular as orgânicas do Serviço Regional de Protecção Civil e da Inspecção Regional de Bombeiros, tendo em conta a experiência adquirida e a rentabilização de meios;
+Considerando ainda que, por razões de afinidade das atribuições em causa e da racionalização de recursos, se deve dar consagração plena e formal a um serviço que assuma atribuições referentes às áreas de protecção civil, da superintendência e apoio aos corpos de bombeiros voluntários e do transporte terrestre da emergência médica:
+Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo, o seguinte:
