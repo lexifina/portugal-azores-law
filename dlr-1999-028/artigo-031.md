@@ -1,0 +1,8 @@
+# Artigo 31.º
+### Cobrança e destino do valor do preço dos cuidados de saúde
+1 - A cobrança da comparticipação do utente no preço dos serviços prestados e de eventuais taxas moderadoras cabe às entidades prestadoras de cuidados de saúde.
+2 - As quantias cobradas nos termos do número anterior constituem receita própria das instituições prestadoras dos cuidados e são inscritas nos orçamentos ou balancetes respectivos.
+3 - As USI facturarão ao IGFS a comparticipação que caiba aos subsistemas e seguros alternativos de saúde ou a outras entidades com as quais o SRS tenha contratado a prestação de serviços, em termos a estabelecer nos contratos de financiamento referidos no n.º 4 do artigo 5.º
+4 - As comparticipações pagas pelos subsistemas e seguros alternativos de saúde, que tenham estabelecido acordos de prestação de cuidados com o SRS, constituem receita própria do IGFS.
+5 - Quando os subsistemas e seguros alternativos de saúde, que tenham estabelecido acordos de prestação de cuidados com o SRS, não satisfaçam, até 180 dias após a data de vencimento acordada, os pagamentos a que se obriguem no âmbito dos referidos acordos, são os mesmos automaticamente rescindidos, transitando os seus beneficiários para o regime geral, cessando os benefícios de natureza contributiva ou outros a que tenham direito.
+6 - Por decreto regulamentar regional será fixado o regime de relacionamento entre o sistema de assistência na doença dos funcionários da administração regional e local e o IGFS.
