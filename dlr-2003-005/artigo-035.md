@@ -1,0 +1,4 @@
+# Artigo 35.º
+### Delimitação de perímetros
+1 - Compete ao membro do Governo Regional competente em matéria de educação, obtido o parecer favorável do secretário regional competente em matéria de polícia administrativa e das câmaras municipais respectivas, proceder às delimitações das áreas a que se referem as alíneas a) e b) do artigo 14.º do Decreto-Lei n.º 9/2002, de 24 de Janeiro, que estabelece restrições à venda e consumo de bebidas alcoólicas.
+2 - Compete igualmente ao secretário regional competente em matéria de educação, obtido o parecer favorável do membro do Governo Regional competente em matéria de polícia administrativa e das câmaras municipais respectivas, proceder às delimitações das áreas de interdição da prática da venda ambulante de bebidas e alimentos e do jogo ambulante a que se refere o presente diploma.
