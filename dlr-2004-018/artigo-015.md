@@ -1,0 +1,5 @@
+# Artigo 15.º
+### Normas transitórias
+1 - As entidades autorizadas na Região Autónoma dos Açores para o exercício da actividade de inspecção de veículos e que exercem a actividade devem, no prazo máximo de um ano a contar da data da entrada em vigor do presente diploma, comprovar, na direcção regional competente em matéria de transportes terrestres, que reúnem as condições previstas nos artigos 5.º, 7.º e 8.º do Decreto-Lei n.º 550/99, de 15 de Dezembro, de acordo com as adaptações ora introduzidas, sob pena de revogação da autorização concedida.
+2 - Os centros de inspecção em funcionamento à data de entrada em vigor do presente diploma devem, no prazo máximo de seis meses a contar dessa data, estar nas condições previstas no n.º 6 do artigo 26.º do Decreto-Lei n.º 550/99, de 15 de Dezembro.
+3 - Sem prejuízo do prazo previsto no número anterior, a direcção regional competente em matéria de transportes terrestres deve notificar os centros de inspecção em funcionamento da entrada em vigor do presente diploma.

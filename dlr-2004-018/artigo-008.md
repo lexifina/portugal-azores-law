@@ -1,0 +1,3 @@
+# Artigo 8.º
+### Periodicidade das inspecções realizadas exclusivamente em centros móveis
+Nas ilhas onde as inspecções periódicas se efectuem exclusivamente em centro móvel, os veículos que não possam apresentar-se à primeira inspecção anual e às subsequentes durante o mês correspondente ao da matrícula inicial, de acordo com a periodicidade prevista no presente diploma e no Decreto-Lei n.º 554/99, de 16 de Dezembro, em virtude de aquele mês não coincidir com o período de funcionamento do centro móvel respectivo, poderão circular sem restrições até ao período de inspecções imediatamente subsequente, ao qual deverão apresentar-se.
