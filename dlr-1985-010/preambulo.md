@@ -1,0 +1,7 @@
+Decreto Legislativo Regional n.º 10/85/A
+Protecção da produção agrícola
+Com o duplo objectivo de se evitar a introdução na Região Autónoma dos Açores de pragas existentes no continente (Leptinotarsa decemlineata, Globodera rostochiensis, Quadraspidiotus perniciosus, Polychrosis botrana e Clysia ambiguella) ainda não detectadas na Região e evitar a introdução no continente e na Região Autónoma da Madeira da Popillia japonica e da Grapholita molesta, pragas existentes em áreas delimitadas do arquipélago, foram publicados os Decretos-Leis n.os 115/81 e 116/81, de 15 de Maio.
+A publicação destes diplomas baseava-se no condicionalismo restritivo estabelecido pelo artigo 230.º da Constituição de 1976, o qual desapareceu, quanto a razões de natureza sanitária, com a revisão de 1982.
+O novo quadro constitucional legitima a presente proveniência legislativa.
+Acresce que a diversidade de legislação existente tem tornado difícil a sua aplicabilidade nos Açores, pois criou problemas de incompatibilidade legislativa e de adequação, no conteúdo, com o poder legislativo conferido a esta Região Autónoma. Por isso torna-se conveniente a publicação, por esta Assembleia, de legislação que, satisfazendo as exigências de protecção fitossanitária da Região e garantindo a qualidade das sementes a comercializar e a utilizar nos Açores, clarifique a estrutura legislativa a aplicar na Região Autónoma dos Açores.
+Assim, a Assembleia Regional dos Açores, nos termos da alínea a) do artigo 229.º da Constituição, decreta o seguinte:

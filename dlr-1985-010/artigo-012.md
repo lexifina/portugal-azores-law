@@ -1,0 +1,3 @@
+# Artigo 12.º
+1 - Serão apreendidas e posteriormente inutilizadas ou recambiadas a expensas do responsável que as importou ou expediu, independentemente da respectiva sanção legal a que haja lugar, todas as sementes de origem nacional ou estrangeira chegadas aos Açores sem o indispensável documento dos serviços oficiais competentes, certificatório da respectiva conformidade com as características legais em vigor reguladoras do comércio de sementes.
+2 - O comércio de sementes na Região fica sujeito à orientação e fiscalização dos serviços da Secretaria Regional da Agricultura e Pescas, incluindo as de produção regional, de acordo com a legislação aplicável.

@@ -1,0 +1,2 @@
+# Artigo 13.º
+Os organismos e entidades oficiais, nomeadamente os serviços alfandegários da Guarda Fiscal e da Fiscalização Económica e Qualidade Alimentar da Secretaria Regional do Comércio e Indústria, bem como do Comando Aéreo dos Açores, prestarão toda a colaboração aos serviços da Secretaria Regional da Agricultura e Pescas no desenvolvimento das acções tendentes à vigilância e fiscalização do disposto no presente diploma.
