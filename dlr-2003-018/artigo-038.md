@@ -1,0 +1,3 @@
+# Artigo 38.º
+### Itinerários
+Cada entidade competente organiza, imprime e mantém actualizados os itinerários das diversas vias cuja gestão esteja a seu cargo, em escalas apropriadas, nos quais hão-de figurar os pontos principais dos percursos, tais como povoações, obras de arte importantes, edifícios públicos, cruzamentos e entroncamentos com outras vias, passagens superiores e inferiores e limites dos municípios, indicando-se as situações quilométricas respectivas e as distâncias intermédias correspondentes aos pontos assinalados, nos termos a regulamentar, de acordo com o disposto no n.º 3 do artigo 72.º do presente diploma.
