@@ -1,0 +1,6 @@
+Decreto Legislativo Regional n.º 17/2002/A
+Adapta à Região o Decreto-Lei n.º 3/2001, de 10 de Janeiro (unifica o quadro legal dos transportes rodoviários em veículos pesados de passageiros).
+A entrada em vigor do Decreto-Lei n.º 3/2001, de 10 de Janeiro, constituiu uma inovação profunda no domínio dos transportes de passageiros por via terrestre, pondo fim a um conjunto de legislação desactualizada e dispersa.
+Tendo em conta algumas soluções concretas do diploma, há necessidade de proceder à sua adaptação aos aspectos específicos da Região, nomeadamente no que se refere à correspondência entre entidades responsáveis pela sua execução.
+As condições específicas em que se desenvolvem os transportes rodoviários de passageiros na Região implicou, de igual modo, abertura para soluções próprias, quanto ao capital social das transportadoras, quanto ao reconhecimento da capacidade profissional, criando, ainda, um regime de natureza excepcional para o transporte particular de pessoas em veículos de mercadorias.
+Assim, a Assembleia Legislativa Regional, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º da Lei n.º 61/98, de 27 de Agosto, Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:
