@@ -11,5 +11,6 @@ a) Perseguir os cetáceos, considerando-se como tal, nomeadamente, a tentativa d
 b) Provocar a separação de animais em grupo, especialmente o isolamento de crias;
 c) Alimentar os animais;
 d) A presença de mergulhadores com escafandro autónomo ou semiautónomo, assim como a utilização de veículos motorizados de deslocação subaquática, na área de aproximação dos cetáceos;
-e) Poluir o mar com resíduos sólidos ou líquidos.
+e) Poluir o mar com resíduos sólidos ou líquidos;
+f) Utilizar o sonar, inclusive fora da área de aproximação.
 4 - A observação nocturna é proibida, excepto para fins científicos.

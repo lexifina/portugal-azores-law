@@ -1,5 +1,3 @@
 # Artigo 14.º
 ### Observação científica
-O disposto no artigo anterior aplica-se às acções de observação científica, com as seguintes adaptações:
-a) As autorizações podem ser isentas de taxas;
-b) Os observadores embarcados devem ser investigadores habilitados no domínio específico em causa.
+As acções de observação científica regem-se pelo disposto no Decreto-Lei n.º 140/99, de 24 de Abril.
