@@ -1,0 +1,5 @@
+# Artigo 32.º
+### Direito transitório
+1 - As pessoas singulares ou colectivas que, anteriormente à data de entrada em vigor do presente diploma, tinham por objecto a realização de operações turísticas de observação de cetáceos devem, caso pretendam prosseguir tal actividade, requerer a licença prevista no presente diploma nos 30 dias seguintes àquela data, sob pena de incorrerem na sanção prevista na alínea a) do n.º 1 do artigo 26.º
+2 - No caso previsto no número anterior, as pessoas singulares ou colectivas terão de comprovar e cumprir o disposto no n.º 2 do artigo 5.º, salvo a respectiva alínea f), para cujo cumprimento dispõem do prazo de um ano contado da entrada em vigor do presente diploma, sob pena de caducidade da licença entretanto concedida.
+3 - A acção de formação mencionada na alínea b) do artigo 10.º é de inscrição obrigatória para as tripulações das plataformas utilizadas pelas pessoas singulares ou colectivas abrangidas pelo número anterior, sob pena de estas incorrerem na sanção prevista na alínea a) do n.º 2 do artigo 26.º
