@@ -4,4 +4,4 @@
 2 - O objecto da SPRHI, S. A., inclui, nomeadamente, as seguintes actividades:
 a) Promoção de habitação social, destinada a realojamento de pessoas residentes em barracas ou edificações abarracadas, e de outros programas de habitação;
 b) Gestão patrimonial ou imobiliária de parques habitacionais e de outros bens da Região que lhe sejam afectos;
-c) Execução de obras a cargo de outras entidades públicas ou privadas cuja realização seja conveniente para o interesse geral.
+c) Execução de obras a cargo de outras entidades públicas cuja realização seja conveniente para o interesse geral.
