@@ -1,0 +1,6 @@
+# Artigo 15.º
+### Intransmissibilidade
+1 - Salvo autorização expressa da entidade competente para a concessão das licenças, não podem ser transmitidos a terceiros, sob qualquer forma, os direitos e deveres que foram cometidos aos seus titulares, bem como as construções e edificações que hajam custeado.
+2 - Não se inclui na proibição do número anterior a transmissão por morte, mas o membro do Governo Regional com competência no sector do transporte aéreo poderá revogar as respectivas licenças se a herança permanecer indivisa por mais de 120 dias ou se, no prazo de 30 dias a contar do conhecimento da pessoa do sucessor, esta não reunir os requisitos de capacidade e idoneidade que serviram de base à concessão da licença.
+3 - Os direitos emergentes das licenças concedidas, bem como as construções efectuadas pelos seus titulares, não podem ser objecto de garantia real nem de arresto, penhora ou qualquer outra providência semelhante sem prévia autorização do membro do Governo Regional com competência no sector do transporte aéreo, destinada a verificar a existência dos requisitos de capacidade e idoneidade do adquirente dos mesmos.
+4 - A violação do disposto nos n.os 1 e 3 determina a nulidade do acto de transmissão, substituição ou constituição de hipoteca ou de qualquer outra garantia real, sem prejuízo das outras sanções que ao caso couberem.
