@@ -2,4 +2,8 @@
 ## Do pessoal
 # Artigo 15.º
 ### Pessoal dirigente
-O pessoal dirigente recrutado e nomeado nos termos da lei geral pode também sê-lo de acordo com o disposto no artigo 24.º do Decreto-Lei n.º 323/89, de 26 de Setembro, aplicado à Região pelo Decreto Legislativo Regional n.º 1/90/A, de 15 de Janeiro, de entre os titulares de licenciatura ou bacharelato com experiência de protecção civil, de oficiais das Forças Armadas ou das forças de segurança ou de individualidades de reconhecido mérito e experiência relevante para o cargo ou no exercício de funções de comando de corpo de bombeiros.
+1 - O pessoal dirigente do SRPCBA, bem como o dos demais serviços integrados na estrutura regional de protecção civil e bombeiros, designadamente os serviços municipais de protecção civil, é recrutado e nomeado nos termos previstos nos diplomas que contenham as respectivas orgânicas.
+2 - O recrutamento referido no número anterior será feito por concurso de entre:
+a) Titulares de licenciatura, curso superior que não confira licenciatura, bacharelato, ou equiparado, com reconhecimento ou experiência no domínio da protecção civil;
+b) Oficiais das Forças Armadas ou das forças de segurança, ou equiparados, ainda que na situação de reserva ou de reforma;
+c) Indivíduos com experiência no exercício de funções de comando ou coordenação de bombeiros.
