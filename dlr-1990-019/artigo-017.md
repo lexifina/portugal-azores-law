@@ -1,0 +1,9 @@
+# Artigo 17.º
+### Ajudas de custo
+1 - Os deputados que residam fora da ilha onde se realizam reuniões plenárias, da Mesa ou de comissões, ou outras convocadas pelo Presidente da Assembleia, têm direito à ajuda de custo fixada para os membros do Governo, abonada por cada dia de presença.
+2 - Imediatamente antes de cada período legislativo, os deputados nas condições do número anterior têm direito à ajuda de custo ali fixada, abonada por cada dia de presença na sede da Assembleia, num máximo de três.
+3 - Os deputados nas condições referidas no n.º 1 têm direito a ajuda de custo ali fixada, nos dias, não excedentes a três, em que, no período de funcionamento normal da Assembleia e nos meses em que não haja reuniões do Plenário, participem em reunião do respectivo grupo ou representação parlamentar na sede da Assembleia.
+4 - Os deputados que residam na ilha onde se realizam as reuniões têm direito a um terço da ajuda de custo fixada no n.º 1 deste artigo, desde que a distância entre a sua residência e o local dos trabalhos exceda 5 km.
+5 - Os deputados que realizem as deslocações previstas nos n.os 4, 5 e 6 do artigo anterior têm direito a ajudas de custo durante a permanência no círculo ou ilha visitada, a qual não poderá exceder 6 dias, salvo tratando-se de São Miguel, em que o limite máximo será de 10 dias.
+6 - Para além dos dias de serviço referidos nos números anteriores, os deputados têm direito a ajudas de custo nos dias em que se encontrem deslocados da sua residência por motivos de indisponibilidade de transporte, expressamente justificada quando exceda três dias, e ainda durante o período que mediar entre duas reuniões, desde que não exceda três dias e não se desloquem à sua residência.
+7 - Não haverá direito a ajudas de custo noutras deslocações, salvo quando em missão oficial de interesse relevante para a Assembleia, por deliberação da Mesa, caso a caso.
