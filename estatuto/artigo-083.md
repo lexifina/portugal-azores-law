@@ -1,5 +1,13 @@
-## Capítulo II
-## Delegado do Governo Regional
 # Artigo 83.º
-1 - Em cada ilha deve, sempre que as circunstâncias o aconselhem, ser nomeado um delegado do Governo Regional, que o representará, exercerá as competências e assegurará os serviços que lhe forem cometidos por lei, regulamento ou delegação.
-2 - O delegado do Governo Regional coordenará a acção das delegações das secretarias regionais previstas no artigo 84.º
+### Matérias de direito internacional
+Constituem, designadamente, matérias de direito internacional, geral ou comum, respeitando directamente à Região, para efeitos do artigo anterior:
+a) Utilização do território regional por entidades estrangeiras, em especial para bases militares;
+b) Protocolos celebrados com a NATO e outras organizações internacionais, em especial sobre instalações de natureza militar ou paramilitar;
+c) Participação de Portugal na União Europeia;
+d) Lei do mar;
+e) Utilização da zona económica exclusiva;
+f) Plataforma continental;
+g) Poluição do mar;
+h) Conservação e exploração de espécies vivas;
+i) Navegação aérea;
+j) Exploração do espaço aéreo controlado.

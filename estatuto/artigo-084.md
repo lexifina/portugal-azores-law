@@ -1,4 +1,3 @@
 # Artigo 84.º
-1 - Em cada ilha podem funcionar delegações das Secretarias Regionais.
-2 - Os serviços de apoio geral às diversas delegações podem ser comuns e ficarão na dependência do delegado do Governo Regional.
-3 - As delegações das Secretarias Regionais podem ser, em cada ilha, aglutinadas, na medida em que o volume das suas actividades o justifique, e, nesse caso, funcionarão na dependência do delegado do Governo Regional.
+### Participação e representação da Região em acordos e tratados internacionais
+A participação nas negociações de tratados e acordos internacionais que digam respeito à Região realizar-se-á através de representação efectiva na delegação nacional que negociar o tratado ou acordo, bem como nas respectivas comissões de execução ou fiscalização.

@@ -1,3 +1,4 @@
 # Artigo 63.º
-1 - Os departamentos regionais denominam-se Secretarias Regionais e são dirigidos por um Secretário Regional, sem prejuízo do n.º 2 do artigo 48.º
-2 - Os Subsecretários Regionais terão os poderes que lhes forem delegados pelos respectivos Secretários.
+### Conselho do Governo Regional
+1 - A orientação geral do Governo Regional será definida em Conselho.
+2 - Constituem o Conselho do Governo Regional o Presidente, os Secretários Regionais e os Vice-Presidentes, se os houver.

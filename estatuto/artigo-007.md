@@ -1,2 +1,3 @@
 # Artigo 7.º
-A soberania da República é especialmente representada na Região por um Ministro da República.
+### Representação do Estado;
+O Estado é representado na Região pelo Ministro da República.

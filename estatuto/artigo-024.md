@@ -1,6 +1,3 @@
 # Artigo 24.º
-Os deputados gozam dos seguintes direitos e regalias:
-a) Adiamento do serviço militar, do serviço cívico ou da mobilização civil;
-b) Livre trânsito, em todos os locais públicos de acesso condicionado, no exercício das suas funções ou por causa delas;
-c) Cartão especial de identificação e passaporte especial;
-d) Subsídios e outras regalias determinados por decreto legislativo regional.
+### Estatuto dos Deputados
+O Estatuto dos Deputados à Assembleia Legislativa Regional é equiparado ao Estatuto dos Deputados à Assembleia da República no que se refere aos direitos, regalias e imunidades consagrados constitucionalmente.

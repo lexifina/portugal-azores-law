@@ -1,2 +1,4 @@
 # Artigo 76.º
-A participação nas negociações de tratados e acordos internacionais que digam respeito à Região realizar-se-á através de representação efectiva na delegação nacional que negociar o tratado ou acordo, bem como nas respectivas comissões de execução ou fiscalização.
+### Inconstitucionalidade por omissão
+l - A requerimento do Presidente da Assembleia Legislativa Regional, com fundamento na violação dos direitos da Região, o Tribunal Constitucional aprecia e verifica o não cumprimento da Constituição por omissão das medidas legislativas necessárias para tornar exequíveis as normas constitucionais.
+2 - Quando o Tribunal Constitucional verificar a existência de inconstitucionalidade por omissão, dará disso conhecimento ao órgão legislativo competente.

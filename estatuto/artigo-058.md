@@ -1,3 +1,3 @@
 # Artigo 58.º
-1 - Os decretos regulamentares regionais são enviados ao Ministro da República para por ele serem assinados e mandados publicar.
-2 - No prazo de vinte dias, contados da recepção de qualquer decreto do Governo Regional que lhe tenha sido enviado para assinatura, deve o Ministro da República assiná-lo ou recusar a assinatura, comunicando por escrito o sentido desta recusa ao Governo Regional, o qual poderá converter o decreto em proposta a apresentar à Assembleia Regional.
+### Estatuto dos membros do Governo Regional
+O estatuto dos membros do Governo Regional, no que se refere aos deveres, responsabilidades, incompatibilidades, direitos, regalias e imunidades, é equiparado ao dos membros do Governo da República.

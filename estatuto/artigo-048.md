@@ -1,9 +1,5 @@
 # Artigo 48.º
-1 - Implicam a demissão do Governo Regional:
-a) O início de nova legislatura;
-b) A aceitação pelo Ministro da República do pedido de exoneração apresentado pelo Presidente do Governo Regional;
-c) A morte ou impossibilidade física duradoura do Presidente do Governo Regional;
-d) A rejeição do programa do Governo;
-e) A não aprovação de uma moção de confiança;
-f) A aprovação de uma moção de censura por maioria absoluta dos deputados em efectividade de funções.
-2 - Em caso de demissão, os membros do Governo cessante permanecerão em funções até à posse do novo Governo.
+### Formação
+1 - O Presidente do Governo Regional é nomeado pelo Ministro da República, tendo em conta os resultados das eleições para a Assembleia Legislativa Regional, ouvidos os partidos políticos nela representados.
+2 - Os Vice-Presidentes, os Secretários e os Subsecretários Regionais são nomeados e exonerados pelo Ministro da República, sob proposta do Presidente do Governo Regional.
+3 - As funções dos Vice-Presidentes e dos Secretários Regionais cessam com as do Presidente do Governo Regional e as dos Subsecretários com as dos respectivos Secretários.

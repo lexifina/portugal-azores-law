@@ -1,4 +1,7 @@
-## Capítulo III
-## Serviços regionais
+## Título V
+## Administração Regional
+## Capítulo I
+## Representatividade de cada ilha
 # Artigo 85.º
-Os órgãos regionais podem criar os serviços e os institutos públicos que se mostrem necessários à administração da Região.
+### A ilha e a organização administrativa
+A realidade geográfica, económica, social e cultural que cada ilha constitui reflectir-se-á na organização administrativa do arquipélago, por forma a melhor servir a população respectiva e, simultaneamente, a incentivar a unidade do povo açoriano.

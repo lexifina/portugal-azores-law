@@ -1,2 +1,3 @@
 # Artigo 98.º
-Os benefícios decorrentes de tratados e acordos internacionais directamente respeitantes à Região, tal como definido no artigo 1.º deste Estatuto, serão afectados a projectos de desenvolvimento desta.
+### Receitas
+A Região dispõe, nos termos do Estatuto e da Lei de Finanças das Regiões Autónomas, das receitas fiscais nela cobradas ou geradas, bem como de uma participação nas receitas tributárias do Estado, estabelecida de acordo com um princípio que assegure a efectiva solidariedade nacional, e de outras receitas que lhe sejam atribuídas e afecta-as às suas despesas.

@@ -1,3 +1,4 @@
 # Artigo 80.º
-1 - O Conselho de Ilha é constituído pelos presidentes das assembleias e câmaras municipais da respectiva ilha e por um presidente de junta de freguesia designado por cada uma das assembleias municipais.
-2 - Os deputados eleitos pelo círculo eleitoral da respectiva ilha poderão participar nas reuniões do Conselho de Ilha, sem direito a voto.
+### Prazos
+l - Os pareceres devem ser emitidos no prazo de 20 ou 15 dias, consoante a emissão do parecer seja, respectivamente, da competência da Assembleia Legislativa Regional ou do Governo Regional, e no prazo de 10 dias, em caso de urgência.
+2 - Os prazos referidos no número anterior contam-se a partir da recepção dos pedidos de audição nos respectivos órgãos de governo próprio.

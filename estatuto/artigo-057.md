@@ -1,4 +1,6 @@
 # Artigo 57.º
-1 - Revestem a forma de decreto regulamentar regional os actos do Governo Regional previstos nas alíneas aI) e b) do artigo anterior, quando tal seja determinado por decreto legislativo regional ou quando se trate de regulamentos independentes.
-2 - Os decretos regulamentares regionais devem ser publicados no Diário da República.
-3 - Todos os demais actos do Governo Regional e dos seus membros devem ser publicados no Jornal Oficial da Região, em termos definidos por decreto regional.
+### Exercício de funções
+1 - Os membros do Governo Regional não podem ser prejudicados na sua colocação, nos seus benefícios sociais ou no seu emprego permanente por virtude do desempenho das suas funções.
+2 - Os membros do Governo Regional estão dispensados de todas as actividades profissionais, públicas ou privadas, durante o período do exercício do cargo.
+3 - O desempenho das funções conta como tempo de serviço para todos os efeitos, salvo para aqueles que pressuponham o exercício efectivo da actividade profissional.
+4 - No caso de função pública temporária por virtude de lei ou contrato, o desempenho das funções de membro do Governo Regional suspende a contagem do respectivo prazo.

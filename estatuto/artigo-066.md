@@ -1,2 +1,4 @@
 # Artigo 66.º
-Para o desempenho das funções previstas na alínea e) do artigo anterior, o Ministro da República dispõe de competência ministerial e tem assento no Conselho de Ministros nas reuniões que tratem de assuntos de interesse para a Região.
+### Visitas obrigatórias do Governo Regional
+1 - O Governo Regional visitará cada uma das ilhas da Região pelo menos uma vez por ano.
+2 - Por ocasião de uma das visitas referidas no número anterior, o Conselho do Governo reunirá na ilha visitada.

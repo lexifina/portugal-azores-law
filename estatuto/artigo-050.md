@@ -1,5 +1,6 @@
-## Secção II
-## Estatuto dos Membros do Governo
 # Artigo 50.º
-1 - Os membros do Governo Regional são civil e criminalmente responsáveis pelos actos que praticarem ou legalizarem.
-2 - Movido procedimento criminal contra um membro do Governo Regional e indiciado este definitivamente por despacho de pronúncia ou equivalente, salvo no caso de crime punível com pena maior, a Assembleia Regional decide se o membro do Governo deve ou não ser suspenso para efeito do seguimento do processo.
+### Programa do Governo
+1 - O Programa do Governo será apresentado à Assembleia Legislativa Regional no prazo máximo de 15 dias a seguir à tomada de posse do Governo Regional.
+2 - Se o Plenário da Assembleia Legislativa Regional não se encontrar em funcionamento, será obrigatoriamente convocado para o efeito pelo seu Presidente.
+3 - O debate não poderá exceder três dias e, até ao seu encerramento, poderá a rejeição do Programa do Governo Regional ser proposta por qualquer grupo parlamentar.
+4 - A rejeição do Programa do Governo Regional exige maioria absoluta dos Deputados em efectividade de funções.

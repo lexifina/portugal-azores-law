@@ -1,2 +1,3 @@
 # Artigo 99.º
-De harmonia com o princípio da solidariedade nacional, o Estado dotará a Região dos meios financeiros necessários à realização dos investimentos constantes do Plano Regional que excederem a capacidade de financiamento dela, de acordo com um programa de transferência de fundos a acordar entre o Governo da República e o Governo Regional.
+### Solidariedade nacional
+A solidariedade nacional vincula o Estado a suportar os custos das desigualdades derivadas da insularidade, designadamente no respeitante a comunicações, transportes, educação, cultura, segurança social e saúde, incentivando a progressiva inserção da Região em espaços económicos amplos, de dimensão nacional e internacional.

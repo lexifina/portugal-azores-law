@@ -1,9 +1,5 @@
 # Artigo 74.º
-Tendo em vista o exercício efectivo dos direitos de audição e participação conferidos à Região, o Governo da República e o Governo Regional elaborarão protocolos de colaboração permanente sobre matéria de interesse comum ao Estado e à Região, designadamente sobre:
-a) Situação económica e financeira nacional;
-b) Definição das políticas fiscal, monetária e financeira;
-c) Adesão ou integração do País em organizações económicas internacionais;
-d) Trabalhos preparatórios, acordos, tratados e textos de direito internacional;
-e) Benefícios decorrentes de tratados ou de acordos internacionais que digam directamente respeito à Região;
-f) Lançamento de empréstimos internos;
-g) Prestação de apoios técnicos.
+### Assinatura e veto do Ministro da República
+1 - No prazo de 15 dias contados da recepção de qualquer decreto da Assembleia Legislativa Regional que lhe haja sido enviado para assinatura, ou da publicação da decisão do Tribunal Constitucional que não se pronuncie pela inconstitucionalidade de norma dele constante, deve o Ministro da República assiná-lo ou exercer o direito de veto, solicitando nova apreciação do diploma em mensagem fundamentada.
+2 - Se a Assembleia Legislativa Regional confirmar o voto por maioria absoluta dos seus membros em efectividade de funções, o Ministro da República deverá assinar o diploma no prazo de oito dias a contar da sua recepção.
+3 - No prazo de 20 dias contados da recepção de qualquer decreto do Governo Regional que lhe tenha sido enviado para assinatura, deve o Ministro da República assiná-lo ou recusar a assinatura, comunicando, por escrito, o sentido dessa recusa ao Governo Regional, o qual poderá converter o decreto em proposta a apresentar à Assembleia Legislativa Regional.

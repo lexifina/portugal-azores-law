@@ -1,2 +1,7 @@
+## Título VI
+## Regime económico e financeiro
+## Capítulo I
+## Princípios gerais
 # Artigo 94.º
-A Região disporá dos instrumentos necessários a assegurar o contrôle regional dos meios de pagamento em circulação, designadamente de um instituto de crédito e de um fundo cambial.
+### Linhas de orientação específica
+A política de desenvolvimento económico e social da Região terá linhas de orientação específica, que assentarão nas características intrínsecas do arquipélago.

@@ -1,3 +1,3 @@
 # Artigo 86.º
-1 - A organização administrativa regional deve reger-se pelos princípios da descentralização e da desconcentração de serviços.
-2 - Procurar-se-ão soluções maleáveis adaptadas aos condicionalismos de cada ilha, com vista a uma actividade administrativa rápida e eficaz, sem prejuízo, porém, da qualidade dos serviços prestados e da unidade de critérios perante os cidadãos.
+### Município da ilha do Corvo
+Na ilha do Corvo, por condicionalismos que lhe são próprios, não há freguesia, pelo que acrescem às competências do município ali existente as competências genéricas das freguesias previstas na Constituição e na lei, nisso e no mais com as adaptações que o facto exige.

@@ -1,5 +1,6 @@
-## Título IV
-## Disposições especiais sobre relações entre os Órgãos de Soberania e os órgãos regionais
+## Secção II
+## Fiscalização da constitucionalidade e da legalidade
 # Artigo 72.º
-1 - A pronúncia da Assembleia Regional sobre projectos e propostas de lei apresentados à Assembleia da República e relativos a questões da competência desta que respeitem à Região incidirá sobre matérias de interesse específico como tais definidas no artigo 33.º e efectuar-se-á no prazo máximo de 30 dias, se o Plenário estiver em funcionamento, ou de 60 dias, se não estiver.
-2 - Para os efeitos do disposto no número anterior, poderá a Assembleia ser convocada extraordinariamente pelo seu Presidente.
+### Fiscalização preventiva
+1 - O Ministro da República pode requerer ao Tribunal Constitucional a apreciação preventiva da constitucionalidade de qualquer norma constante de decreto legislativo regional ou de decreto regulamentar de lei geral da República que lhe tenham sido enviados para assinatura.
+2 - A apreciação preventiva da constitucionalidade deve ser requerida no prazo de oito dias a contar da data da recepção do diploma.

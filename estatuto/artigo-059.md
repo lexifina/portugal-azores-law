@@ -1,5 +1,3 @@
-## Secção IV
-## Funcionamento
 # Artigo 59.º
-1 - A orientação geral do Governo Regional será definida em Conselho.
-2 - Constituem o Conselho do Governo Regional o Presidente e os Secretários Regionais.
+### Substituição do Presidente do Governo
+As funções de Presidente do Governo Regional serão asseguradas, durante a vacatura do cargo, pelo Presidente da Assembleia Regional.
