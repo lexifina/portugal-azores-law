@@ -1,0 +1,7 @@
+# Artigo 35.º
+### Contra-ordenações
+1 - Sem prejuízo de outras sanções que se mostrem aplicáveis, constituem contra-ordenações, puníveis com a aplicação das seguintes coimas:
+a) De (euro) 2000 a (euro) 4000 e de (euro) 25000 a (euro) 45000, a violação dos n.os 4 e 5 do artigo 29.º, conforme seja praticada por pessoa singular ou colectiva, respectivamente;
+b) De (euro) 2000 a (euro) 5000 e de (euro) 8000 a (euro) 50000, a violação dos n.os 1 e 2 do artigo 27.º, conforme seja praticada por pessoa singular ou colectiva, respectivamente;
+c) De (euro) 3000 a (euro) 5000 e de (euro) 30000 a (euro) 50000, a violação do n.º 2 do artigo 4.º, dos n.os 1 e 2 do artigo 22.º e do n.º 1 do artigo 25.º, conforme seja praticada por pessoa singular ou colectiva, respectivamente.
+2 - O produto de todas as coimas constitui receita da Região Autónoma dos Açores.

@@ -1,0 +1,7 @@
+# Artigo 22.º
+### Suspensão de trabalhos
+1 - Quando, em virtude de trabalhos de qualquer natureza, como sejam remoção de terras, dragagens, demolições, remoção de areias ou outros materiais, prospecções petrolíferas ou de minerais, forem encontrados ou localizados bens que integrem o património arqueológico, terrestre ou subquático, o achador ou a entidade responsável pela execução da obra suspenderá de imediato os trabalhos e procederá à comunicação dos achados ao departamento da administração regional autónoma competente em matéria de cultura.
+2 - Os trabalhos ficarão suspensos até que seja autorizada a respectiva continuação.
+3 - O departamento da administração regional autónoma competente em matéria de cultura deverá, num prazo de 10 dias a contar do recebimento do auto de achado, decidir sobre a continuidade dos trabalhos face à relevância patrimonial dos mesmos.
+4 - Deverá o departamento do Governo Regional competente em matéria de cultura elaborar um relatório contendo a avaliação patrimonial e arqueológica dos achados, definindo e delineando uma estratégia de actuação de emergência, de modo a salvaguardar esses testemunhos arqueológicos.
+5 - Quando o achador ou a entidade responsável pela execução de trabalhos não suspender ou prosseguir os trabalhos sem autorização do departamento da administração regional autónoma competente em matéria de cultura, este poderá desencadear o embargo administrativo.
