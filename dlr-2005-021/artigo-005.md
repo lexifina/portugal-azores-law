@@ -1,0 +1,6 @@
+# Artigo 5.º
+Áreas
+1 - As habitações a construir, de acordo com a respectiva tipologia, têm como limites mínimos de área bruta os previstos no Regulamento Geral das Edificações Urbanas e como limites máximos os constantes do anexo I ao presente diploma, do qual faz parte integrante.
+2 - A área bruta das habitações unifamiliares poderá compreender uma margem adicional de até 20%, nos termos a definir em diploma regulamentar.
+3 - A área bruta habitacional total dos edifícios multifamiliares de cada empreendimento tem como limite máximo o que resultar da aplicação dos valores de área bruta indicados no n.º 1 às diversas tipologias que o constituem, podendo admitir-se uma margem adicional de 3% que nunca pode resultar num acréscimo de área por fogo superior a 10%, salvo em casos excepcionais relacionados com necessidades de conformação do projecto.
+4 - Nos edifícios multifamiliares a área bruta total do equipamento social e espaços comerciais não pode ser superior a 20% da área bruta total das áreas habitacionais e partes acessórias dos fogos do empreendimento em que estão integrados, salvo em casos excepcionais, devidamente fundamentados e aprovados pelo departamento do Governo Regional competente em matéria de habitação, designadamente naqueles em que a natureza do empreendimento justifique uma maior predominância da vertente do equipamento social.
