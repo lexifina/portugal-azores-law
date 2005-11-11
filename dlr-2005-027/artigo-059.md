@@ -1,0 +1,7 @@
+# Artigo 59.º
+### Actividades, estruturas e edifícios já existentes
+1 - As actividades, estabelecimentos e instalações da tipologia ou com as características previstas no n.º 1 do artigo 21.º que já se encontrem licenciadas à data de entrada em vigor do presente diploma, na área de protecção de edifícios escolares existentes ou em construção, podem manter-se até ao termo do período de validade do respectivo licenciamento.
+2 - Quando o licenciamento termine antes de decorridos 10 anos, após a entrada em vigor do presente diploma, pode o mesmo ser excepcionalmente prolongado até àquele limite temporal.
+3 - O disposto nos números anteriores aplica-se às actividades, estabelecimentos e instalações existentes em local que fique abrangido pela zona de protecção de novos edifícios escolares, contando-se os prazos ali estabelecidos a partir da data de entrada em vigor do decreto que estabeleça medidas cautelares na zona de implantação do edifício ou, quando este não exista, da data de notificação ao município da intenção de construção da escola ou de aprovação da carta educativa ou da carta escolar onde aquela esteja prevista.
+4 - Não existindo qualquer das condições previstas na parte final do número anterior, os prazos contam-se a partir do 1.º dia do ano escolar em que o imóvel seja utilizado para fins educativos.
+5 - O disposto no artigo 22.º não se aplica às construções que já se encontrem licenciadas aquando da notificação a que se refere o n.º 3 do artigo 20.º ou à data de aprovação da carta educativa ou carta escolar.

@@ -1,0 +1,7 @@
+# Artigo 17.º
+### Elaboração
+1 - A elaboração da carta educativa é da competência da câmara municipal, nos termos da alínea a) do n.º 2 do artigo 19.º da Lei n.º 159/99, de 14 de Setembro, sendo aprovada pela assembleia municipal respectiva, após discussão e parecer do conselho local de educação.
+2 - Cabe à administração regional autónoma, através do departamento competente em matéria de educação, prestar o apoio técnico necessário à elaboração da carta educativa e disponibilizar toda a informação que se mostre necessária e não seja da competência da autarquia.
+3 - A carta educativa integra o plano director municipal respectivo, estando, nestes termos, sujeita a ratificação governamental, mediante parecer prévio vinculativo do departamento da administração regional autónoma competente em matéria de educação.
+4 - Podem os municípios articular entre si, nomeadamente através das respectivas associações, e com a administração regional autónoma, o desenvolvimento de instrumentos de planeamento e ordenamento da rede educativa de nível supramunicipal.
+5 - Na elaboração da carta educativa, as câmaras municipais e o departamento da administração regional autónoma competente em matéria de educação devem articular estreitamente as suas intervenções, de forma a garantir os princípios, objectivos e parâmetros técnicos estatuídos no presente diploma quanto ao ordenamento da rede educativa, bem como à eficácia dos programas e projectos supramunicipais ou de interesse supramunicipal.

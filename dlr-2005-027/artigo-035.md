@@ -1,0 +1,6 @@
+# Artigo 35.º
+### Matérias e substâncias perigosas
+1 - A utilização de matérias ou substâncias particularmente inflamáveis ou explosivas deve ser limitada ao estritamente necessário e sob reserva das condições estabelecidas nos números seguintes.
+2 - A utilização de matérias ou substâncias perigosas em actividades de ensino ou de experimentação apenas é permitida em locais expressamente concebidos para tal, tais como salas de trabalhos práticos, laboratórios, oficinas e respectivas salas de preparação.
+3 - Não são permitidos a produção, manipulação, depósito ou armazenamento de matérias ou substâncias perigosas nas vias de evacuação nem nos locais classificados como de risco B ou D nos termos do Regulamento de Segurança contra Incêndio em Edifícios Escolares, aprovado pelo Decreto-Lei n.º 414/98, de 31 de Dezembro.
+4 - As quantidades de matérias ou substâncias perigosas nos locais concebidos para a sua utilização ou manipulação devem ser limitadas às necessárias a dois dias de funcionamento, sendo a quantidade de líquidos inflamáveis, com ponto de inflamação inferior a 55ºC, limitada a 10 l e a de líquidos inflamáveis, com ponto de inflamação igual ou superior a 55ºC, limitada a 150 l.
