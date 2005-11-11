@@ -1,7 +1,3 @@
-## Capítulo II
-## Modalidades dos contratos
-## Secção I
-## Contratos de cooperação
 ## Subsecção I
 ## Comparticipação financeira indirecta
 # Artigo 10.º
