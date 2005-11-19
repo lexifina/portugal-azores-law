@@ -1,0 +1,5 @@
+# Artigo 82.º
+### Bens objecto de financiamento público
+1 - Salvo autorização em contrário, concedida por resolução do conselho do Governo Regional, os bens comparticipados por fundos públicos transferidos para as entidades proprietárias ficam afectos, por um período não inferior a 30 anos, ao ensino, incluindo o ensino profissional ou, quando este se revele desnecessário no respectivo tecido social, a outras actividades educativas tuteladas ou reconhecidas como de interesse público pelo Governo Regional.
+2 - Sem prejuízo do disposto no número anterior, a alienação do património adquirido, no todo ou em parte, através de financiamento público, regional, nacional ou comunitário fica condicionada a autorização prévia a conceder por resolução do conselho do Governo Regional.
+3 - No caso de alienação do património adquirido através do financiamento público, ou no caso de extinção da actividade da escola, reverte a favor da Região o valor correspondente à parte coberta por investimento público, incluindo o comunitário.

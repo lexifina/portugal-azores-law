@@ -1,0 +1,6 @@
+# Artigo 52.º
+### Redução complementar da mensalidade
+1 - Com o objectivo de promover maior justiça social no acesso ao ensino particular e cooperativo, pode ser concedida às valências educativas privadas uma comparticipação destinada a permitir uma redução complementar da propina ou mensalidade que seja devida por alunos provenientes de agregados familiares desfavorecidos.
+2 - A redução da mensalidade é feita tendo como referência o escalão de capitação de rendimento, calculado nos mesmos termos que estiveram fixados para atribuição de benefícios da acção social escolar nos estabelecimentos de ensino da rede pública.
+3 - Quando o mesmo agregado familiar tiver mais de um educando a frequentar um ou mais estabelecimentos de educação e de ensino da rede privada e cooperativa, incluindo jardins-de-infância, tem direito a uma redução suplementar a fixar no regulamento da acção social escolar.
+4 - Aos educandos que se encontrem à guarda de instituições particulares de solidariedade social pode, mediante requerimento fundamentado dirigido ao director regional competente em matéria de administração educativa, ser concedida a redução total da propina ou mensalidade, atendendo à sua condição socio-económica.
