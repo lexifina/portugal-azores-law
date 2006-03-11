@@ -1,5 +1,3 @@
-## Secção II
-## Património arqueológico subaquático
 # Artigo 24.º
 ### Trabalhos arqueológicos subaquáticos
 1 - Consideram-se trabalhos arqueológicos subaquáticos as acções que, de acordo com uma metodologia arqueológica, tenham por objecto a prospecção, detecção, localização, sondagem, escavação, remoção, recuperação, tratamento, conservação e protecção dos bens do património cultural subaquático.

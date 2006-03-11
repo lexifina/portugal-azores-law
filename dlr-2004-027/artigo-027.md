@@ -1,3 +1,5 @@
+## Secção III
+## Propriedade dos bens e inventariação
 # Artigo 27.º
 ### Achados fortuitos
 1 - Quem por acaso achar ou localizar quaisquer dos bens previstos no artigo 23.º deverá comunicar a ocorrência directamente ao departamento do Governo Regional competente em matéria de cultura, ou a qualquer outra autoridade policial, ou, ainda, no caso de ocorrer em meio subaquático, ao órgão local do sistema de autoridade marítima ou estância aduaneira com jurisdição sobre a área do achado, no prazo de quarenta e oito horas.
