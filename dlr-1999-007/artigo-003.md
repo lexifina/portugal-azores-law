@@ -10,23 +10,22 @@ f) Desenvolver acções de formação e de informação orientadas para a sensib
 g) Promover o levantamento, previsão e avaliação dos riscos colectivos de origem natural ou tecnológica;
 h) Inventariar e inspeccionar os serviços, meios e recursos de protecção civil disponíveis.
 2 - Na área dos bombeiros, são atribuições do SRPCBA:
-a) Apoiar o exercício da tutela governamental sobre as associações humanitárias de bombeiros, salvaguardando a sua personalidade jurídica e administrativa;
-b) Exercer a acção tutelar sobre os corpos de bombeiros, nomeadamente zelando pela observância das leis e regulamentos;
-c) Inspeccionar a prontidão operacional dos corpos de bombeiros;
-d) Superintender na instrução do pessoal dos corpos de bombeiros;
-e) Aprovar os regulamentos internos dos corpos de bombeiros, ouvidas as federações de bombeiros da Região Autónoma dos Açores;
-f) Fiscalizar o estado de conservação do equipamento e demais material dos corpos de bombeiros, inventariando as carências e definindo prioridades na colmatação destas;
-g) Fixar as zonas geográficas de acção restrita dos corpos de bombeiros, procedendo à respectiva publicação em ordem de serviço;
-h) Instruir e submeter à homologação do membro do Governo que tutela o SRPCBA, ouvidas as federações de bombeiros da Região Autónoma dos Açores, os processos de criação de novos corpos, ou secções de bombeiros, bem como dos respectivos quadros de pessoal;
-i) Estabelecer relações de cooperação com entidades internacionais, nacionais, regionais ou locais, em matérias relacionadas com a acção dos corpos de bombeiros;
-j) Pronunciar-se acerca do ordenamento territorial dos meios de prevenção e extinção de incêndios e de outras formas de socorrismo confiadas aos corpos de bombeiros;
-k) Aplicar e executar os regulamentos de segurança contra incêndios, relativamente às suas áreas de competência;
-l) Dar parecer obrigatório, quanto a segurança contra incêndios, no que respeita a redes de captação e distribuição de água em aglomerados urbanos;
-m) Instruir e dar parecer nos processos de declaração de utilidade pública das respectivas associações;
-n) Definir e apoiar um programa básico de construção ou ampliação de quartéis de corpos de bombeiros;
-o) Definir as normas a que deve obedecer o equipamento, fardamento e demais material dos corpos de bombeiros, com vista à normalização técnica dos respectivos meios e apoiar financeiramente ou em espécie a sua aquisição;
-p) Promover as acções necessárias a um correcto planeamento e conveniente racionalização dos meios a utilizar pelos corpos de bombeiros;
-q) Fomentar o espírito de voluntariado, com vista à participação das populações na prevenção, segurança e combate a incêndios e nas demais formas de socorro confiadas aos corpos de bombeiros.
+a) Exercer a acção tutelar sobre os corpos de bombeiros, nomeadamente zelando pela observância das leis e regulamentos;
+b) Inspeccionar a prontidão operacional dos corpos de bombeiros;
+c) Superintender na instrução do pessoal dos corpos de bombeiros;
+d) Aprovar os regulamentos internos dos corpos de bombeiros, ouvidas as federações de bombeiros da Região Autónoma dos Açores;
+e) Fiscalizar o estado de conservação do equipamento e demais material dos corpos de bombeiros, inventariando as carências e definindo prioridades na colmatação destas;
+f) Fixar as zonas geográficas de acção restrita dos corpos de bombeiros, procedendo à respectiva publicação em ordem de serviço;
+g) Instruir e submeter à homologação do membro do Governo que tutela o SRPCBA, ouvidas as federações de bombeiros da Região Autónoma dos Açores, os processos de criação de novos corpos, ou secções de bombeiros, bem como dos respectivos quadros de pessoal;
+h) Estabelecer relações de cooperação com entidades internacionais, nacionais, regionais ou locais, em matérias relacionadas com a acção dos corpos de bombeiros;
+i) Pronunciar-se acerca do ordenamento territorial dos meios de prevenção e extinção de incêndios e de outras formas de socorrismo confiadas aos corpos de bombeiros;
+j) Aplicar e executar os regulamentos de segurança contra incêndios, relativamente às suas áreas de competência;
+k) Dar parecer obrigatório, quanto a segurança contra incêndios, no que respeita a redes de captação e distribuição de água em aglomerados urbanos;
+l) Instruir e dar parecer nos processos de declaração de utilidade pública das respectivas associações;
+m) Definir e apoiar um programa básico de construção ou ampliação de quartéis de corpos de bombeiros;
+n) Definir as normas a que deve obedecer o equipamento, fardamento e demais material dos corpos de bombeiros, com vista à normalização técnica dos respectivos meios e apoiar financeiramente ou em espécie a sua aquisição;
+o) Promover as acções necessárias a um correcto planeamento e conveniente racionalização dos meios a utilizar pelos corpos de bombeiros;
+p) Fomentar o espírito de voluntariado, com vista à participação das populações na prevenção, segurança e combate a incêndios e nas demais formas de socorro confiadas aos corpos de bombeiros.
 3 - Na área de emergência médica, são atribuições do SRPCBA:
 a) Assegurar, directamente ou através de acordos de cooperação, um sistema de transporte terrestre de emergência médica;
 b) Propor e promover a formação dos tripulantes de ambulância;
