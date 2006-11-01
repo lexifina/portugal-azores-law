@@ -1,0 +1,3 @@
+# Artigo 17.º
+### Colaboração de militares e elementos das forças de segurança
+O SRPCBA pode obter a colaboração de oficiais das Forças Armadas e de segurança, na reserva e reforma, com vista ao desempenho de funções específicas adequadas à respectiva formação, nos termos das leis em vigor, nomeadamente o disposto no artigo 79.º do Decreto-Lei n.º 498/72, de 9 de Dezembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 215/87, de 29 de Maio, no artigo 121.º do Estatuto dos Militares das Forças Armadas, aprovado pelo Decreto-Lei n.º 236/99, de 25 de Junho, com as alterações que lhe foram dadas pela Lei n.º 25/2000, de 23 de Agosto, e no artigo 16.º do Decreto-Lei n.º 328/99, de 18 de Agosto.
