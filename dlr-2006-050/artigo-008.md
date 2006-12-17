@@ -1,0 +1,4 @@
+# Artigo 8.º
+### Estrutura da informação individual
+1 - O pessoal interessado na mudança de local de trabalho, de serviço ou de carreira preenche um formulário de identificação profissional de acordo com modelo disponível em formato electrónico, especificando a carreira e categoria, as habilitações literárias e profissionais, a remuneração auferida e o local de trabalho pretendido, através da indicação de uma ou mais localidades e ou concelhos dos serviços da sua preferência, devendo ainda identificar-se através do nome completo, da data de nascimento, da morada, do número de telefone e do endereço electrónico.
+2 - Os dados de identificação referidos no número anterior são divulgados pela BEP - Açores apenas com autorização do interessado, podendo este desde logo optar por divulgar todos ou alguns daqueles dados.

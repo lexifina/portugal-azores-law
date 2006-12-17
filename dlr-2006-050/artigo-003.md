@@ -1,0 +1,4 @@
+# Artigo 3.º
+### Âmbito de aplicação
+1 - O presente diploma aplica-se aos serviços e organismos da Assembleia Legislativa e da administração regional autónoma, da Região Autónoma dos Açores, incluindo os institutos públicos regionais, nas modalidades de serviços personalizados, de estabelecimentos públicos e de fundos públicos.
+2 - As autarquias locais da Região Autónoma dos Açores podem utilizar a BEP - Açores mediante a celebração de um protocolo com o membro do Governo Regional com competência na área da administração pública.
