@@ -2,7 +2,7 @@
 ### Competências da comissão de fiscalização
 À comissão de fiscalização compete:
 a) Verificar o cumprimento das leis, regulamentos e normas técnicas aplicadas;
-b) Verificar a execução dos instrumentos de gestão previsonal;
+b) Verificar a execução dos instrumentos de gestão previsional;
 c) Examinar a contabilidade do SRPCBA;
 d) Verificar se o património do SRPCBA está correctamente avaliado;
 e) Emitir parecer sobre os documentos de prestação de contas do ano findo;
