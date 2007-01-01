@@ -4,7 +4,7 @@
 ### Comissão de Coordenação Inter-Hospitalar
 1 - Por forma a garantir a coordenação da actividade das unidades hospitalares que integram o SRS funcionará uma Comissão de Coordenação Inter-Hospitalar, com a seguinte composição:
 a) O director regional de Saúde, que preside, ou quem ele designar;
-b) O presidente do conselho de administração das USI que incluam hospitais;
+b) O presidente do conselho de administração de cada hospital;
 c) O director clínico de cada um dos hospitais;
 d) O enfermeiro-director de cada um dos hospitais.
 2 - Compete à Comissão, nomeadamente:

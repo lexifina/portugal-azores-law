@@ -17,6 +17,6 @@ l) Unidades de saúde ou prestadoras de cuidados de saúde no estrangeiro.
 2 - As deslocações, salvo nos casos de manifesta urgência devidamente comprovada pelo médico assistente do doente, dependem de autorização prévia das seguintes entidades, ouvido o parecer da respectiva junta médica:
 a) Do conselho de administração da USI de residência do doente, no caso de deslocação na Região;
 b) Da direcção clínica do hospital responsável pelo encaminhamento para fora da Região, no caso de deslocação para outras regiões do País.
-3 - As deslocações para tratamento em serviços de saúde no estrangeiro serão autorizadas pelo secretário regional da tutela, ouvida a Direcção Regional de Saúde, sob proposta da direcção clínica do hospital responsável pela assistência ao doente, após parecer da respectiva junta médica.
-4 - O regulamento de deslocação de doentes será aprovado por portaria do secretário regional da tutela.
+3 - As deslocações para tratamento em serviços de saúde no estrangeiro serão autorizadas pelo membro do Governo Regional com competência em matéria de saúde, ouvida a Direcção Regional de Saúde, sob proposta da direcção clínica do hospital responsável pela assistência ao doente, após parecer da respectiva junta médica.
+4 - O regulamento de deslocação de doentes será aprovado por portaria do membro do Governo Regional com competência em matéria de saúde.
 5 - A responsabilidade dos encargos com a deslocação de doentes, enviados a unidades de saúde privadas, é estabelecida nos termos do artigo 28.º deste diploma.
