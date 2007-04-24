@@ -1,0 +1,4 @@
+# Artigo 19.º
+### Inquéritos e informações
+1 - É obrigatória a resposta, por parte de pessoas singulares e colectivas licenciadas ou autorizadas para o exercício da pesca lúdica, a inquéritos que venham a ser efectuados, sob a orientação da Direcção Regional das Pescas, para acompanhamento da actividade ou para apuramento dos volumes globais de capturas.
+2 - O incumprimento relativo ao fornecimento ou transmissão das informações solicitadas nos inquéritos mencionados no número anterior, no prazo que para tal for fixado, implica a suspensão, o cancelamento ou a privação do direito à atribuição da licença para o exercício da pesca lúdica, dos tipos pessoal ou de utilização de embarcação, bem como a suspensão ou a privação do direito à obtenção de autorização para o exercício de pesca desportiva.
