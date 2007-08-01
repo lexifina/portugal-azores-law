@@ -1,0 +1,9 @@
+Decreto Legislativo Regional n.º 25/2003/A
+Regime jurídico da publicação, identificação e formulário dos diplomas regionais
+Decorridos estão 25 anos da publicação do Decreto Regional n.º 1/77/A, de 10 de Fevereiro, que estabeleceu as regras sobre a publicação e entrada em vigor dos actos regionais e criou o Jornal Oficial.
+A complexidade das sociedades e o aumento das funções do Estado e dos entes com poderes legislativos determinaram o incremento constante do volume de disposições legais em vigor e, em alguns casos, a degradação da qualidade técnica legislativa.
+Considerando que na estrutura formal do acto legislativo se deverá ter em conta, entre outros, o princípio da ordenação sistemática da composição e redacção das leis;
+Considerando que urge acentuar uma das facetas de simplificação legislativa que diz respeito à racionalização da feitura dos actos normativos da competência dos órgãos de governo próprio da Região e à divulgação desses actos normativos junto dos destinatários e do público em geral, de forma a torná-los mais eficazes;
+Considerando que atribuindo relevância jurídica à versão electrónica do Jornal Oficial se está a contribuir para a prossecução do programa do Governo Regional quando se propõe desenvolver a sociedade da informação;
+Considerando, finalmente, que a Lei n.º 74/98, de 11 de Novembro, que discorre sobre a publicação, identificação e formulário dos diplomas no território nacional, integra um conjunto de cominações no que aos diplomas dos órgão de governo próprio das Regiões Autónomas diz respeito:
+Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
