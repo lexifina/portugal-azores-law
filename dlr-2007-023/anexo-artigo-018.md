@@ -1,0 +1,6 @@
+# Artigo 18.º
+### Embarcações de apoio
+1 - Para os efeitos do presente Regulamento, consideram-se embarcação de apoio as embarcações miúdas, com ou sem motor, embarcadas ou rebocadas, destinadas a apoiar a embarcação principal, designadamente em situações de embarque ou de desembarque nas praias e de visita a ilhas ou a grutas a partir da embarcação principal, desde que averbadas no título de registo de propriedade dessa embarcação, após a necessária vistoria e aprovação.
+2 - As embarcações referidas no número anterior devem dispor de uma inscrição no costado, constituída pelo nome da embarcação principal a que pertencem, seguida da palavra «apoio», de altura não inferior a 6 cm, devendo ser numeradas caso haja mais de uma e, quando em operação, respeitar a lotação de passageiros que lhe for atribuída.
+3 - As embarcações a que se refere o presente artigo devem ser governadas por inscritos marítimos ou navegadores de recreio, em número a definir, podendo estes pertencer à tripulação da embarcação principal desde que a sua utilização não contrarie as normas mínimas de segurança da embarcação principal, quando atracada ou fundeada.
+4 - As situações de utilização das embarcações de apoio referidas no presente artigo podem ser restringidas atendendo, designadamente, às suas características, aos locais de operação e condições meteorológicas.
