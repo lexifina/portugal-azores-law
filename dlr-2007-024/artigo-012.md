@@ -1,0 +1,9 @@
+# Artigo 12.º
+### Indemnização
+1 - Caso haja lugar ao abate sanitário previsto na alínea d) do n.º 3 do artigo 10.º, os proprietários dos apiários terão direito a uma indemnização nos termos do disposto nos números seguintes.
+2 - As indemnizações a que se refere o presente artigo são calculadas com base numa tabela, a aprovar por despacho conjunto do membro do Governo Regional com competência em matéria de finanças e do membro do Governo Regional com competência em matéria de agricultura, que fixa os valores em dinheiro das colmeias, cortiços, núcleos e nucléolos componentes de apiários sujeitos a abate sanitário.
+3 - Não têm direito a indemnização os proprietários de apiários que se encontrem em infracção ao disposto no presente diploma.
+4 - Antes de ser accionado o pagamento da indemnização por abate sanitário, o serviço com competência em matéria de agricultura da ilha de implantação do apiário procede a uma averiguação relativa ao cumprimento pelo proprietário dos animais abatidos das disposições do presente diploma, das medidas estabelecidas no programa sanitário previsto no artigo 11.º e de quaisquer medidas específicas de polícia sanitária impostas através de
+notificação.
+5 - Se da averiguação referida no número anterior resultarem indícios de incumprimento de alguma das mencionadas disposições ou medidas, a direcção regional com competência em matéria de desenvolvimento agrário deve iniciar de imediato o competente processo de contra-ordenação, ficando o pagamento da indemnização dependente da decisão final do mesmo.
+6 - Em qualquer caso, o processo relativo à indemnização deve ser instruído com uma declaração, emitida pelo serviço de ilha com competência em matéria de agricultura, relativa ao cumprimento das disposições e medidas referidas no n.º 4, a requerer pelos proprietários de apiários sujeitos a abate sanitário e enviada à direcção regional com competência em matéria de desenvolvimento agrário.

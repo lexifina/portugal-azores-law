@@ -1,0 +1,5 @@
+# Artigo 25.º
+### Exclusão de benefícios
+1 - O apicultor que se encontre em infracção ao disposto no presente diploma é excluído, pelo período de um ano a contar do ano civil da verificação dos factos, de benefícios concedidos para melhoria e desenvolvimento da actividade apícola, designadamente os atribuídos no âmbito do programa apícola estabelecido ao abrigo dos Regulamentos (CE) n.os 797/2004, do Conselho, de 26 de Abril, e 917/2004, da Comissão, de 29 de Abril, relativos a acções de melhoria das condições de produção e comercialização de produtos da apicultura.
+2 - A criação de obstáculos ou impedimentos pelo apicultor na realização de acções de fiscalização e controlo para verificação do cumprimento das normas do presente diploma determina a perda de benefício nos termos previstos no número anterior.
+3 - As condições de exclusão do benefício previstas neste artigo, bem como a tramitação administrativa do mesmo, são estabelecidas por despacho do membro do Governo Regional competente em matéria de agricultura.
