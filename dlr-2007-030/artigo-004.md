@@ -1,0 +1,5 @@
+# Artigo 4.º
+### Transferências orçamentais
+1 - O Governo Regional fica autorizado a proceder às alterações orçamentais que se revelarem necessárias à execução do Orçamento Regional, fazendo cumprir, nesta matéria, o Decreto-Lei n.º 71/95, de 15 de Abril, com as devidas adaptações, em termos de correspondência dos órgãos e serviços daAdministração regional às referências ali constantes aos órgãos e serviços daAdministração do Estado.
+2 - Quando se verifique a deslocação ou transferência de serviços entre departamentos daAdministração regional, as dotações orçamentais inscritas nos orçamentos dos serviços de origem poderão ser transferidas para os departamentos de destino.
+3 - Quando se verifiquem transferências de pessoal entre departamentos daAdministração regional ou dentro de cada departamento, de um organismo para outro organismo, justificadas pela mobilidade e reafectação de recursos humanos e seu racional aproveitamento, as dotações orçamentais inscritas nos orçamentos de origem poderão, respectivamente, ser transferidas para os departamentos ou organismos de destino.
