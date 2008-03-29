@@ -1,0 +1,9 @@
+# Artigo 30.º
+### Princípios orientadores
+As empresas públicas regionais encarregadas da gestão de serviços de interesse económico geral devem prosseguir as missões que lhe estejam confiadas no sentido, consoante os casos, de:
+a) Prestar os serviços de interesse económico geral à Região e no conjunto do território regional sem discriminação de ilhas ou de zonas rurais;
+b) Promover o acesso da generalidade dos cidadãos, em condições financeiras equilibradas, a bens e serviços essenciais, procurando, na medida do possível, que todos os utilizadores tenham direito a tratamento idêntico e neutro, sem quaisquer discriminações, quer quanto ao funcionamento dos serviços quer quanto a taxas ou contraprestações devidas, a menos que o interesse geral o justifique;
+c) Assegurar o cumprimento das exigências de prestação de serviços de carácter universal relativamente a actividades económicas cujo acesso se encontre legalmente vedado a empresas privadas e a outras entidades da mesma natureza;
+d) Garantir o fornecimento de serviços ou a gestão de actividades cuja rendibilidade não se encontra assegurada, em especial devido aos investimentos necessários ao desenvolvimento de infra-estruturas ou redes de distribuição ou, ainda, devido à necessidade de realizar actividades comprovadamente deficitárias;
+e) Zelar pela eficácia da gestão das redes de serviços públicos, procurando, designadamente, que a produção, o transporte e distribuição, a construção de infra-estruturas e a prestação do conjunto de tais serviços se procedam de forma articulada, tendo em atenção as modificações organizacionais impostas por inovações técnicas ou tecnológicas;
+f) Cumprir obrigações específicas relacionadas com a segurança, com a continuidade e qualidade dos serviços e com a protecção do ambiente, devendo tais obrigações ser claramente definidas, transparentes, não discriminatórias e susceptíveis de controlo.

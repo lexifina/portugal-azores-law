@@ -1,0 +1,5 @@
+# Artigo 40.º
+### Plano de actividades e orçamento anual
+1 - As entidades públicas empresariais regionais prepararão para cada ano económico o orçamento anual, o qual deverá ser completado com os desdobramentos necessários para permitir a descentralização de responsabilidades e o adequado controlo de gestão.
+2 - As propostas do orçamento anual serão elaboradas com respeito pelos pressupostos macroeconómicos, pelas orientações estratégicas previstas no artigo 13.º e pelas directrizes definidas pelo Governo, bem como, quando for caso disso, por contratos celebrados com a Região, e deverão ser remetidos para aprovação, até 31 de Outubro do ano anterior, ao membro do Governo responsável pela área das finanças e ao membro do Governo responsável pelo respectivo sector de actividade.
+3 - O orçamento anual deverá ser objecto de aprovação expressa, através de despacho conjunto dos membros do Governo Regional responsáveis pelas finanças e sector de actividade, consagrando deste modo a autorização para a realização das actividades e respectivos custos previstos.

@@ -1,0 +1,7 @@
+# Artigo 45.º
+### Extensão a outras entidades
+1 - Os direitos de titular do capital da Região a que se refere o presente diploma, nas sociedades em que, mesmo conjuntamente, não detenham influência dominante são exercidos, respectivamente, pela Direcção Regional de Orçamento e Tesouro ou pelos órgãos de gestão das entidades titulares.
+2 - As sociedades em que a Região exerça uma influência significativa, seja por detenção de acções que representam mais de 10 % do capital social seja por detenção de direitos especiais de titular do capital, deverão apresentar na Direcção Regional de Orçamento e Tesouro a informação destinada ao titular do capital, nas datas em que a estes deva ser disponibilizada, nos termos da legislação aplicável às sociedades comerciais.
+3 - Os direitos referidos nos números anteriores poderão ser exercidos, indirectamente, nos termos previstos no n.º 3 do artigo 12.º
+4 - Às empresas privadas encarregadas da gestão de serviços de interesse económico geral, por força de concessão ou da atribuição de direitos especiais ou exclusivos, é aplicável o disposto nos artigos 11.º, 14.º e 15.º e no capítulo ii do presente diploma.
+5 - Podem ser sujeitas ao regime estabelecido no presente diploma, no todo ou em parte, com excepção do constante do seu capítulo iii, as empresas nas quais a Região ou outras entidades públicas disponham de direitos especiais desde que os respectivos estatutos assim o prevejam.
