@@ -1,0 +1,6 @@
+Decreto Legislativo Regional n.º 12/2008/A
+Estatuto do gestor público regional
+O presente diploma estabelece o estatuto do gestor público regional, da Região Autónoma dos Açores, pelo que procede à revogação expressa do regime estatutário que versa sobre a mesma matéria e que se encontra previsto no Decreto Legislativo Regional n.º 6/86/A, de 20 de Janeiro.
+Este diploma consagra um conjunto de regras relativas ao gestor público, designadamente, no que concerne ao exercício da gestão, dos direitos e deveres dos gestores, à fixação de mecanismos de avaliação de desempenho, formas de designação ou nomeação, assunção de responsabilidades e cessação de funções, assim como os regimes remuneratório e de pensões.
+Pretende, deste modo, estabelecer um regime do gestor público regional integrado e adaptado às exigências actuais de modernização, racionalização e de eficiência, por forma que o sector público empresarial da Região satisfaça melhor as necessidades colectivas e potencie a promoção do desenvolvimento económico e social da Região Autónoma dos Açores.
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e das alíneas q) do artigo 8.º e c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo, decreta o seguinte:
