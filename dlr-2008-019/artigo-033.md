@@ -1,0 +1,6 @@
+# Artigo 33.º
+### Área protegida de gestão de recursos do porto das Capelas - Ponta das Calhetas
+1 - A área protegida de gestão de recursos do porto das Capelas - ponta das Calhetas é classificada em função de objectivos de gestão referidos no n.º 2 do artigo 29.º e constituem fundamentos específicos para a respectiva classificação os valores estéticos em presença, a importância para espécies, habitats e ecossistemas protegidos e os objectivos decorrentes do POOC da Costa Norte da Ilha de São Miguel.
+2 - A área protegida de gestão de recursos do porto das Capelas - ponta das Calhetas integra no seu âmbito as áreas de protecção do meio marinho definidas como espaço marítimo correspondendo ao troço entre o porto das Capelas - ponta das Calhetas, da área de intervenção do POOC da Costa Norte da Ilha de São Miguel.
+3 - Na área protegida de gestão de recursos do porto das Capelas - ponta das Calhetas, aplica-se, cumulativamente com o regime definido pelo presente diploma, o regime decorrente do POOC da Costa Norte da Ilha de São Miguel e, supletivamente, os regimes estabelecidos pelos planos municipais de ordenamento do território.
+4 - Os limites territoriais da área protegida de gestão de recursos do porto das Capelas - ponta das Calhetas estão representados no anexo ii pela sigla SMG22.

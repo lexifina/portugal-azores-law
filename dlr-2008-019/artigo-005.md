@@ -1,0 +1,5 @@
+# Artigo 5.º
+### Regime, fins e objectivos de reclassificação
+1 - As áreas protegidas e reservas naturais referidas no artigo anterior são reclassificadas de acordo com as categorias de áreas protegidas que integram a Rede Regional de Áreas Protegidas, em função dos respectivos fins e objectivos de gestão e nos termos do regime estabelecido pelo Decreto Legislativo Regional n.º 15/2007/A, de 25 de Junho.
+2 - As reclassificações referidas no número anterior são realizadas sem prejuízo da manutenção dos critérios e objectivos que presidiram à criação e classificação inicial das áreas protegidas a que alude o artigo 4.º
+3 - A reclassificação das áreas protegidas e reservas naturais referidas no artigo 4.º determinam o alargamento do respectivo âmbito e delimitações territoriais, nos termos constantes do presente diploma e são realizadas em função da respectiva importância específica para a preservação da fauna, flora e habitats naturais das áreas que integram o Parque Natural, bem como dos valores paisagísticos e geológicos em presença.
