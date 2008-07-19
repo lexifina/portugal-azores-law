@@ -1,0 +1,6 @@
+Decreto Legislativo Regional n.º 21/2008/A
+Organização do sector vitivinícola na Região Autónoma dos Açores
+Considerando as especificidades do sector vitivinícola da Região Autónoma dos Açores, nomeadamente a sua pequena dimensão, a forma de produção e a dispersão geográfica existente e ainda a importância histórica, económica, social e cultural, que reflecte uma realidade própria e específica regional;
+Considerando a necessidade de estabelecer uma organização para o sector vitivinícola regional e uma regulamentação para o reconhecimento, protecção, controlo, certificação e utilização das denominações de origem e indicações geográficas, que tenham em consideração as especificidades deste sector na Região;
+Considerando a importância de modernizar as unidades de transformação, apoiar as acções de reestruturação e modernização das explorações e investir na modernização das áreas vitícolas, bem como impulsionar acções de promoção de vinhos com denominação de origem.
+Assim, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, a Assembleia Legislativa da Região Autónoma dos Açores decreta o seguinte:

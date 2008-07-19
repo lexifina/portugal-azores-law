@@ -1,0 +1,6 @@
+# Artigo 2.º
+### Definições
+Para efeitos do disposto no presente diploma, entende-se por:
+a) «Denominação de origem (DO)» o nome geográfico de uma ilha ou local determinado, ou uma denominação tradicional, associada a uma origem geográfica ou não, que serve para designar ou identificar um produto vitivinícola originário de uvas provenientes dessa ilha ou desse local determinado e cuja qualidade ou características se devem, essencial ou exclusivamente, ao meio geográfico, incluindo os factores naturais e humanos, e cuja vinificação e elaboração ocorrem no interior daquela área geográfica delimitada;
+b) «Indicação geográfica (IG)» nome da Região Autónoma dos Açores que serve para designar produtos vitivinícolas originários de uvas provenientes em pelo menos 85 % da Região, ou uma denominação tradicional, associada a uma origem geográfica ou não, cuja reputação, determinada qualidade ou outra característica podem ser atribuídas a esta origem geográfica e cuja vinificação ocorre na Região;
+c) «Entidade certificadora» Comissão Vitivinícola Regional dos Açores (CVR Açores), a quem compete certificar vinhos, promover, defender e controlar a denominação de origem (DO) e a indicação geográfica (IG).
