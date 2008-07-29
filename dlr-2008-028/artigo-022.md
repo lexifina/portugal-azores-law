@@ -1,0 +1,9 @@
+# Artigo 22.º
+### Selecção dos candidatos e rateio
+1 - No 1.º dia útil seguinte ao termo do prazo para entrega de candidaturas, constante do edital referido no artigo 20.º, são recolhidos os requerimentos, e remetidos às unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal, sendo excluídos, sem que haja lugar a audiência prévia, aqueles cuja candidatura não se encontre devidamente preenchida.
+2 - As unidades orgânicas, apenas deverão aceitar as candidaturas dos animais devidamente inscritos no Sistema Nacional de Identificação e Registo Animal, adiante designado por SNIRA, a favor do candidato.
+3 - Os candidatos excluídos, nos termos do presente diploma, são notificados da exclusão, nos 10 dias úteis subsequentes ao termo do prazo para entrega de candidaturas e antes do início da prestação de serviços de pastoreio.
+4 - Quando se verifique que o número de cabeças inscrito pelos candidatos excede o limite estabelecido, nos termos da alínea a) do n.º 1 do artigo 19.º, as unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal, procederão ao rateio proporcional relativamente ao número de animais candidatos.
+5 - Efectuada a selecção, nos termos dos números anteriores, as unidades orgânicas do serviço do departamento do Governo Regional com competência em matéria florestal elaboram, para cada freguesia, uma lista dos candidatos/contratantes, da qual constará o número de cabeças de gado que serão recebidas de cada um e que é publicada, em edital, nas sedes das juntas das freguesias onde residam os utentes.
+6 - No prazo de 10 dias úteis seguintes à publicação referida no número anterior, deverão os contratantes fazer o pagamento respeitante ao valor devido, pela prestação de serviço referente ao primeiro mês da mesma.
+7 - A falta de pagamento, nos termos do número anterior, determina a impossibilidade de contratação.
