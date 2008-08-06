@@ -1,3 +1,7 @@
+## Capítulo III
+## Da venda ambulante ou sazonal de bebidas e alimentos e do jogo ambulante
+## Capítulo IV
+## Restantes actividades
 ## Capítulo V
 ## Das medidas de polícia
 # Artigo 19.º

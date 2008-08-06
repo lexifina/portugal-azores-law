@@ -1,3 +1,7 @@
+## Secção III
+## Infracções ao disposto no capítulo III
+## Secção IV
+## Infracções ao disposto no capítulo IV
 ## Capítulo VIII
 ## Disposições finais e transitórias
 # Artigo 34.º
