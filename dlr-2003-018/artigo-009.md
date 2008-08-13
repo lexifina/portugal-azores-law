@@ -1,3 +1,5 @@
+## Subsecção II
+## Classificação funcional
 # Artigo 9.º
 ### Eixos rodoviários
 1 - Os eixos rodoviários são complexos de vias, da mesma ou de várias categorias, de uma ou de várias redes, integrando maioritariamente estradas regionais, que entre si se articulam zonalmente na distribuição de um determinado volume de tráfego.

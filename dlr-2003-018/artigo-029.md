@@ -1,5 +1,5 @@
 ## Secção III
-## Condições de circulação
+## Condições de circulação e segurança
 # Artigo 29.º
-### Faixas de circulação
-Sempre que as exigências da circulação o aconselhem e a largura da plataforma das vias o permitam, devem ser demarcadas faixas de circulação para separação do respectivo trânsito.
+### Segurança
+As vias das diferentes redes viárias devem possuir os equipamentos de sinalização, protecção, balizagem e segurança que, consoante o tráfego a que se destinam, respeitem as normas em vigor.

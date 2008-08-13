@@ -2,4 +2,4 @@
 ## Vias da rede agrícola e rural/florestal
 # Artigo 54.º
 ### Actos de permissão
-A forma e as condições e procedimento das autorizações, aprovações e licenças para obras, trabalhos ou outras actividades nas vias da rede agrícola e rural/florestal são idênticas, com as devidas alterações, às estabelecidas para a rede regional.
+O disposto nos artigos 50.º e 51.º é aplicável, com as necessárias adaptações, aos actos de permissão respeitantes às vias das redes agrícola e rural/florestal.

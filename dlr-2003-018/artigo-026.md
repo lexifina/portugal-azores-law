@@ -1,5 +1,5 @@
 ## Secção II
 ## Demarcação
 # Artigo 26.º
-### Medição
-A extensão de cada via será medida e fixada a partir do primeiro ponto extremo que a designa.
+### Demarcação
+A extensão de cada via é medida e fixada a partir de um dos seus pontos extremos.

@@ -4,10 +4,11 @@
 a) Efectuar obras ou de qualquer modo utilizar o solo, o subsolo e o espaço aéreo da zona da via;
 b) Estabelecer acessos à mesma zona.
 2 - No solo da zona da via pode autorizar-se:
-a) O estabelecimento de construções ou abrigos móveis e andaimes, colunas ou mastros, depósitos de materiais, objectos para venda, exposições ou outras ocupações similares, temporariamente e sempre fora da plataforma das vias;
-b) A implantação de candeeiros e postes de apoio de linhas telegráficas, telefónicas, de transporte ou de distribuição de energia eléctrica de baixa tensão ou com outros fins, nos taludes, banquetas ou acessórios das vias, sempre que possível embutidos nos muros confinantes com as vias ou pelo interior destes;
-c) O estabelecimento de balanças nos terrenos acessórios das vias;
-d) A passagem de águas de rega ou de lima através das valetas.
+a) O estabelecimento de construções ou abrigos móveis e andaimes, colunas ou mastros, depósitos de materiais, objectos para venda, exposições ou outras ocupações similares, temporariamente e sempre que possível fora da plataforma da via;
+b) A implantação de candeeiros e postes de apoio de linhas telegráficas, telefónicas, de transporte ou de distribuição de energia eléctrica ou com outros fins, nos taludes e banquetas, sempre que possível embutidos nos muros confinantes com as vias ou pelo interior destes;
+c) O estabelecimento de balanças;
+d) A passagem de águas de rega ou de lima através das valetas;
+e) A colocação de tabuletas, anúncios ou quaisquer objectos de publicidade ou propaganda, com ou sem carácter comercial, no interior das localidades, mas sempre fora da plataforma da via.
 3 - Relativamente ao subsolo da zona das vias, pode autorizar-se:
 a) Em casos muito excepcionais, a pesquisa e captação de águas;
 b) O estabelecimento de canalizações ou aquedutos ou de cabos condutores de energia eléctrica ou de telecomunicações, sempre que possível fora da plataforma da via, a não ser quando se trate de atravessamentos, os quais devem ser reduzidos ao mínimo e localizados perpendicularmente, nas condições de segurança e com secção que permita substituir essa canalização ou cabo sem necessidade de levantar o pavimento.
