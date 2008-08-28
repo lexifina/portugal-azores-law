@@ -1,0 +1,12 @@
+## Título V
+## Sistema de informação de suporte à gestão de desempenho e acções de controlo
+# Artigo 76.º
+### Gestão e acompanhamento do SIADAPRA 2 e do SIADAPRA 3
+1 - O disposto no presente diploma em matéria de processos de avaliação e respectivos instrumentos de suporte não impede o seu cumprimento em versão electrónica e, quando for o caso, com utilização de assinaturas digitais.
+2 - Compete, em cada departamento, aos serviços com competência em matéria de planeamento, estratégia e avaliação elaborar relatórios síntese evidenciando a forma como o SIADAPRA 2 e o SIADAPRA 3 foram aplicados, nomeadamente quanto à fase de planeamento e quanto aos resultados de avaliação final.
+3 - Compete à direcção regional com competência na área da Administração Pública:
+a) Acompanhar e apoiar a aplicação da avaliação do desempenho, designadamente através da produção de instrumentos de orientação normativa;
+b) Elaborar relatório anual que evidencie a forma como o SIADAPRA foi aplicado na administração pública regional dos Açores.
+4 - Para efeitos do disposto no número anterior, a direcção regional com competência na área da Administração Pública recolhe informação junto dos serviços com competência em matéria de planeamento, estratégia e avaliação.
+5 - Todos os processos de transmissão da informação no âmbito de cada departamento, bem como a alimentação das bases de dados relevantes são assegurados pelo sistema de gestão da informação dos recursos humanos da administração pública regional dos Açores.
+6 - A estrutura e conteúdo dos relatórios referidos nos números anteriores são objecto de normalização através de despacho do membro do Governo Regional responsável pela área da Administração Pública.

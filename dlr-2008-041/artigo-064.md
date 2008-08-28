@@ -1,0 +1,3 @@
+# Artigo 64.º
+### Harmonização de propostas de avaliação
+Na 2.ª quinzena de Janeiro, em regra, realizam-se as reuniões do conselho coordenador da avaliação para proceder à análise das propostas de avaliação e à sua harmonização de forma a assegurar o cumprimento das percentagens relativas à diferenciação de desempenhos transmitindo, se for necessário, novas orientações aos avaliadores, na sequência das previstas na alínea d) do n.º 1 e no n.º 2 do artigo 62.º e iniciar o processo que conduz à validação dos Desempenhos relevantes e Desempenhos inadequados e de reconhecimento dos Desempenhos excelentes.
