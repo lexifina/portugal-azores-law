@@ -1,0 +1,6 @@
+# Artigo 16.º
+### Área protegida para a gestão de habitats ou espécies do Pico Alto
+1 - Para além dos objectivos de gestão referidos no n.º 2 do artigo 12.º, constituem fundamentos específicos para a classificação da área protegida para a gestão de habitats ou espécies do Pico Alto a respectiva importância para as espécies, habitats e ecossistemas protegidos.
+2 - Na área protegida para a gestão de habitats ou espécies do Pico Alto ficam interditos os actos e actividades referidos no n.º 2 do artigo 13.º
+3 - Na área protegida para a gestão de habitats ou espécies do Pico Alto ficam condicionados e sujeitos a parecer prévio, de carácter vinculativo, do serviço com competência em matéria de ambiente, para além dos referidos nas alíneas a), c) a f), i) e l) a o) do n.º 3 do artigo 13.º, os actos e actividades relativos à alteração à morfologia do solo por escavações ou aterros, pela modificação do coberto vegetal, do corte de vegetação arbórea e arbustiva, com excepção das decorrentes da execução de acções de manutenção e limpeza da área protegida.
+4 - Os limites territoriais da área protegida para a gestão de habitats ou espécies do Pico Alto estão representados no anexo ii pela sigla SMA07.
