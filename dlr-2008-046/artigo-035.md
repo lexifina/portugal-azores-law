@@ -1,0 +1,4 @@
+# Artigo 35.º
+### Regime transitório
+1 - Até à data de entrada em funcionamento dos órgãos de gestão do Parque Natural as competências atribuídas pelo presente diploma ao conselho de gestão são prosseguidas pelo director dos Serviços de Ambiente do Faial e as atribuídas ao conselho consultivo são prosseguidas pelo Conselho Regional do Ambiente e Desenvolvimento Sustentável, referido no artigo 8.º do Decreto Regulamentar Regional n.º 13/2007/A, de 16 de Maio.
+2 - O disposto no número anterior quanto ao exercício transitório das competências cometidas pelo presente diploma ao conselho de gestão pelo director dos Serviços de Ambiente do Faial não prejudica a possibilidade de esse exercício ser realizado pelo chefe de divisão das Áreas Protegidas referido no n.º 3 do artigo 49.º do Decreto Regulamentar Regional n.º 13/2007/A, de 16 de Maio, sem prejuízo do estatuído no artigo 50.º do mesmo diploma.

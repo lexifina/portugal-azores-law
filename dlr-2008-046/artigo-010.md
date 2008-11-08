@@ -1,0 +1,11 @@
+# Artigo 10.º
+### Reserva Natural do Morro do Castelo Branco
+1 - A Reserva Natural do Morro do Castelo Branco referida na alínea c) do n.º 1 do artigo 7.º é classificada em função de objectivos de gestão referidos no n.º 2 desse artigo e constituem fundamentos específicos para a respectiva classificação os valores naturais e estéticos em presença e importância da área para espécies, habitats e ecossistemas protegidos.
+2 - Na Reserva Natural do Morro do Castelo Branco ficam interditos, para além dos actos e actividades referidos nas alíneas b), d) e f) do n.º 3 do artigo 8.º e nas alíneas a) a c) do n.º 3 do artigo anterior, a colheita, captura, abate ou detenção de organismos, sujeitos a medidas de protecção, em qualquer fase do seu ciclo biológico, incluindo a destruição de ninhos e a apanha de ovos, a perturbação ou a destruição dos seus habitats.
+3 - Na Reserva Natural do Morro do Castelo Branco ficam condicionados e sujeitos a parecer prévio, de carácter vinculativo, do serviço com competência em matéria de ambiente, para além do referido no n.º 4 do artigo 8.º, e no n.º 4 do artigo anterior, os actos e actividades seguintes:
+a) As acções de controlo de densidade de predadores terrestres;
+b) A alteração do coberto vegetal através da realização de cortes rasos de povoamentos florestais, pelo corte de vegetação arbórea ou arbustiva destinada a acções de limpeza ou pela destruição das compartimentações existentes de sebes vivas.
+4 - Os limites territoriais da Reserva Natural do Morro do Castelo Branco estão representados no anexo ii pela sigla FAI03.
+5 - A Reserva Natural do Morro do Castelo Branco integra no seu âmbito os objectivos e limites territoriais definidos para o SIC Morro de Castelo Branco e observa, cumulativamente com o regime definido pelo presente diploma, o regime estabelecido pelo Plano Sectorial da Rede Natura 2000.
+6 - A Reserva Natural do Morro do Castelo Branco integra no seu âmbito as zonas de reserva integral de captura de lapas definida no n.º 8 do artigo 4.º do Decreto Regulamentar Regional n.º 14/93/A, de 31 de Julho.
+7 - Dentro dos limites territoriais da Reserva Natural do Morro do Castelo Branco incluem-se áreas que preenchem os critérios de classificação da BirdLife International como Important Bird Area, doravante designado por IBA.
