@@ -1,4 +1,4 @@
 # Artigo 80.º
-### Prazos
-l - Os pareceres devem ser emitidos no prazo de 20 ou 15 dias, consoante a emissão do parecer seja, respectivamente, da competência da Assembleia Legislativa Regional ou do Governo Regional, e no prazo de 10 dias, em caso de urgência.
-2 - Os prazos referidos no número anterior contam-se a partir da recepção dos pedidos de audição nos respectivos órgãos de governo próprio.
+### Substituição de membros do Governo Regional
+1 - Nas suas ausências e impedimentos, o Presidente do Governo Regional designa para o substituir um vice-presidente, se o houver, ou um secretário regional.
+2 - Cada vice-presidente ou secretário regional é substituído, na sua ausência ou impedimento, pelo membro do Governo Regional indicado pelo Presidente do Governo Regional.

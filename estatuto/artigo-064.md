@@ -1,5 +1,8 @@
 # Artigo 64.º
-### Reuniões do Governo Regional
-1 - O Governo Regional reúne sempre que seja convocado pelo seu Presidente.
-2 - Podem realizar-se reuniões restritas do Governo Regional sempre que a natureza da matéria o justifique.
-3 - Podem ser convocados para as reuniões do Governo Regional os Subsecretários Regionais, quando a natureza dos assuntos em apreciação o justifique.
+### Investigação e inovação tecnológica
+1 - Compete à Assembleia Legislativa legislar em matérias de investigação e inovação tecnológica.
+2 - As matérias de investigação e inovação tecnológica abrangem, designadamente:
+a) Os centros de investigação e de inovação tecnológica, incluindo a sua organização, coordenação, funcionamento, e regimes de apoio e acreditação;
+b) O apoio à investigação científica e tecnológica;
+c) A formação de investigadores;
+d) A difusão do conhecimento científico e das tecnologias.

@@ -1,3 +1,7 @@
+## Capítulo IV
+## Representante da República
 # Artigo 106.º
-### Transferências de fundos para investimento
-De harmonia com o princípio da solidariedade nacional, o Estado dotará a Região dos meios financeiros necessários à realização dos investimentos constantes do plano de desenvolvimento económico e social regional que excedam a capacidade de financiamento dela, de acordo com o programa de transferências de fundos, nos termos da Lei de Finanças das Regiões Autónomas.
+### Representante da República
+1 - O Representante da República da Região é nomeado e exonerado pelo Presidente da República, ouvido o Governo da República.
+2 - Salvo em caso de exoneração, o mandato do Representante da República tem a duração do mandato do Presidente da República e termina com a posse do novo Representante da República.
+3 - Em caso de vacatura do cargo, bem como nas suas ausências e impedimentos, o Representante da República é substituído pelo Presidente da Assembleia Legislativa.

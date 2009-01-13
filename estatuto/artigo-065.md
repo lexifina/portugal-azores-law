@@ -1,5 +1,10 @@
 # Artigo 65.º
-### Presidente do Governo Regional
-1 - O Presidente do Governo Regional representa o mesmo, coordena o exercício das funções deste e convoca e dirige as respectivas reuniões.
-2 - O Presidente pode ter a seu cargo qualquer dos departamentos regionais.
-3 - Nas suas ausências e impedimentos, o Presidente designará para o substituir um Vice-Presidente, se o houver, ou um Secretário Regional.
+### Desporto
+1 - Compete à Assembleia Legislativa legislar em matéria de desporto.
+2 - A matéria de desporto abrange, designadamente:
+a) O sistema desportivo regional e o sistema de informação desportiva, incluindo organização, administração, planeamento, financiamento e fiscalização;
+b) A actividade desportiva profissional e não profissional, incluindo o intercâmbio desportivo, o desporto escolar, o desporto de alta competição e o voluntariado desportivo;
+c) As infra-estruturas, instalações e equipamentos desportivos;
+d) Os recursos humanos no desporto;
+e) O mecenato desportivo;
+f) O movimento associativo desportivo e as sociedades desportivas.

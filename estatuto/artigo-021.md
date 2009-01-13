@@ -1,5 +1,3 @@
-## Secção II
-## Estatuto dos Deputados
 # Artigo 21.º
-### Representação política
-Os Deputados são representantes de toda a Região e não dos círculos por que foram eleitos.
+### Legalidade das despesas públicas
+A apreciação da legalidade das despesas públicas é feita, na Região, por uma secção regional do Tribunal de Contas, com os poderes e funções atribuídos pela lei.

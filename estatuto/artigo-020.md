@@ -1,4 +1,4 @@
 # Artigo 20.º
-### Início de legislatura
-1 - A Assembleia Regional reúne, por direito próprio, no décimo quinto dia após o apuramento dos resultados eleitorais.
-2 - A Assembleia verificará os poderes dos seus membros e elegerá a sua mesa.
+### Poder tributário da Região
+1 - A Região exerce poder tributário próprio, nos termos da lei, e pode adaptar o sistema fiscal nacional às especificidades regionais, nos termos de lei quadro da Assembleia da República.
+2 - O sistema fiscal regional é estruturado de forma a assegurar a correcção das desigualdades derivadas da insularidade e com vista à repartição justa da riqueza e dos rendimentos e à concretização de uma política de desenvolvimento económico e de maior justiça social.

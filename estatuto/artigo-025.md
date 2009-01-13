@@ -1,5 +1,10 @@
+## Título IV
+## Órgãos de governo próprio
+## Capítulo I
+## Assembleia Legislativa
+## Secção I
+## Estatuto e eleição
 # Artigo 25.º
-### Direitos e regalias
-1 - Os deputados não podem ser prejudicados na sua colocação, no seu emprego permanente ou nos seus benefícios sociais por causa do desempenho do mandato.
-2 - O desempenho do mandato conta como tempo de serviço para todos os efeitos.
-3 - É facultado aos deputados o regime de afectação permanente durante o exercício do seu mandato.
+### Definição e sede da Assembleia Legislativa
+1 - A Assembleia Legislativa é o órgão representativo da Região com poderes legislativos e de fiscalização da acção governativa regional.
+2 - A Assembleia Legislativa tem a sua sede na cidade da Horta, ilha do Faial, e delegações nas restantes ilhas.

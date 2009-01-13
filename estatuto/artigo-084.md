@@ -1,3 +1,4 @@
 # Artigo 84.º
-### Participação e representação da Região em acordos e tratados internacionais
-A participação nas negociações de tratados e acordos internacionais que digam respeito à Região realizar-se-á através de representação efectiva na delegação nacional que negociar o tratado ou acordo, bem como nas respectivas comissões de execução ou fiscalização.
+### Moções e votos de confiança
+1 - O Governo Regional pode solicitar à Assembleia Legislativa, por uma ou mais vezes, a aprovação de uma moção de confiança sobre a sua actuação.
+2 - O Governo Regional pode, também, solicitar à Assembleia Legislativa a aprovação de voto de confiança sobre quaisquer assuntos de política sectorial.

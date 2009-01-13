@@ -1,6 +1,20 @@
 # Artigo 57.º
-### Exercício de funções
-1 - Os membros do Governo Regional não podem ser prejudicados na sua colocação, nos seus benefícios sociais ou no seu emprego permanente por virtude do desempenho das suas funções.
-2 - Os membros do Governo Regional estão dispensados de todas as actividades profissionais, públicas ou privadas, durante o período do exercício do cargo.
-3 - O desempenho das funções conta como tempo de serviço para todos os efeitos, salvo para aqueles que pressuponham o exercício efectivo da actividade profissional.
-4 - No caso de função pública temporária por virtude de lei ou contrato, o desempenho das funções de membro do Governo Regional suspende a contagem do respectivo prazo.
+### Ambiente e ordenamento do território
+1 - Compete à Assembleia Legislativa legislar em matérias de ambiente e ordenamento do território.
+2 - As matérias do ambiente e ordenamento do território abrangem, designadamente:
+a) A protecção do ambiente, promoção do equilíbrio ecológico e defesa da natureza e dos recursos naturais, incluindo a fiscalização e monitorização dos recursos naturais;
+b) As áreas protegidas e classificadas e as zonas de conservação e de protecção, terrestres e marinhas;
+c) A reserva ecológica regional;
+d) Os recursos naturais, incluindo habitats, biodiversidade, fauna e flora, recursos geotérmicos, florestais e geológicos;
+e) A avaliação do impacte ambiental;
+f) A caça e restantes actividades de exploração cinegética;
+g) Os recursos hídricos, incluindo águas minerais e termais, superficiais e subterrâneas, canais e regadios;
+h) A captação, tratamento e distribuição de água;
+i) A recolha, tratamento e rejeição de efluentes;
+j) A recolha, gestão, tratamento e valorização de resíduos;
+l) O controlo da contaminação do solo e subsolo;
+m) O controlo da qualidade ambiental;
+n) A informação, sensibilização e educação ambientais;
+o) O associativismo ambiental;
+p) O planeamento do território e instrumentos de gestão territorial;
+q) O urbanismo, incluindo o regime da urbanização e edificação e a utilização dos solos.

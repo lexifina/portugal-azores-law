@@ -1,4 +1,4 @@
 # Artigo 5.º
-### Representação da Região
-1 - A Região é representada pelo Presidente da Assembleia Legislativa Regional.
-2 - A Região é ainda representada pelo Presidente do Governo Regional nos casos previstos na Constituição e nas leis e nos decorrentes do exercício de competência própria do Governo Regional.
+### Órgãos de governo próprio
+1 - São órgãos de governo próprio da Região a Assembleia Legislativa e o Governo Regional.
+2 - Os órgãos de governo próprio da Região assentam na vontade dos açorianos.

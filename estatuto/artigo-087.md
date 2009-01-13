@@ -1,3 +1,4 @@
 # Artigo 87.º
-### Conselho de ilha
-Em cada uma das ilhas funcionará um órgão de natureza consultiva, denominado conselho de ilha.
+### Visitas obrigatórias do Governo Regional
+1 - O Governo Regional visita cada uma das ilhas da Região pelo menos uma vez por ano.
+2 - Por ocasião de uma das visitas referidas no número anterior, o Conselho do Governo Regional reúne na ilha visitada.

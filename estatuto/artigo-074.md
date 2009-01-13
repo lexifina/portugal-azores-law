@@ -1,5 +1,10 @@
 # Artigo 74.º
-### Assinatura e veto do Ministro da República
-1 - No prazo de 15 dias contados da recepção de qualquer decreto da Assembleia Legislativa Regional que lhe haja sido enviado para assinatura, ou da publicação da decisão do Tribunal Constitucional que não se pronuncie pela inconstitucionalidade de norma dele constante, deve o Ministro da República assiná-lo ou exercer o direito de veto, solicitando nova apreciação do diploma em mensagem fundamentada.
-2 - Se a Assembleia Legislativa Regional confirmar o voto por maioria absoluta dos seus membros em efectividade de funções, o Ministro da República deverá assinar o diploma no prazo de oito dias a contar da sua recepção.
-3 - No prazo de 20 dias contados da recepção de qualquer decreto do Governo Regional que lhe tenha sido enviado para assinatura, deve o Ministro da República assiná-lo ou recusar a assinatura, comunicando, por escrito, o sentido dessa recusa ao Governo Regional, o qual poderá converter o decreto em proposta a apresentar à Assembleia Legislativa Regional.
+### Comissão Permanente
+1 - Fora dos períodos legislativos, durante o período em que se encontrar dissolvida e nos restantes casos previstos na Constituição e no Estatuto, funciona a comissão permanente da Assembleia Legislativa.
+2 - A comissão permanente é presidida pelo Presidente da Assembleia Legislativa e composta pelos vice-presidentes e por deputados indicados por todos os partidos, de acordo com a respectiva representatividade na Assembleia.
+3 - Compete à comissão permanente:
+a) Vigiar pelo cumprimento da Constituição, do Estatuto e das leis e apreciar os actos do Governo e da administração regional autónoma;
+b) Pronunciar-se, por sua iniciativa ou sob consulta dos órgãos de soberania, relativamente às questões de competência destes que respeitem à Região;
+c) Exercer os poderes da Assembleia relativamente ao mandato dos deputados;
+d) Promover a convocação da Assembleia sempre que tal seja necessário;
+e) Preparar a abertura da sessão legislativa.

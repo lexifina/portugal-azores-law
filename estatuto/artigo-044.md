@@ -1,17 +1,7 @@
 # Artigo 44.º
-### Grupos parlamentares e representações parlamentares
-1 - Os Deputados eleitos por cada partido ou coligação de partidos podem constituir-se em grupo parlamentar ou representação parlamentar.
-2 - Constituem direitos dos grupos parlamentares:
-a) Participar nas comissões da Assembleia em função do número dos seus membros, indicando os seus representantes nelas;
-b) Ser ouvido na fixação da ordem do dia e interpor recurso para o Plenário da ordem do dia fixada;
-c) Provocar, com a presença do Governo, o debate de questões de interesse público actual e urgente;
-d) Provocar, por meio de interpelação ao Governo, a abertura de dois debates em cada sessão legislativa sobre assuntos de política geral ou sectorial;
-e) Solicitar à Comissão Permanente que promova a convocação da Assembleia;
-f) Requerer a constituição de comissões parlamentares de inquérito;
-g) Exercer iniciativa legislativa;
-h) Apresentar moções de rejeição do Programa do Governo;
-i) Apresentar moções de censura ao Governo;
-j) Ser informado, regular e directamente, pelo Governo sobre o andamento dos principais assuntos de interesse público.
-3 - Constituem direitos das representações parlamentares os previstos nas alíneas a), b), d), g) e j) do número anterior.
-4 - Cada grupo parlamentar ou representação parlamentar tem direito a dispor de locais de trabalho na sede e restantes instalações da Assembleia Legislativa Regional, bem como de pessoal técnico e administrativo da sua confiança, nos termos que a lei determinar.
-5 - Aos Deputados não integrados em grupos parlamentares ou representações parlamentares são assegurados direitos e garantias mínimos, nos termos do Regimento.
+### Forma dos actos
+1 - Revestem a forma de decreto legislativo regional os actos previstos nas alíneas b), c), d) e e) do artigo 34.º, no artigo 37.º, no n.º 1 do artigo 38.º, no n.º 1 do artigo 39.º, no artigo 40.º e no artigo 41.º
+2 - Revestem a forma de projecto os actos previstos na alínea a) do n.º 1 do artigo 36.º e de proposta os actos previstos na alínea b) do n.º 1 do mesmo artigo.
+3 - Revestem a forma de resolução os demais actos da Assembleia Legislativa, incluindo os previstos na segunda parte da alínea a) e na alínea h) do artigo 34.º e no n.º 3 do artigo 42.º
+4 - Revestem a forma de moção os actos previstos nas alíneas f) e g) do artigo 34.º
+5 - Os actos previstos no n.os 1, 3 e 4 do presente artigo são publicados no Diário da República e no Jornal Oficial da Região.

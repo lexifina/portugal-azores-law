@@ -1,5 +1,3 @@
-## Capítulo II
-## Bens da Região
 # Artigo 111.º
-### Activo e passivo próprios
-A Região tem activo e passivo próprios, competindo-lhe administrar e dispor do seu património.
+### Participação em órgãos da República
+A Região participa na determinação, condução e execução das políticas gerais do Estado sobre matérias que lhe digam respeito através dos órgãos competentes, de acordo com o estabelecido no presente Estatuto e na lei.

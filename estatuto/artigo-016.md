@@ -1,3 +1,3 @@
 # Artigo 16.º
-### Incapacidades eleitorais
-As incapacidades eleitorais, activas e passivas, são as que constarem da lei geral.
+### Execução dos actos legislativos
+No exercício das competências dos órgãos regionais, a execução dos actos legislativos no território da Região é assegurada pelo Governo Regional.

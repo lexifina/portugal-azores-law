@@ -1,5 +1,5 @@
-## Título IV
-## Disposições especiais sobre relações entre os Órgãos de Soberania e os órgãos regionais
 # Artigo 78.º
-### Audição dos órgãos de governo próprio
-A consulta referida no n.º 2 do artigo 229.º da Constituição incidirá sobre as matérias de interesse específico como tais referidas no artigo 7.º-A.
+### Conselho do Governo Regional
+1 - Constituem o Conselho do Governo Regional, o presidente, os vice-presidentes, se os houver, e os secretários regionais.
+2 - Podem ser convocados para participar nas reuniões do Governo Regional os subsecretários regionais.
+3 - O Conselho do Governo Regional reúne sempre que seja convocado pelo seu presidente, cabendo-lhe a definição da orientação geral da política governamental.

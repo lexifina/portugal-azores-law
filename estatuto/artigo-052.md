@@ -1,5 +1,11 @@
 # Artigo 52.º
-### Moções de censura
-1 - A Assembleia Legislativa Regional pode votar moções de censura ao Governo sobre a execução do seu Programa ou assunto relevante de interesse regional, por iniciativa de um quarto dos Deputados em efectividade de funções ou de qualquer grupo parlamentar.
-2 - As moções de censura só podem ser apreciadas sete dias após a sua apresentação, em debate que não exceda dois dias.
-3 - Se a moção de censura não for aprovada, os seus signatários não podem apresentar outra durante a mesma sessão legislativa.
+### Política agrícola
+1 - Compete à Assembleia Legislativa legislar em matéria de política agrícola.
+2 - A matéria de política agrícola abrange, designadamente:
+a) A agricultura, incluindo a agricultura biológica, silvicultura, pecuária, bem como o sector agro-alimentar;
+b) A reserva agrícola regional;
+c) Os pastos, baldios e reservas florestais;
+d) O emparcelamento rural e a estrutura fundiária das explorações agrícolas;
+e) A saúde animal e vegetal;
+f) A investigação, o desenvolvimento e a inovação nos sectores agrícola, florestal e agro-alimentar, incluindo a melhoria genética e a utilização de organismos geneticamente modificados;
+g) A defesa, promoção e apoio dos produtos regionais, incluindo as denominações geográficas de origem e de qualidade.

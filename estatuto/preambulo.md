@@ -1,2 +1,8 @@
 # Estatuto Político-Administrativo da Região Autónoma dos Açores
+Reconhecendo as históricas aspirações autonomistas do povo açoriano que, há mais de um século, iniciou a luta pela conquista do direito à livre administração dos Açores pelos açorianos;
+Honrando a memória dos primeiros autonomistas que afirmaram a identidade açoriana e a unidade do seu povo e homenageando o ingente combate de todos quantos, sucedendo-lhes no tempo, mantiveram e mantêm vivo o ideal autonomista;
+Afirmando-se herdeiros daqueles que historicamente resistiram ao isolamento e ao abandono, às intempéries e a outros cataclismos da natureza, aos ciclos de escassez material e às mais variadas contrariedades, forjando assim um singular e orgulhoso portuguesismo a que ousaram nomear de açorianidade;
+Partilhando com os demais portugueses a vitória e a instauração da democracia que consagrou o reconhecimento constitucional da autonomia política e legislativa açoriana;
+Proclamando que a autonomia expressa a identidade açoriana, o livre exercício do seu auto-governo e a promoção do bem-estar do seu povo;
+Exercitando uma prerrogativa constitucional exclusiva, o povo açoriano, através dos seus legítimos representantes, apresentou à Assembleia da República um projecto de estatuto, que foi debatido e votado, tendo dado origem ao presente Estatuto Político-Administrativo da Região Autónoma dos Açores.
 A Assembleia da República decreta, nos termos da alínea b) do artigo 164.º, do n.º 2 do artigo 169.º e do n.º 1 do artigo 228.º da Constituição, precedendo proposta da Assembleia Regional dos Açores, nos termos do n.º 1 do artigo 228.º e da alínea c) do n.º 1 do artigo 229.º da Constituição, o seguinte:

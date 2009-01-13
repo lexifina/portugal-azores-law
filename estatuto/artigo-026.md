@@ -1,4 +1,3 @@
 # Artigo 26.º
-### Segurança social dos Deputados
-1 - Os deputados beneficiam do regime de previdência social aplicável aos funcionários públicos.
-2 - No caso de algum deputado optar pelo regime de previdência da sua actividade profissional, caberá à Assembleia a satisfação dos encargos que correspondiam à respectiva entidade patronal.
+### Composição e mandatos
+A Assembleia Legislativa é composta por deputados eleitos mediante sufrágio universal, directo e secreto, de harmonia com o princípio da representação proporcional e por círculos eleitorais, nos termos da lei eleitoral, para um mandato de quatro anos.

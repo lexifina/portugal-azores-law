@@ -1,3 +1,4 @@
 # Artigo 98.º
-### Receitas
-A Região dispõe, nos termos do Estatuto e da Lei de Finanças das Regiões Autónomas, das receitas fiscais nela cobradas ou geradas, bem como de uma participação nas receitas tributárias do Estado, estabelecida de acordo com um princípio que assegure a efectiva solidariedade nacional, e de outras receitas que lhe sejam atribuídas e afecta-as às suas despesas.
+### Segurança social dos Deputados
+1 - Os deputados têm direito ao regime de segurança social dos funcionários públicos.
+2 - No caso de algum deputado optar pelo regime de segurança social da sua actividade profissional, cabe à Assembleia Legislativa a satisfação dos encargos que corresponderiam à respectiva entidade patronal.

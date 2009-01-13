@@ -1,5 +1,18 @@
 # Artigo 67.º
-### Departamentos do Governo Regional
-1 - Os departamentos regionais denominam-se Secretarias Regionais e são dirigidos por um Secretário Regional, sem prejuízo do n.º 2 do artigo 61.º
-2 - Os Subsecretários Regionais terão os poderes que lhes forem delegados pelos respectivos membros do Governo.
-3 - Em cada ilha poderão funcionar serviços de Secretarias Regionais.
+### Outras matérias
+Compete ainda à Assembleia Legislativa legislar nas seguintes matérias:
+a) Os símbolos da Região;
+b) O protocolo e o luto regionais;
+c) Os feriados regionais;
+d) A criação e estatuto dos provedores sectoriais regionais;
+e) As fundações de direito privado;
+f) A instituição de remuneração complementar aos funcionários, agentes e demais trabalhadores da administração regional autónoma;
+g) As políticas de género e a promoção da igualdade de oportunidades;
+h) Os regimes especiais de actos ilícitos de mera ordenação social e do respectivo processo;
+i) Os regimes especiais de arrendamento rural e urbano;
+j) Os sistemas de incentivos e de contratualização de incentivos nos casos de investimentos estruturantes ou de valor estratégico para a economia;
+l) O investimento estrangeiro relevante;
+m) O regime das parcerias público-privadas em que intervenha a Região;
+n) A estatística;
+o) O marketing e a publicidade;
+p) A prevenção e segurança rodoviárias.

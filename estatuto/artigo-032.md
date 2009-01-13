@@ -1,8 +1,11 @@
 # Artigo 32.º
-### Competência de fiscalização
-Compete à Assembleia Legislativa Regional dos Açores, no exercício de funções de fiscalização:
-a) Vigiar pelo cumprimento da Constituição, do Estatuto e das leis e apreciar os actos do Governo e da administração regional;
-b) Aprovar as contas da Região respeitantes a cada ano económico e apreciar os relatórios de execução do plano de desenvolvimento económico e social regional;
-c) Solicitar ao Tribunal Constitucional a declaração de inconstitucionalidade de normas emanadas dos órgãos de soberania por violação de direitos da Região;
-d) Solicitar ao Tribunal Constitucional a declaração de ilegalidade de qualquer norma de diploma emanado dos órgãos de soberania com fundamento em violação dos direitos previstos no presente Estatuto;
-e) Fiscalizar a aplicação dos fundos estruturais na Região e de outros programas comunitários de âmbito regional ou de âmbito nacional com incidência na Região.
+### Deveres dos Deputados
+1 - Constituem deveres dos deputados:
+a) Participar nos trabalhos parlamentares;
+b) Comparecer às reuniões plenárias e às das comissões a que pertençam;
+c) Desempenhar os cargos da Assembleia Legislativa e as funções para que sejam eleitos ou designados;
+d) Participar nas votações;
+e) Respeitar a dignidade da Assembleia Legislativa e de todos os que nela têm assento;
+f) Observar a ordem e a disciplina fixadas no Regimento da Assembleia Legislativa;
+g) Contribuir para a eficácia e o prestígio dos trabalhos da Assembleia Legislativa e, em geral, para a observância da Constituição e do Estatuto.
+2 - Os deputados devem visitar cada uma das ilhas da Região, pelo menos, uma vez em cada legislatura.

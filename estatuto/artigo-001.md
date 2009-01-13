@@ -1,6 +1,6 @@
 ## Título I
-## Princípios gerais
+## Região Autónoma dos Açores
 # Artigo 1.º
-### Região Autónoma dos Açores
-1 - O arquipélago dos Açores, composto pelas ilhas de Santa Maria, S. Miguel, Terceira, Graciosa, S. Jorge, Pico, Faial, Flores e Corvo, e também pelos seus ilhéus, constitui uma região autónoma da República Portuguesa, dotada de personalidade jurídica de direito público.
-2 - A Região Autónoma dos Açores abrange ainda o mar circundante e seus fundos, definidos como águas territoriais e Zona Económica Exclusiva nos termos da lei.
+### Autonomia regional
+1 - O arquipélago dos Açores constitui uma Região Autónoma da República Portuguesa, dotada de personalidade jurídica de direito público.
+2 - A autonomia política, legislativa, administrativa, financeira e patrimonial da Região exerce-se no quadro da Constituição e do presente Estatuto.

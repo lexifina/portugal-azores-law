@@ -1,4 +1,5 @@
+## Secção II
+## Estatuto dos Deputados à Assembleia Legislativa
 # Artigo 97.º
-### Autonomia financeira
-1 - A autonomia financeira da Região exerce-se no quadro da Constituição, do presente Estatuto e da Lei de Finanças das Regiões Autónomas.
-2 - A autonomia financeira visa garantir aos órgãos de governo próprio da Região os meios necessários à prossecução das suas atribuições, bem como a disponibilidade dos instrumentos adequados à promoção do desenvolvimento económico e social e do bem-estar e da qualidade de vida das populações, a eliminação das desigualdades resultantes da situação de insularidade e de ultraperiferia e ao esforço de convergência económica com o restante território nacional e com a União Europeia.
+### Direitos, regalias e imunidades dos deputados
+O Estatuto dos Deputados à Assembleia da República é aplicável aos deputados à Assembleia Legislativa no que se refere aos direitos, regalias e imunidades constitucional e legalmente consagrados, com as necessárias adaptações e de acordo com as especificidades consagradas no presente Estatuto e no respectivo regime legal de execução.

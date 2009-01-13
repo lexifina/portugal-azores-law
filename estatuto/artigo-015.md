@@ -1,3 +1,3 @@
 # Artigo 15.º
-### Condições de elegibilidade;
-São elegíveis os cidadãos portugueses eleitores, salvo as restrições que a lei estabelecer.
+### Princípio da supletividade da legislação nacional
+Na falta de legislação regional própria sobre matéria não reservada à competência dos órgãos de soberania, aplicam-se na Região as normas legais em vigor.
