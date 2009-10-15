@@ -1,6 +1,5 @@
 # Artigo 21.º
-### Comissões de serviço
-1 - Podem exercer funções de carácter específico nas empresas públicas regionais, em comissão de serviço, funcionários da Região, do Estado e dos institutos públicos, das autarquias locais, bem como trabalhadores de quaisquer empresas públicas, os quais manterão todos os direitos inerentes ao seu quadro de origem, incluindo os benefícios de aposentação ou reforma e sobrevivência, considerando-se todo o período da comissão como serviço prestado nesse quadro.
-2 - Os trabalhadores das empresas públicas regionais podem exercer, em comissão de serviço, funções na Região, institutos públicos regionais, autarquias locais ou em outras empresas públicas regionais, mantendo todos os direitos inerentes ao seu estatuto profissional na empresa de origem, considerando-se todo o período na comissão como serviço prestado na empresa de origem.
-3 - Os trabalhadores em comissão de serviço, nos termos dos números anteriores, poderão optar pelo vencimento correspondente ao seu quadro de origem ou pelo correspondente às funções que vão desempenhar.
-4 - O vencimento e demais encargos dos trabalhadores em comissão de serviço serão da responsabilidade da entidade onde se encontrem a exercer funções.
+### Cedência de interesse público
+1 - Os trabalhadores com relação jurídica de emprego público podem exercer funções nas empresas públicas regionais por acordo de cedência de interesse público nos termos da legislação regional em vigor.
+2 - Os trabalhadores das empresas públicas regionais podem exercer funções em órgãos ou serviços abrangidos pelo âmbito de aplicação da Lei n.º 12-A/2008, de 27 de Fevereiro, com utilização da modalidade adequada de constituição da relação jurídica de emprego público, por acordo de cedência de interesse público nos termos da legislação regional em vigor.
+3 - Os trabalhadores referidos no número anterior podem optar pela retribuição base de origem.

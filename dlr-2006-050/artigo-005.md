@@ -15,8 +15,9 @@ e) O contrato de trabalho por tempo indeterminado, bem como os que determinam, r
 f) As comissões de serviço;
 g) Os actos de cessação das modalidades da relação jurídica de emprego público referidas nas alíneas anteriores;
 h) As alterações dos posicionamentos remuneratórios;
-i) Os contratos de prestação de serviços.
+i) Os contratos de prestação de serviços;
+j) A lista de antiguidade dos trabalhadores que exercem funções públicas, nos termos da legislação em vigor.
 3 - O registo da informação na BEP - Açores compete:
-a) A cada serviço utilizador, nos casos das alíneas a) e b) do n.º 1 e b) e d) a i) do n.º 2;
+a) A cada serviço utilizador, nos casos das alíneas a) e b) do n.º 1 e b), d) a j) do n.º 2;
 b) Ao membro do Governo Regional com competência nas matérias da administração pública, no caso das alíneas e) do n.º 1 e a) e c) do n.º 2;
 c) Aos interessados, nos casos previstos nas alíneas c) e d) do n.º 1.
