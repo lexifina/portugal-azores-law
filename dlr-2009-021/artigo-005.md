@@ -1,0 +1,11 @@
+## Capítulo II
+## Contratos-programa
+# Artigo 5.º
+### Comparticipações financeiras
+1 - Salvo o disposto no número seguinte, a obrigação estabelecida no artigo anterior aplica-se a todas as comparticipações financeiras, qualquer que seja a proporção dos custos por elas cobertos, concedidas, em apoio ao movimento associativo desportivo ou a atletas, directamente pela administração regional autónoma ou através de organismos, fundos e serviços dela dependentes.
+2 - Não ficam sujeitas ao regime constante do presente diploma as comparticipações cujo montante em cada ano não ultrapasse o valor correspondente a cinco vezes o valor do salário mínimo regional, a menos que tais comparticipações, em conjunto com as anteriormente concedidas em benefício do mesmo programa de desenvolvimento desportivo e pela mesma entidade, excedam aquele valor anual.
+3 - As comparticipações financeiras só podem ser concedidas mediante a apresentação, pelas entidades interessadas ou pelos atletas, de programas de desenvolvimento desportivo, excepto quando se trate da atribuição de prémios de classificação, subidas de divisão e manutenção e de apoio à utilização de atletas formados nos Açores ou de atletas formados no clube.
+4 - Não podem ser objecto de comparticipação financeira os planos ou projectos que contrariem os princípios da universalidade e da igualdade, da ética desportiva e da coesão e da continuidade territorial, previstos nos artigos 2.º, 3.º e 4.º da Lei n.º 5/2007, de 16 de Janeiro.
+5 - Sem prejuízo de outras consequências que resultem da lei, não podem beneficiar de novos apoios financeiros por parte da administração regional autónoma e das autarquias locais as entidades que estejam em situação de incumprimento das suas obrigações fiscais ou para com a segurança social, devendo ser suspensos os benefícios financeiros decorrentes de quaisquer contratos-programa em curso enquanto a situação se mantiver.
+6 - Os apoios previstos nos contratos-programa encontram-se exclusivamente afectos às finalidades para as quais foram atribuídos, sendo absolutamente insusceptíveis de penhora ou de qualquer forma de apreensão judicial ou oneração.
+7 - Não pode igualmente ser objecto de comparticipação ou patrocínio financeiro o desporto profissional, excepto nos termos do Decreto Legislativo Regional n.º 8/99/A, de 22 de Março.

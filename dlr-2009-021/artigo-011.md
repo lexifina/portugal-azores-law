@@ -1,0 +1,6 @@
+# Artigo 11.º
+### Aceitação e rejeição das propostas
+1 - A aceitação das propostas de celebração de contratos-programa deve ser comunicada ao respectivo proponente acompanhada de minuta com indicação das cláusulas de interesse público que a entidade competente entenda deverem ser incluídas no contrato.
+2 - Quando não for possível a celebração imediata do contrato-programa por razões de natureza orçamental, as propostas aceites consideram-se válidas até ao fim do ano económico subsequente, devendo ser comunicadas ao proponente as condições em que o contrato poderá ser celebrado e a ordem temporal de prioridade da sua proposta em relação àquelas que se encontrem em idêntica situação.
+3 - Se o contrato-programa, nos casos referidos no número anterior, não puder ser celebrado no decurso daquele período, tem o respectivo proponente o direito de o renovar, mediante simples declaração, actualizando as suas cláusulas em função da evolução das necessidades.
+4 - Quando a proposta seja rejeitada e os fundamentos da rejeição não constituam obstáculo definitivo à aceitação do programa de desenvolvimento desportivo proposto, a entidade que a proferiu deve indicar as condições e os termos em que a proposta tem de ser reformulada para poder ser aceite.
