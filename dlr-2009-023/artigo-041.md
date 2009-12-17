@@ -1,0 +1,10 @@
+# Artigo 41.º
+### Suspensão e cessação do apoio
+1 - No exercício das suas competências de gestão do Programa, o departamento do Governo Regional com competência em matéria de habitação pode suspender a atribuição do apoio financeiro, sempre que verifique existirem fundados indícios da prática de actos ou omissões por parte dos beneficiários contrários ao disposto no presente diploma.
+2 - A comprovação pelos beneficiários da regularidade do cumprimento das obrigações determina o reinício do processo de atribuição da subvenção e o pagamento dos valores relativos ao período da suspensão.
+3 - A não apresentação da prova a que se refere o número anterior no prazo de 20 dias úteis a contar da data de recepção da notificação para o efeito determina a imediata cessação da atribuição do apoio financeiro, bem como, se aplicável, o previsto no n.º 5.
+4 - O departamento do Governo Regional referido no n.º 1 pode ainda fazer cessar o apoio financeiro, sempre que se verifique:
+a) A falsificação de documentos ou a prestação de falsas declarações, quer na fase de candidatura quer na fase de execução do apoio, nomeadamente por omissão de factos ou dados relevantes para efeito de atribuição, manutenção ou alteração do apoio financeiro;
+b) A prática de acto ou omissão que constitua o senhorio no direito de resolver o contrato de arrendamento, nomeadamente a mora no pagamento da renda.
+5 - No caso em que se comprove a existência de actos ou omissões, por parte dos beneficiários, contrários ao disposto no presente diploma, haverá, ainda, lugar à devolução dos montantes recebidos a esse título desde a prática do acto ou omissão, acrescidos de juros de mora à taxa legal em vigor, sem prejuízo de outras sanções legalmente aplicáveis ao caso.
+6 - Quando haja lugar à cessação do apoio financeiro nos termos da alínea a) do n.º 4, os beneficiários faltosos ficam impedidos de se candidatar, nessa ou noutra qualidade, ao presente programa de incentivo ao arrendamento promovido pela Região Autónoma dos Açores durante o período de três anos.
