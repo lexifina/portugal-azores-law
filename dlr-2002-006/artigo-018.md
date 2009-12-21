@@ -17,4 +17,5 @@ h) O incumprimento do previsto na alínea i) do artigo 17.º determina o reembol
 a) Na fase de instrução, a exclusão das mesmas;
 b) Na fase compreendida entre a decisão e a concretização do subsídio, a extinção do direito ao mesmo;
 c) Após a concretização do subsídio, o reembolso do mesmo, acrescido de 10%.
-3 - O incumprimento de alguma das obrigações referidas no artigo 17.º bem como a prestação de falsas declarações implicarão, ainda, a impossibilidade do faltoso se candidatar a qualquer outro programa de apoio à habitação.
+3 - O incumprimento de alguma das obrigações referidas no artigo 17.º, com excepção da alínea j) do n.º 1 do artigo anterior, implicará a impossibilidade do faltoso se candidatar a qualquer outro programa de apoio à habitação pelo período de cinco anos.
+4 - A prestação de falsas declarações implicará, ainda, a impossibilidade do declarante se candidatar a qualquer outro programa de apoio à habitação.
