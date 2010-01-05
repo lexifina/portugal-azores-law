@@ -1,6 +1,7 @@
 # Artigo 48.º
-### Competências do delegado de saúde de ilha
-Ao delegado de saúde de ilha compete, nomeadamente:
-a) Elaborar o relatório anual sobre o estado sanitário da ilha e as actividades desenvolvidas, que enviará à autoridade de saúde regional, conjuntamente com a programação para o ano seguinte;
-b) Supervisionar, orientar, coordenar e apoiar a execução dos programas das actividades dos delegados de saúde concelhios, de acordo com a lei e as instruções superiormente emanadas;
-c) Exercer os demais poderes que lhe sejam atribuídos por lei, regulamento ou que lhe hajam sido delegados ou subdelegados.
+### Coordenador regional de saúde pública
+1 - A autoridade de saúde regional pode ser coadjuvada por um coordenador regional de saúde pública.
+2 - O coordenador regional de saúde pública é nomeado, em regime de comissão de serviço, por despacho do membro do Governo Regional com competência em matéria de saúde, sob proposta do director regional da Saúde, preferencialmente de entre médicos da carreira médica de saúde pública ou de entre médicos de outras carreiras que detenham três ou mais anos de exercício de funções de delegado de saúde.
+3 - A nomeação referida no número anterior efectua-se pelo período de três anos, renovável por iguais períodos.
+4 - As funções de coordenador regional de saúde pública podem ser acumuladas com quaisquer outras.
+5 - O coordenador regional de saúde pública exerce, nomeadamente, as competências previstas no artigo seguinte, bem como aquelas que lhes sejam delegadas pelo director regional da Saúde.

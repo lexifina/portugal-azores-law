@@ -1,10 +1,10 @@
 # Artigo 11.º
 ### Do conselho de administração das unidades de saúde de ilha
-1 - O conselho de administração das USI será integrado, em regra, por um presidente e dois vogais.
-2 - O presidente é nomeado pelo secretário regional da tutela, ouvido o conselho consultivo da USI, de entre profissionais com habilitação adequada, em termos a regulamentar no diploma que aprove a orgânica da respectiva USI.
-3 - Os vogais são nomeados pelo secretário regional que tutela a saúde, sob proposta do presidente do conselho de administração, sendo um de entre médicos e técnicos superiores de saúde e o outro de entre enfermeiros e técnicos de diagnóstico e terapêutica.
-4 - Nas USI onde haja uma única entidade prestadora de cuidados de saúde, os vogais do conselho de administração assumem as funções de direcção clínica e de enfermagem, sendo eleitos, obrigatoriamente, de entre profissionais das carreiras médica e de enfermagem, quando qualquer dos colégios eleitorais seja superior a cinco elementos e, no caso de tal se não verificar, o vogal respectivo será cooptado pelo presidente do conselho de administração.
-5 - Nas USI cuja dimensão o justifique poderá a respectiva orgânica determinar a inclusão no conselho de administração de um administrador-delegado com funções de superintendência administrativa.
-6 - Nas USI cuja dimensão o justifique poderá a respectiva orgânica determinar a inclusão no conselho de administração de dois vogais não executivos.
-7 - O conselho de administração, através do presidente, disporá de competências delegadas ou subdelegadas pelo director regional de Saúde e incumbir-lhe-á, dentro das linhas orientadoras definidas para o SRS pelos órgãos para tal competentes, para além da propositura das medidas que julgar mais adequadas à melhor utilização dos recursos disponíveis na unidade e ao mais correcto funcionamento dos serviços aí sediados, desenvolver funções de planeamento e coordenação dos serviços de saúde que a integrarem, bem como a avaliação sistemática da actividade ali desenvolvida.
-8 - O conselho de administração será apoiado por uma estrutura administrativa e, no plano técnico, para além do apoio que lhe deverá ser prestado pelos serviços da Direcção Regional de Saúde, quando solicitado, poderá afectar à sua estrutura de apoio os técnicos necessários ao desempenho das suas funções.
+1 - O conselho de administração das USI é integrado por um presidente e dois vogais.
+2 - O presidente e os vogais são nomeados pelo membro do Governo Regional com competência em matéria de saúde de entre profissionais com habilitação adequada, em termos a regulamentar no diploma que aprove a orgânica da respectiva USI.
+3 - Nas USI cuja dimensão o justifique pode a respectiva orgânica determinar a inclusão no conselho de administração de até dois vogais não executivos.
+4 - Compete ao conselho de administração, dentro das linhas orientadoras definidas para o SRS pelos órgãos competentes, gerir os recursos humanos, materiais e financeiros colocados à sua disposição e assegurar a prestação de cuidados de saúde à população da sua área de intervenção.
+5 - (Revogado.)
+6 - (Revogado.)
+7 - (Revogado.)
+8 - (Revogado.)

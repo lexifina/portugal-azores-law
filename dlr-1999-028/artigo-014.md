@@ -4,13 +4,13 @@
 2 - O conselho técnico tem a seguinte composição:
 a) Presidente do conselho de administração da USI;
 b) Vogais do conselho de administração da USI;
-c) Administrador-delegado, quando existir, de acordo com o disposto no n.º 5 do artigo 11.º;
-d) Director clínico do hospital;
-e) Director de enfermagem do hospital;
+c) (Revogada.)
+d) (Revogada.)
+e) (Revogada.)
 f) Director clínico de cada um dos centros de saúde da USI;
 g) Director de enfermagem de cada um dos centros de saúde da USI;
 h) Órgãos de direcção técnica de cada um dos serviços especializados existentes na USI;
 i) Um representante dos técnicos superiores de saúde;
 j) Um representante dos técnicos de diagnóstico e terapêutica;
 l) Um representante dos técnicos superiores de serviço social;
-m) O delegado de saúde de ilha.
+m) (Revogada.)
