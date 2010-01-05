@@ -2,7 +2,7 @@
 ### Do Conselho Regional de Saúde
 1 - No Conselho Regional de Saúde estarão representadas as entidades interessadas no funcionamento das instituições prestadoras de cuidados de saúde da Região.
 2 - O Conselho terá a seguinte composição:
-a) O Secretário Regional da Educação e Assuntos Sociais, que presidirá;
+a) O membro do Governo Regional com competência em matéria de saúde, que presidirá;
 b) O director regional da Saúde;
 c) O director regional da Solidariedade e Segurança Social ou quem ele designar;
 d) Um representante de cada uma das associações de utentes dos serviços de saúde que exerçam actividade na Região;
