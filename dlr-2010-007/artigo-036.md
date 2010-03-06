@@ -1,0 +1,6 @@
+# Artigo 36.º
+### Harmonização de regimes
+1 - As sociedades comerciais ou cooperativas, licenciadas pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT), podem exercer a actividade de transporte regional rodoviário de mercadorias por conta de outrem por meio de veículos de peso bruto igual ou superior a 2500 kg, sendo-lhes aplicável o Decreto-Lei n.º 257/2007, de 16 de Julho, sem prejuízo do disposto no n.º 3.
+2 - À realização de transportes rodoviários de mercadorias por conta de outrem por meio de veículos de peso bruto igual ou superior a 2500 kg, internacionais e de cabotagem, com passagem no território da Região Autónoma dos Açores, é aplicável o Decreto-Lei n.º 257/2007, de 16 de Julho, sem prejuízo do disposto no número seguinte.
+3 - Aos transportes rodoviários referidos nos números anteriores aplicam-se os artigos 19.º, 33.º e 34.º do presente diploma.
+4 - A direcção regional referida no n.º 1 do artigo 3.º reconhece os certificados de capacidade profissional para transportes rodoviários de mercadorias emitidos pelo IMTT ou pelas entidades competentes de outros Estados membros da União Europeia, nos termos da Directiva n.º 96/26/CE, do Conselho, de 29 de Abril, alterada pela Directiva n.º 98/76/CE, do Conselho, de 1 de Outubro.

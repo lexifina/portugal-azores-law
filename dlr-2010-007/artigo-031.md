@@ -1,0 +1,7 @@
+# Artigo 31.º
+### Sanções acessórias
+1 - Com a aplicação da coima pela infracção prevista na alínea a) do n.º 1 do artigo 22.º pode ser aplicada a sanção acessória de interdição do exercício da actividade, desde que tenha havido anterior condenação pela prática da mesma infracção.
+2 - Com a aplicação da coima por infracção ao n.º 2 do artigo 28.º pode ser decretada a sanção acessória de suspensão da licença ou de apreensão do certificado de matrícula do veículo automóvel, consoante se trate de transporte por conta de outrem ou transporte por conta própria, se o transportador tiver praticado três infracções da mesma natureza, com decisão definitiva, e estas tiverem ocorrido no decurso dos dois anos anteriores à data da prática da infracção que está a ser decidida.
+3 - A interdição do exercício da actividade, a suspensão da licença do veículo ou a apreensão do certificado de matrícula, previstas nos números anteriores, têm a duração máxima de dois anos.
+4 - A aplicação da sanção acessória de interdição do exercício da actividade implica necessariamente a suspensão e consequentemente o depósito na direcção regional referida no n.º 1 do artigo 3.º das licenças de que a empresa infractora seja titular.
+5 - Durante o período de duração da sanção acessória, aplicada nos termos do n.º 2, a licença ou o certificado de matrícula ficam depositados na direcção regional referida no número anterior.
