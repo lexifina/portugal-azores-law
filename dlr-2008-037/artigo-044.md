@@ -1,7 +1,3 @@
-## Capítulo XIII
-## Touradas à corda
-## Secção I
-## Disposições gerais
 ## Subsecção I
 ## Licenciamento
 # Artigo 44.º

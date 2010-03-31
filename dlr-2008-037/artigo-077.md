@@ -1,6 +1,6 @@
 # Artigo 77.º
 ### Delegado municipal
-1 - A câmara municipal nomeia um delegado municipal por cada tourada, por sorteio com garantia de rotatividade, mediante a organização prévia de uma lista de pessoas idóneas.
+1 - A câmara municipal nomeia um delegado municipal por cada tourada, por sorteio com garantia de rotatividade, mediante a organização prévia de uma lista de pessoas idóneas, com reconhecida competência na matéria.
 2 - O delegado municipal comunica à Polícia de Segurança Pública e à câmara municipal respectiva todas as infracções a este diploma que venham a verificar-se e orienta a execução da tourada, nomeadamente quanto aos seguintes aspectos:
 a) Verificação da extensão dos percursos e controle do tempo de duração da lide de cada touro, de acordo com o estabelecido nos artigos 54.º e 55.º;
 b) Zelar pelo cumprimento das disposições da secção ii do presente capítulo, sem prejuízo do disposto nos artigos 65.º a 68.º;
