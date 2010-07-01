@@ -1,0 +1,4 @@
+# Artigo 32.º
+### Grandes infra-estruturas de transporte
+1 - As entidades gestoras ou concessionárias de grandes aeroportos e de grandes infra-estruturas de transporte portuário e rodoviário elaboram mapas estratégicos de ruído e planos de acção, nos termos do disposto nos artigos 15.º e 16.º do presente diploma.
+2 - Para efeitos do disposto no número anterior, por despacho conjunto dos membros do Governo Regional competentes em matéria de ambiente e transportes aéreos e para efeitos do cumprimento dos valores limite fixados no artigo 22.º do presente diploma, podem ser equiparadas a grandes aeroportos as infra-estruturas de transporte aéreo identificadas pelo departamento da administração regional autónoma em matéria de transporte aéreo como aeroporto civil com tráfego superior a 43 000 movimentos por ano em aviões subsónicos de propulsão por reacção e em que não seja possível cumprir os valores limite que lhes seriam aplicáveis.

@@ -1,0 +1,11 @@
+# Anexo XI
+### Indicações e orientações para a selecção de protectores auditivos
+1 - Considera-se que um protector auditivo proporciona a atenuação adequada quando um trabalhador com este protector correctamente colocado fica sujeito a um nível de exposição pessoal diária efectiva inferior aos valores limite e, se for tecnicamente possível, abaixo dos valores de acção inferiores.
+2 - Para a selecção de protectores auditivos, em função da atenuação por bandas de oitava, segue-se o seguinte método:
+a) Medir o nível de pressão sonora contínuo equivalente, ponderado A, em cada banda de oitava, L(índice Aeq,f,Tk), do ruído a que cada trabalhador está exposto, para cada posto de trabalho que ocupa, definindo assim o espectro correspondente ao ruído k a que o trabalhador está exposto durante T(índice k) horas por dia;
+b) Determinar os níveis globais, em dB(A) por banda de oitava, L(índice 63), L(índice 125),... L(índice n), L(índice 8000), de acordo com a seguinte equação: L(índice n) = L(índice Aeq,f,Tk) - M(índice f) + 2s(índice f), em que s(índice f) é o valor do desvio padrão da atenuação e M(índice f) o valor médio da atenuação dos protectores auditivos em cada banda de frequência, ambos indicados pelo fabricante;
+c) Com os níveis globais, obtidos como indicado na alínea b), calcular o nível sonoro contínuo equivalente, L(índice Aeq,Tk,efect), de cada ruído que ocorra durante o tempo T(índice k), estando o trabalhador equipado com protectores auditivos, pela equação: L(índice Aeq,Tk,efect) = 10 log (somatório)(índice n) 10(elevado a 0,1Ln);
+d) Aplicando ao conjunto destes valores, calculados como refere a alínea anterior, a equação dada no n.º 10, alínea c), do anexo viii para calcular a exposição diária, obtém-se a exposição diária efectiva, L(índice EX,8h,efect), em dB(A), de cada trabalhador que use protectores auditivos pela seguinte expressão:
+(ver documento original)
+3 - Nas situações em que o espectro do ruído não contenha componentes significativas de baixa frequência, podem ser utilizados os métodos de selecção dos protectores auditivos definidos na normalização aplicável, nomeadamente os métodos HML e SNR.
+4 - Quando na selecção dos protectores auditivos seja utilizado o método por banda de oitava, os cálculos efectuados devem ser registados em formulário adequado.

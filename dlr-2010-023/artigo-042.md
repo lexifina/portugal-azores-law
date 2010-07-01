@@ -1,0 +1,6 @@
+# Artigo 42.º
+### Avaliação das restrições em grandes aeroportos
+1 - Para efeitos de aprovação de uma decisão relativa a restrições de operação num grande aeroporto, as informações especificadas no anexo vii do presente diploma são tomadas em conta, na medida do possível e se tal se justificar, no que diz respeito às restrições de operação em questão e às características do aeroporto.
+2 - Para efeitos de avaliação da adopção de restrições de operação, previstas no artigo anterior, as entidades responsáveis pelas infra-estruturas de transportes em exploração devem elaborar planos de monitorização e redução do ruído, submetendo-os à apreciação prévia da autoridade ambiental.
+3 - Sempre que os projectos de aeroportos sejam sujeitos a uma avaliação do impacte ambiental, a avaliação em conformidade com o presente diploma deve ser considerada como cumprindo com o disposto no n.º 1, desde que, na medida do possível, tenham sido tomadas em conta as informações especificadas no anexo vi do presente diploma.
+4 - O disposto nos números anteriores não se aplica às alterações mínimas de ordem técnica e às restrições de operação parciais que não tenham implicações significativas em termos de custos para os operadores aéreos de um dado aeroporto.

@@ -1,0 +1,5 @@
+# Artigo 17.º
+### Elaboração e aprovação de mapas estratégicos de ruído
+1 - Os mapas estratégicos de ruído relativos à situação no ano civil de referência para todas as grandes aglomerações e freguesias com densidade populacional superior a 2500 habitantes/km2, depois de aprovados, são enviados à autoridade ambiental até 31 de Março do ano imediato ao de referência, juntamente com a informação a que se refere o n.º 1 do anexo vi.
+2 - Os mapas estratégicos de ruído relativos à situação no ano civil de referência, para todas as grandes infra-estruturas de transporte rodoviário, grandes aeroportos e grandes infra-estruturas portuárias são enviados à autoridade ambiental até 28 de Fevereiro do ano imediato ao ano de referência para aprovação, juntamente com a informação a que se refere o n.º 2 do anexo vi.
+3 - A autoridade ambiental aprova os mapas estratégicos de ruído referidos no número anterior até 30 de Junho do ano imediato ao de referência, sem prejuízo da faculdade de solicitar a apresentação de elementos adicionais ou a correcção dos elementos inicialmente apresentados destinados a garantir o cumprimento do disposto no artigo 15.º do presente diploma.

@@ -1,0 +1,11 @@
+# Artigo 41.º
+### Funcionamento de infra-estruturas de transporte aéreo
+1 - Atento o disposto nos artigos anteriores, por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas dos transportes aéreos e do ambiente, pode ser interditada ou condicionada a aterragem e a descolagem de aeronaves civis entre as 0 e as 6 horas nos aeroportos e aeródromos em que tal se mostre necessário para assegurar o cumprimento dos valores limite fixados no artigo 22.º do presente diploma.
+2 - A portaria a que se refere o número anterior pode optar por condicionar naquele período o funcionamento daqueles aeroportos e aeródromos à instalação de um sistema de monitorização e simulação de ruído que permita caracterizar a sua envolvente relativamente ao L(índice den) e L(índice n) e assegurar o cumprimento dos valores limite fixados no artigo 22.º do presente diploma.
+3 - A portaria referida nos números anteriores pode fixar o número máximo de aterragens e descolagens permitido na infra-estrutura de transporte aéreo entre as 0 e as 6 horas, bem como a tipologia das aeronaves abrangidas, determinada em função do nível de classificação sonora de acordo com as normas da Organização da Aviação Civil Internacional (OACI), bem como outras restrições de operação.
+4 - Atendendo à situação do caso concreto, pode o departamento da administração regional autónoma competente em matéria de transporte aéreo, excepcionalmente e quando se trate de situações de reconhecido interesse público, mediante parecer prévio da autoridade ambiental, autorizar, a título temporário, a realização de operações que, em regra, sejam objecto de restrição.
+5 - O parecer previsto no número anterior deve ser emitido no prazo de dois dias úteis, findo o qual, sem que ocorra a respectiva emissão, a realização das operações em causa pode ser autorizada.
+6 - Para efeitos do disposto no n.º 4, o departamento competente em matéria de transporte aéreo remete à autoridade ambiental os seguintes elementos:
+a) Descrição do pedido de excepção, nomeadamente o número de voos adicionais, duração da excepção e classificação das aeronaves em termos da emissão sonora, em conformidade com o disposto nas normas da OACI;
+b) Fundamentação do interesse público em presença;
+c) Curvas de níveis sonoros previstas durante a vigência da excepção.
