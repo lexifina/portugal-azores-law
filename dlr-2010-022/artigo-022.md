@@ -1,0 +1,7 @@
+# Artigo 22.º
+### Obrigatoriedade e características do certificado
+1 - Nas áreas infestadas fixadas nos termos do n.º 1 do artigo 3.º, é obrigatório que, aquando da venda ou do arrendamento de um edifício, seja fornecido ao potencial comprador ou arrendatário um certificado válido de inspecção à infestação por térmitas (CIIT), nas suas modalidades de certificado de ausência de infestação ou de certificado de vistoria, consoante o caso.
+2 - Nas áreas referidas no número anterior é igualmente obrigatória a exibição, junto dos serviços autárquicos competentes para licenciamento de obras, de um certificado válido de inspecção à infestação por térmitas (CIIT), na sua modalidade de certificado de ausência de infestação, sempre que para um edifício ou sua fracção autónoma se dê por concluída uma obra qualificável nos termos do presente diploma como de grande intervenção de reabilitação.
+3 - A certificação de fracções autónomas ou unidades concebidas para utilização separada em edifícios pode ser realizada através da apresentação de uma certificação comum de todo o edifício.
+4 - Os certificados previstos no presente artigo têm como objectivo atestar sobre a existência ou ausência de infestação por térmitas e, caso esta exista, da espécie presente e do grau de infestação.
+5 - O certificado deve ainda incluir uma avaliação do grau de vulnerabilidade do edifício à infestação por térmitas e a menção das medidas que devem ser tomadas para controlo da infestação ou redução da vulnerabilidade do edifício.

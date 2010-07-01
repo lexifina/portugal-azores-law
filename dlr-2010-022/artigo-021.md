@@ -1,0 +1,5 @@
+# Artigo 21.º
+### Obrigações dos proprietários ou usufrutuários dos edifícios
+1 - Os proprietários ou usufrutuários dos edifícios são responsáveis, perante o SCIT, pelo cumprimento de todas as obrigações decorrentes das exigências previstas no presente diploma, nomeadamente as decorrentes da obrigatoriedade de autorizar a realização das inspecções que sejam determinadas nos termos do artigo 17.º do presente diploma e de realização de acções de desinfestação.
+2 - Sempre que um edifício se encontre infestado, impende sobre o seu proprietário ou usufrutuário o dever de proceder à sua desinfestação no período mínimo que seja possível, a fixar pela câmara municipal competente, não podendo aquele prazo exceder 180 dias após a constatação por aquela edilidade que se encontram reunidas as condições técnicas para a operação.
+3 - Os proprietários ou usufrutuários dos edifícios são obrigados a facultar ao perito, à câmara municipal ou à entidade gestora do SCIT, sempre que solicitado e quando aplicável, a consulta dos elementos necessários à realização de acções de auditoria ou de validação dos certificados, conforme definido no presente diploma.

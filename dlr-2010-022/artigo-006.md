@@ -1,0 +1,8 @@
+# Artigo 6.º
+### Obrigatoriedade de desinfestação
+1 - Sem prejuízo do direito de regresso, a exercer nos termos da lei geral, a responsabilidade pela desinfestação de quaisquer bens ou resíduos contaminados por térmitas, ou que contenham os seus ovos viáveis, impende sobre o seu detentor.
+2 - Sempre que seja detectada, ou existam fundadas razões para suspeitar da sua existência, a infestação de quaisquer materiais por térmitas ou pelos seus ovos viáveis, impende sobre o seu detentor a obrigação de promover a desinfestação ou proceder à sua imediata destruição por método que garanta a eliminação do risco de infestação.
+3 - Sem prejuízo do disposto no n.º 2 do artigo 21.º, a desinfestação ou destruição a que se refere o número anterior deve ser feita no período mínimo que seja necessário para a realização da operação.
+4 - Quando se trate de resíduos de qualquer natureza, o período referido no número anterior não pode, em caso algum, exceder os cinco dias úteis.
+5 - Quando, decorrido o período fixado no número anterior, não forem realizadas as operações previstas nos números anteriores, pode a autarquia em cujo território o resíduo se situe ou os serviços competentes em matéria de ambiente, de silvicultura ou de agricultura proceder à desinfestação ou destruição dos materiais infestados, sendo as despesas em que incorram ressarcidas pelo detentor.
+6 - Os documentos que titulam as despesas realizadas nos termos do número anterior, quando não forem pagas voluntariamente pelos proprietários ou detentores, no prazo de 20 dias a contar da sua notificação, servem de título executivo.

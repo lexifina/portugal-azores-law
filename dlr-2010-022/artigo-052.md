@@ -1,0 +1,8 @@
+# Artigo 52.º
+### Regime excepcional de acesso
+1 - Excepcionalmente e pelo prazo de dois anos contados da entrada em vigor do presente diploma, poderão ter acesso ao regime de apoio previsto no seu capítulo vi todos aqueles que não sendo titulares do direito de propriedade do imóvel nele residam a título permanente há mais de cinco anos.
+2 - Relativamente às candidaturas referidas no n.º 1, somente serão elegíveis aquelas em que os beneficiários cumpram o disposto nos artigos 33.º e seguintes do presente diploma, com as necessárias adaptações, nomeadamente no que respeita às classes de rendimentos previstos no seu anexo i.
+3 - A elegibilidade das candidaturas referidas no n.º 1, sem prescindir do que for fixado em diploma regulamentar, depende, ainda, da junção dos seguintes documentos:
+a) Declaração emitida pelo proprietário do edifício ou fracção autónoma de edifício candidato, ou legítimo representante com poderes bastantes para o efeito, na qual manifeste o consentimento à realização das obras a candidatar para efeitos de apoio e na qual aceite o ónus de inalienabilidade a que ficará sujeito o edifício ou fracção autónoma de edifício apoiado e respectivo regime fixado nos artigos 41.º a 44.º do presente diploma;
+b) Documento comprovativo de que a habitação a beneficiar constitui habitação própria permanente do agregado há mais de cinco anos, emitido pela junta de freguesia da área de residência do beneficiário do apoio.
+4 - Em tudo que não estiver expressamente definido e não contrarie o previsto no presente artigo, é aplicável, com as necessárias adaptações, o regime previsto no presente diploma.
