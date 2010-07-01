@@ -16,4 +16,4 @@ m) O atravessamento por linhas aéreas de transporte de energia eléctrica de m�
 n) Cemitérios.
 2 - Não se incluem na proibição contida na alínea h) do número anterior as associações e outras entidades sem fins lucrativos a que se refere o n.º 2 do artigo 7.º do Decreto Legislativo Regional n.º 5/2003/A, de 11 de Março.
 3 - Em salas localizadas na área de protecção a que se refere o n.º 1 não é permitido o licenciamento dos espectáculos de variedades ou diversões a que se refere o artigo 13.º do Decreto Legislativo Regional n.º 5/2003/A, de 11 de Março.
-4 - Para efeitos de aplicação da regulamentação sobre ruído, os edifícios escolares e seus logradouros e a respectiva zona de protecção são considerados zonas sensíveis para os efeitos do disposto no n.º 1 do artigo 8.º do Regulamento Geral do Ruído, aprovado pelo Decreto-Lei n.º 292/2000, de 14 de Novembro.
+4 - Para efeitos de aplicação da regulamentação sobre ruído, os edifícios escolares e seus logradouros e a respectiva zona de protecção são considerados zonas sensíveis para efeitos do disposto no Regulamento Geral de Ruído e de Controlo da Poluição Sonora.
