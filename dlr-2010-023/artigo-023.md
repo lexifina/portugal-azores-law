@@ -9,9 +9,9 @@ c) Caso se verifique a coexistência de componentes tonais e impulsivas a correc
 4 - Aos valores limite da diferença entre o L(índice Aeq) do ruído ambiente que inclui o ruído particular corrigido (L(índice Ar)) e o L(índice Aeq) do ruído residual, estabelecidos na alínea b) do n.º 1 do artigo 25.º, deve ser adicionado um valor D determinado em função da relação percentual (q) entre a duração acumulada de ocorrência do ruído particular e a duração total do período de referência.
 5 - Sem prejuízo do disposto no número seguinte, o valor D a que se refere o número anterior, expresso em dB(A), assume os seguintes valores em função do valor da relação percentual (q) entre a duração acumulada de ocorrência do ruído particular e a duração total do período de referência:
 a) q inferior ou igual a 12,5 % - D = 4 dB(A);
-b) 12,5 % (menor que) q (menor que) 25 % - D = 3 dB(A);
-c) 25 % (menor que) q (menor que) 50 % - D = 2 dB(A);
-d) 50 % (menor que) q (menor que) 75 % - D = 1 dB(A);
+b) 12,5 % (menor que) q (igual ou menor que) 25 % - D = 3 dB(A);
+c) 25 % (menor que) q (igual ou menor que) 50 % - D = 2 dB(A);
+d) 50 % (menor que) q (igual ou menor que) 75 % - D = 1 dB(A);
 e) q superior a 75 % - D = 0 dB(A).
 6 - Para o período nocturno não são aplicáveis os valores de D = 4 dB(A) e D = 3 dB(A), mantendo-se D = 2 dB(A) para valores percentuais inferiores ou iguais a 50 %, exceptuando-se desta restrição a aplicação de D = 3 dB(A) para actividades com horário de funcionamento até às 24 horas.
 7 - Para efeitos da verificação dos valores fixados na alínea b) do n.º 1 e no n.º 5 do artigo 25.º, o intervalo de tempo a que se reporta o indicador L(índice Aeq) corresponde ao período de um mês, devendo corresponder ao mês mais crítico do ano em termos de emissão sonora da fonte ou fontes de ruído em avaliação, no caso de se notar marcada sazonalidade.

@@ -5,5 +5,5 @@
 3 - Em caso de dúvida de ultrapassagem dos valores limite, as medições devem ser confirmadas com a utilização de sonómetros integradores.
 4 - Os dosímetros de ruído para a medição da exposição pessoal diária de cada trabalhador podem ser utilizados desde que:
 a) Estejam calibrados segundo o critério ISO, isto é, de forma que, ao duplicar a energia sonora recebida, L(índice EX,8h), aumenta 3 dB(A);
-b) Permitam determinar o nível sonoro contínuo equivalente, L(índice AeqT), ou o nível de exposição pessoal diária ao ruído, L(índice EX,8h), e o nível de pressão sonora de pico, L(índice Cpico).
+b) Permitam determinar o nível sonoro contínuo, L(índice Aeq,T), ou o nível de exposição pessoal diária ao ruído, L(índice EX,8h), e o nível de pressão sonora de pico, L(índice Cpico).
 5 - Os instrumentos utilizados para medições de ruído devem possuir indicador de sobrecarga.
