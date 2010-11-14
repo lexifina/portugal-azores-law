@@ -1,0 +1,5 @@
+# Artigo 119.º
+### Responsabilidade em matéria de recrutamento, de embarque e de desembarque
+1 - O armador, o mestre ou arrais da embarcação regional de pesca e os restantes marítimos são responsáveis pelo não cumprimento das disposições aplicáveis ao recrutamento, ao embarque e ao desembarque dos marítimos, nomeadamente quanto às exigências relativas à idade, à aptidão física, às qualificações e à titularidade dos certificados profissionais dos marítimos previstas para o desempenho de funções a bordo.
+2 - O armador, o mestre ou arrais da embarcação regional de pesca são ainda responsáveis pela inexistência ou indisponibilidade a bordo dos documentos e dos certificados exigíveis aos marítimos que façam parte do rol da tripulação, para efeitos de eventual controlo e inspecção.
+3 - O mestre ou arrais da embarcação são considerados representantes legais do armador, em relação a actos de gestão ordinária ou extraordinária que devam assumir relativamente à tripulação da embarcação regional de pesca.

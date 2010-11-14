@@ -1,0 +1,6 @@
+# Artigo 67.º
+### Viagem com lotação diferente da fixada
+1 - Sem prejuízo do disposto nos números seguintes, as embarcações regionais não podem navegar em desrespeito das normas relativas ao rol da tripulação e ao limite máximo permitido pelos meios de salvação existentes a bordo.
+2 - A requerimento do proprietário, armador, mestre ou arrais, o departamento do Governo Regional responsável pelas pescas ou o órgão local da autoridade marítima do porto em que a embarcação se encontre podem autorizar temporariamente a saída de uma embarcação de pesca regional para o mar, com lotação diferente da fixada, em número ou qualificação dos marítimos.
+3 - A autorização a que se refere o número anterior só deve ser dada caso as referidas entidades concluam que a lotação diferente não afecta a segurança da embarcação e das pessoas embarcadas, tendo em conta o número e a qualificação dos tripulantes, o limite máximo permitido pelo espaço e pelos meios de salvação existentes a bordo, a duração e o tipo de viagem pretendida.
+4 - Da autorização deve constar, obrigatoriamente, o número de viagens que a embarcação pode realizar ou o período de tempo que a embarcação pode operar, nas condições referidas no número anterior.

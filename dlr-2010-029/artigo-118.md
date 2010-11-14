@@ -1,0 +1,9 @@
+# Artigo 118.º
+### Rol de tripulação colectivo
+1 - Sempre que duas ou mais embarcações de pesca regionais sejam propriedade do mesmo armador, pode ser emitido um rol de tripulação colectivo, conforme modelo aprovado por portaria do membro do Governo Regional responsável pelas pescas.
+2 - Uma cópia do rol de tripulação colectivo, com menção das embarcações regionais abrangidas, é entregue, na ilha do porto de saída da embarcação de pesca regional, ao órgão local da autoridade marítima, ou à LOTAÇOR, ou à RIAC, ou à associação representativa da frota, entidades que devem confirmar, no original, a data e a hora de recepção.
+3 - A LOTAÇOR, a RIAC, ou a associação representativa da frota, deve remeter, no prazo de um dia útil, ao órgão local do sistema da autoridade marítima do porto de registo da embarcação de pesca regional uma cópia do rol de tripulação colectivo que recebeu do armador, mestre ou arrais da embarcação regional de pesca.
+4 - O órgão local da autoridade marítima, a LOTAÇOR, a RIAC, ou a associação representativa da frota, deve remeter, no 1.º dia útil de cada mês, ao departamento do Governo Regional responsável pelas pescas cópias de todos os róis de tripulação colectivos que recebeu dos armadores, mestres ou arrais das embarcações regionais de pesca.
+5 - O número de tripulantes a incluir no rol de tripulação colectivo não pode ser inferior ao somatório dos marítimos que constituem as lotações mínimas de segurança de cada uma das embarcações, podendo o armador, consoante as necessidades de serviço ou de exploração, utilizar os mesmos tripulantes em qualquer das embarcações abrangidas.
+6 - As embarcações regionais abrangidas por um rol de tripulação colectivo devem ter sempre a bordo, quando a navegar, os tripulantes fixados em número e qualificação, na lotação mínima de segurança.
+7 - Ao rol de tripulação colectivo aplicam-se as disposições dos artigos 114.º, 115.º, 116.º e 117.º deste diploma, com as devidas adaptações.

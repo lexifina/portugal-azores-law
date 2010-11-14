@@ -1,0 +1,8 @@
+# Artigo 115.º
+### Elaboração do rol de tripulação
+1 - O rol de tripulação é elaborado e assinado pelo armador ou, em sua representação, pelo mestre ou arrais da embarcação regional de pesca.
+2 - Uma cópia do rol de tripulação é entregue, na ilha do porto de saída da embarcação regional de pesca, ao órgão local da autoridade marítima, ou à LOTAÇOR, ou à RIAC, ou à associação representativa da frota, entidades que devem confirmar, no original, a data e a hora de recepção.
+3 - A LOTAÇOR, a RIAC, ou a associação representativa da frota, deve remeter, no prazo de um dia útil, ao órgão local do sistema da autoridade marítima do porto de registo da embarcação de pesca regional uma cópia do rol de tripulação que recebeu do armador, mestre ou arrais da embarcação regional de pesca.
+4 - O órgão local da autoridade marítima, a LOTAÇOR, a RIAC, ou a associação representativa da frota, deve remeter, no 1.º dia útil de cada mês, ao departamento do Governo Regional responsável pelas pescas cópias de todos os róis de tripulação que recebeu dos armadores, mestres ou arrais das embarcações regionais de pesca.
+5 - Os modelos do rol de tripulação e da lista de indivíduos não marítimos são aprovados por portaria do membro do Governo Regional responsável pelas pescas.
+6 - O membro do Governo Regional responsável pelas pescas pode estabelecer protocolos com a LOTAÇOR, a RIAC, ou as associações representativas da frota, com vista ao estabelecimento de regras para uma eficaz integração destas entidades nos processos de elaboração e de comunicação do rol de tripulação e da lista de indivíduos não marítimos.

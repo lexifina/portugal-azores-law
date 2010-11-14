@@ -1,0 +1,6 @@
+# Artigo 34.º
+### Tamanhos mínimos dos peixes, crustáceos e moluscos
+1 - De acordo com os artigos 17.º a 19.º do Regulamento (CE) n.º 850/98, do Conselho, de 30 de Março, os peixes, crustáceos e moluscos cujos tamanhos forem inferiores às dimensões mínimas fixadas no anexo xii do mesmo Regulamento devem ser imediatamente devolvidos ao mar, não podendo ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, expostos, colocados à venda ou vendidos.
+2 - Para as espécies relativamente às quais não estejam fixados tamanhos mínimos pela legislação comunitária que se apliquem no Mar dos Açores aos apanhadores, pescadores submarinos, pescadores de costa, ou embarcações regionais, poderão os mesmos ser fixados por portaria do membro do Governo Regional responsável pelas pescas.
+3 - Para as espécies relativamente às quais estejam fixados tamanhos mínimos pela legislação comunitária que se apliquem no Mar dos Açores aos apanhadores, pescadores submarinos, pescadores de costa, ou embarcações regionais, poderão ser fixados tamanhos mínimos mais restritos por portaria do membro do Governo Regional responsável pelas pescas.
+4 - A medição do tamanho dos peixes, crustáceos e moluscos faz-se em conformidade com o anexo xiii do Regulamento (CE) n.º 850/98, do Conselho, de 30 de Março.

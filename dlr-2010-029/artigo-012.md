@@ -1,0 +1,7 @@
+# Artigo 12.º
+### Repartição de quotas, licenças de pesca e máximos de captura autorizados
+1 - Sempre que as actividades das embarcações de pesca regionais estejam sujeitas a limitações de volumes de captura resultantes da fixação de quotas, ou de máximos de captura autorizados, ou de número limitado de licenças disponíveis, o membro do Governo Regional responsável pelas pescas poderá repartir pelo conjunto das embarcações regionais, tendo em conta, nomeadamente, a localização dos pesqueiros e recursos exploráveis, bem como o número de embarcações, suas características, o seu histórico de descargas e zonas de actuação habitual:
+a) As quotas e licenças atribuídas à frota regional pelos normativos nacionais;
+b) As quotas e licenças atribuídas à frota nacional pela União Europeia, na Subzona X da classificação estatística do CIEM - Conselho Internacional para a Exploração do Mar ou na Subzona 34.2.0 do COPACE - Comité de Pescas do Atlântico Centro-Este;
+c) Os máximos de captura de unidades populacionais de certas espécies ou conjuntos de espécies, fixados nos termos das alíneas g) e h) do n.º 2 do artigo 9.º
+2 - A repartição de partes das quotas, ou de máximos de captura autorizados, por ilha, por embarcações, ou grupos de embarcações regionais, bem como a atribuição das respectivas licenças, é da competência do membro do Governo Regional que tiver a seu cargo o sector das pescas.
