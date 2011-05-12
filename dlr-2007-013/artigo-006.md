@@ -3,7 +3,7 @@
 1 - Os institutos públicos regionais regem-se pelas normas constantes do presente diploma e demais legislação aplicável às pessoas colectivas públicas, em geral, e aos institutos públicos regionais, em especial, bem como pelos respectivos estatutos e regulamentos internos.
 2 - São, designadamente, aplicáveis aos institutos públicos regionais, quaisquer que sejam as particularidades dos seus estatutos e do seu regime de gestão, mas com as ressalvas estabelecidas no título IV do presente diploma:
 a) O Código do Procedimento Administrativo, no que respeita à actividade de gestão pública, envolvendo o exercício de poderes de autoridade, a gestão da função pública ou do domínio público, ou a aplicação de outros regimes jurídico-administrativos;
-b) O regime jurídico da função pública ou o do contrato individual de trabalho, de acordo com o regime de pessoal aplicável;
+b) O regime jurídico aplicável aos trabalhadores que exercem funções públicas;
 c) O regime da administração financeira e patrimonial do Estado e da Região;
 d) O regime das empreitadas de obras públicas;
 e) O regime da realização de despesas públicas e da contratação pública;
