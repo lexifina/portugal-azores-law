@@ -1,0 +1,5 @@
+# Artigo 5.º
+### Formação
+1 - As condições de acesso, os planos curriculares e o regime de avaliação de conhecimentos dos cursos de formação das profissões de informação turística são objecto de regulamentação em portaria dos membros do Governo Regional competentes nas áreas de turismo e qualificação profissional, ou, quando envolva habilitação específica para operar em reservas naturais, destes com o membro do Governo Regional competente em matéria de ambiente.
+2 - Os cursos de formação podem ser promovidos por entidades de natureza pública, particular, associativa ou cooperativa, designadamente escolas profissionais, com observância do disposto na portaria referida no número anterior.
+3 - Anualmente, o serviço competente do departamento do Governo Regional com atribuições na área da qualificação profissional, em colaboração com o serviço competente do departamento do Governo Regional com atribuições na área de turismo, procede ao levantamento das necessidades de formação para as profissões de informação turística e para actualização e aperfeiçoamento de conhecimentos.
