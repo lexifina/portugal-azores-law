@@ -1,0 +1,5 @@
+# Artigo 15.º
+### Transmissão de direitos e obrigações
+1 - Transmite-se para a Portos dos Açores, S. A., a totalidade do património das sociedades fundidas e a titularidade de todos os direitos e obrigações, de qualquer fonte e natureza, que se encontrem relacionados com a sua actividade e com as suas atribuições.
+2 - Para todos os efeitos legais, incluindo os de registo, o presente diploma constitui título de aquisição bastante dos bens integrados no património das sociedades incorporadas, devendo quaisquer actos necessários à regularização da situação serem realizados pelas repartições competentes, mediante simples comunicação subscrita por dois membros do conselho de administração da Portos dos Açores, S. A.
+3 - O disposto no presente diploma não constitui alteração de circunstâncias ou variação relevante da situação patrimonial das sociedades ora fundidas para efeitos de quaisquer contratos em que estas sejam parte, nem deve ser interpretado ou aplicado em prejuízo de expectativas legítimas de terceiros.

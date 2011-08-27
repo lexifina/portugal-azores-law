@@ -1,0 +1,3 @@
+# Artigo 24.º
+### Concessões existentes
+Para efeitos do disposto no n.º 5 do artigo 6.º do presente diploma, as autarquias que à data de entrada em vigor do presente diploma já administram portos da classe E podem, com dispensa de qualquer outro procedimento, requerer a celebração de contrato de concessão nos termos previstos no artigo 68.º da Lei n.º 58/2005, de 29 de Dezembro, que aprova a Lei da Água, transpondo para a ordem jurídica nacional a Directiva n.º 2000/60/CE, do Parlamento Europeu e do Conselho, de 23 de Outubro, e estabelecendo as bases e o quadro institucional para a gestão sustentável das águas.

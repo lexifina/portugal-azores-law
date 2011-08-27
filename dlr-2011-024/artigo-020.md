@@ -1,0 +1,3 @@
+# Artigo 20.º
+### Transição de pessoal
+Os trabalhadores do quadro de pessoal das sociedades Administração dos Portos de São Miguel e Santa Maria, S. A., Administração dos Portos da Terceira e Graciosa, S. A., e Administração dos Portos do Triângulo e do Grupo Ocidental, S. A., são integrados automaticamente na Portos dos Açores, S. A., e mantêm a mesma situação jurídico-profissional e todos os direitos e obrigações de que eram titulares naquelas sociedades à data da fusão, designadamente quanto ao regime jurídico aplicável, à natureza do vínculo, ao regime de aposentação e aos regimes e condições constantes nos protocolos e no enquadramento legislativo e regulamentar do Estatuto do Pessoal das Administrações Portuárias.

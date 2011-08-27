@@ -1,0 +1,4 @@
+# Artigo 3.º
+### Objecto
+1 - A Portos dos Açores, S. A., tem por objecto a administração dos portos de Ponta Delgada, na ilha de São Miguel, de Vila do Porto, na ilha de Santa Maria, da Praia da Vitória e Pipas, na ilha Terceira, da Praia, na ilha Graciosa, da Horta, na ilha do Faial, de São Roque, da Madalena e das Lajes, na ilha do Pico, de Velas e da Calheta, na ilha de São Jorge, das Lajes e Santa Cruz, na ilha das Flores, e da Casa, na ilha do Corvo, e de outros que lhe venham a ser atribuídos, visando a sua exploração, conservação e desenvolvimento e abrangendo o exercício das competências e prerrogativas de autoridade portuária que lhe estejam ou venham a estar cometidas.
+2 - A sociedade pode deter participações de capital em outras empresas cuja actividade se relacione com o seu objecto social ou com a actividade do transporte marítimo.
