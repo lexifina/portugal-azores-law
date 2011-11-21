@@ -1,0 +1,5 @@
+# Artigo 97.º
+### Extinção do procedimento e nulidade
+1 - O não cumprimento, pela entidade requerente, do prazo previsto no n.º 6 do artigo 90.º, por causa que lhe seja imputável, implica a extinção do procedimento e arquivamento do respectivo processo, com perda das taxas pagas, salvo se houver interesse público na continuação do procedimento, a declarar por despacho do membro do Governo Regional competente em matéria de ambiente.
+2 - Sem prejuízo do procedimento criminal a que haja lugar e das demais invalidades dos actos administrativos legalmente previstas, são nulas, com perda das taxas pagas, as licenças e respectivos alvarás para a realização de operações de gestão de resíduos emitidos com fundamento em falsas declarações, em documentos falsos ou viciados ou em requisitos fundamentais não verificados.
+3 - São nulos os actos que autorizem ou licenciem a realização de qualquer projecto relativo a operações de gestão de resíduos sem que tenha sido previamente emitida a autorização de instalação a que se refere o artigo 89.º ou o alvará de licença de funcionamento a que se refere o artigo 91.º

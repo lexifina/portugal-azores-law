@@ -1,0 +1,15 @@
+# Artigo 185.º
+### Entidade gestora do sistema integrado
+1 - Qualquer entidade gestora que tenha por objecto tomar a seu cargo a gestão de resíduos de embalagens ao abrigo do sistema integrado, previsto no artigo anterior, carece de licença da autoridade ambiental, a publicar no Jornal Oficial por despacho do membro do Governo Regional competente em matéria de ambiente.
+2 - Caso se trate de entidade nacional já licenciada para gerir um sistema integrado de resíduos de embalagens, a extensão da sua actividade à Região Autónoma dos Açores requer autorização, a conceder nos termos do número anterior.
+3 - Os elementos que acompanham o pedido de licenciamento ou de autorização de extensão são os definidos no presente diploma, incluindo o caderno de encargos a que se refere o artigo seguinte.
+4 - A entidade gestora deve disponibilizar as contrapartidas financeiras necessárias para comportar as operações de recolha selectiva, triagem, compactação e enfardamento dos resíduos de embalagens, bem como para a retoma, reciclagem e valorização de resíduos de embalagens, pela forma seguinte:
+a) No caso das embalagens contidas nos resíduos urbanos, por meio de contratos com os municípios, a quem cabe proceder à recolha selectiva, triagem, compactação e enfardamento das embalagens, com as organizações de fornecedores e transformadores de materiais de embalagens que tiverem sido criadas para assegurar a retoma e valorização dos materiais recuperados e ainda com os operadores regionais responsáveis pela retoma, reciclagem e valorização dos resíduos de embalagens;
+b) No caso das demais embalagens, a responsabilidade da recolha selectiva e triagem dos resíduos de embalagem pode ser igualmente transmitida aos municípios, mediante a celebração de acordos voluntários com estes e sendo correspondentemente aplicável o disposto na alínea anterior quanto à retoma e valorização dos resíduos deste tipo de embalagens.
+5 - A actividade das entidades gestoras deve cumprir os seguintes requisitos:
+a) Articulação com a rede regional e municipal de recolha de resíduos de embalagens bem como com a rede regional de infra-estruturas de gestão de resíduos;
+b) Promoção da reciclagem e valorização de resíduos de embalagens através de operadores regionais ou locais que assumam a responsabilidade pela retoma, reciclagem e valorização dos resíduos de embalagens;
+c) Promoção e realização, anualmente, de acções de sensibilização, formação, comunicação e informação, preferencialmente em colaboração com entidades regionais e locais, incluindo a disponibilização de material promocional às entidades participantes;
+d) Reporte à autoridade ambiental, através do Sistema Regional de Informação sobre Resíduos nos termos do capítulo v do título ii;
+e) Monitorização permanente do sistema integrado, acompanhando de perto a actividade dos operadores económicos e dos municípios.
+6 - A entidade gestora deve suportar na totalidade o custo financeiro do transporte marítimo dos resíduos de embalagens, urbanas e não urbanas, da ilha onde são produzidos até ao local de realização das operações de retoma, reciclagem e valorização dos resíduos.

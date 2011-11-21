@@ -1,0 +1,14 @@
+# Artigo 69.º
+### Processo de admissão de resíduos em aterro
+1 - A deposição de resíduos de construção e demolição em aterro só é permitida após a submissão a triagem e fragmentação, realizadas nos termos do artigo 51.º do presente diploma.
+2 - O processo de admissão de um resíduo em aterro compreende os seguintes níveis de verificação, nos termos previstos no anexo vii do presente diploma, do qual faz parte integrante:
+a) Caracterização básica pelo produtor ou detentor;
+b) Verificação da conformidade pelo produtor ou detentor o mais tardar um ano após a caracterização básica e repetida pelo menos anualmente;
+c) Verificação no local pelo operador.
+3 - Se a caracterização básica e a verificação da conformidade de um resíduo demonstrarem que este satisfaz os critérios para a classe de aterro em causa, o operador emite um certificado de aceitação cuja validade não pode exceder um ano.
+4 - No acto de recepção de uma carga de resíduos transportada o operador emite um comprovativo da respectiva recepção e verifica a conformidade da documentação que a acompanha, incluindo o certificado de aceitação, as guias de acompanhamento do transporte de resíduos e, sempre que aplicável, os documentos exigidos nos termos do Regulamento (CE) n.º 1013/2006, do Parlamento Europeu e do Conselho, de 14 de Junho.
+5 - Sempre que tal se justifique, para verificação da conformidade do resíduo apresentado com a descrição constante da documentação que o acompanha, pode o operador determinar a recolha de amostras representativas, a expensas do produtor ou detentor do resíduo, as quais devem ser conservadas durante um mês, devendo os resultados das respectivas análises ser conservados pelo período de um ano.
+6 - O resíduo não é admitido em caso de não conformidade do mesmo com a descrição constante da documentação que o acompanha ou em caso de inexistência de certificado de aceitação válido.
+7 - Nos casos referidos no número anterior, o operador notifica a entidade licenciadora e os serviços inspectivos com competência em matéria de ambiente no prazo máximo de vinte e quatro horas, identificando o produtor ou detentor, as quantidades e a classificação dos resíduos em causa, sem prejuízo do disposto no presente diploma e no Regulamento (CE) n.º 1013/2006, do Parlamento Europeu e do Conselho, de 14 de Junho.
+8 - O operador não pode recusar a recepção de resíduos cuja natureza, classificação e acondicionamento se encontrem em conformidade com as disposições legais e regulamentares em vigor e com as condições do alvará de licença para a operação de deposição de resíduos em aterro, salvo quando se trate de um aterro destinado ao uso exclusivo do operador e como tal registado junto da autoridade ambiental.
+9 - O operador suspende a recepção de resíduos quando a capacidade máxima estabelecida no alvará de licença para a operação de deposição de resíduos em aterro tenha sido atingida.

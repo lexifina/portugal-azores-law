@@ -1,0 +1,9 @@
+## Título VI
+## Fiscalização e regime contra-ordenacional
+# Artigo 227.º
+### Fiscalização e inspecção
+1 - Com excepção do disposto nos n.os 2 e 3, a inspecção e fiscalização do cumprimento das disposições previstas no presente diploma competem aos serviços inspectivos competentes em matéria de ambiente, sem prejuízo das competências próprias das entidades licenciadoras, da ERSARA, dos municípios e das autoridades policiais.
+2 - Sem prejuízo do disposto no número anterior, a fiscalização das disposições constantes do capítulo iv do título v compete, também, aos serviços inspectivos competentes em matéria de actividades económicas e às entidades aduaneiras.
+3 - Sem prejuízo das competências atribuídas por lei às autoridades policiais e aos serviços inspectivos competentes em matéria de ambiente, compete ao departamento do Governo Regional com competência em matéria de sanidade animal a fiscalização do cumprimento das normas do Regulamento (CE) n.º 1069/2009, do Parlamento Europeu e do Conselho, de 21 de Outubro, bem como do disposto no título iii do presente diploma.
+4 - As entidades fiscalizadoras podem solicitar a outras entidades, públicas ou privadas, a participação de técnicos e de especialistas nas acções de fiscalização ou de inspecção, sempre que essa intervenção se revelar necessária.
+5 - Sempre que as entidades fiscalizadoras ou qualquer outra entidade competente tomem conhecimento de situações que indiciem a prática de uma contra-ordenação prevista no presente diploma devem dar notícia, no prazo de 10 dias, aos serviços inspectivos competentes em matéria de ambiente ou ao departamento do Governo Regional competente em matéria de sanidade animal, consoante o caso, e remeter-lhe toda a documentação de que disponham para efeito da instauração e instrução do processo de contra-ordenação e consequente decisão.

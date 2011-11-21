@@ -1,0 +1,8 @@
+# Artigo 210.º
+### Mercado regional organizado de resíduos
+1 - O mercado regional de resíduos é um mercado organizado no sentido de garantir uma alocação racional, eliminando custos de transacção, estimulando o seu reaproveitamento e reciclagem, diminuindo a procura de matérias-primas primárias e contribuindo para a modernização tecnológica dos respectivos produtores.
+2 - O mercado regional organizado de resíduos é um instrumento de negociação de diversos tipos de resíduos, que tem por objectivos potenciar a valorização e a reintrodução de resíduos no circuito económico, diminuir a procura de matérias-primas e promover simbioses industriais, contribuindo para a modernização tecnológica dos respectivos produtores.
+3 - O mercado regional organizado de resíduos deve funcionar em condições que garantam o acesso igualitário ao mercado, a transparência, universalidade, e rigor da informação que nele circula e a segurança nas transacções realizadas, bem como o respeito das normas destinadas à protecção do ambiente e da saúde pública.
+4 - Na criação do mercado regional organizado de resíduos deve estimular-se a participação dos sectores económicos que os produzem.
+5 - O regime financeiro do mercado regional organizado de resíduos deve visar a cobertura dos custos de gestão do respectivo sistema sem que por seu efeito se introduzam distorções no mercado ou os custos de transacção se tornem superiores aos custos de regulação.
+6 - No mercado regional podem ser transaccionados, unicamente para valorização, resíduos de todas as categorias, com excepção dos resíduos definidos como perigosos pelo regime geral da gestão de resíduos constante do presente diploma

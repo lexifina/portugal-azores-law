@@ -1,0 +1,6 @@
+# Artigo 84.º
+### Regimes específicos de licenciamento
+1 - As operações de valorização agrícola de lamas de depuração, de gestão de resíduos gerados em navios, de incineração e co-incineração de resíduos encontram-se sujeitas a licenciamento, nos termos da legislação respectivamente aplicável, aplicando-se o disposto no presente diploma em tudo o que não estiver nela previsto.
+2 - O licenciamento da operação de gestão de resíduos nos termos do presente diploma não prejudica a necessidade da obtenção de título de utilização de recursos hídricos sempre que o mesmo seja exigível nos termos da legislação aplicável.
+3 - As entidades gestoras de sistemas de gestão de fluxos específicos de resíduos são licenciadas nos termos de legislação própria, sem prejuízo da possibilidade de extensão do âmbito territorial das licenças de entidades gestoras para a Região Autónoma dos Açores, a realizar através de despacho do membro do Governo Regional competente em matéria de ambiente, aplicando-se ainda o disposto no presente diploma em tudo o que não estiver previsto na referida legislação.
+4 - O disposto nos números anteriores não prejudica a possibilidade de sujeição das operações de gestão de resíduos em causa ao regime da concessão nos termos do presente diploma.

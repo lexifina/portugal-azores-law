@@ -1,0 +1,4 @@
+# Artigo 37.º
+### Centros integrados de recuperação, valorização e eliminação de resíduos perigosos
+1 - As operações de gestão de resíduos, quando efectuadas nos centros integrados de recuperação, valorização e eliminação de resíduos perigosos, são realizadas de acordo com as normas técnicas constantes do respectivo regulamento de funcionamento, aprovado por portaria do membro do Governo Regional competente em matéria de ambiente.
+2 - Os centros integrados de recuperação, valorização e eliminação de resíduos perigosos podem realizar operações de preparação de combustíveis alternativos a partir de resíduos perigosos para posterior valorização energética em instalações de incineração ou co-incineração, podendo ainda essas operações de tratamento, desde que exclusivamente físicas, ser realizadas noutras instalações devidamente licenciadas para o efeito nos termos do presente diploma.

@@ -1,0 +1,6 @@
+# Artigo 119.º
+### Prazo da concessão
+1 - O prazo da concessão deve ser proporcional ao volume de investimento a cargo da concessionária, não devendo exceder o período de tempo indispensável à sua recuperação e à remuneração adequada do capital investido.
+2 - O prazo a que se refere o número anterior, que não poderá ser superior a 30 anos, é contado da data da celebração do contrato, nele se incluindo o tempo despendido com a construção das infra-estruturas e a aquisição e instalação de equipamentos, sem prejuízo do disposto no número seguinte.
+3 - Não são considerados no cômputo do prazo do contrato os atrasos devidos a alterações anormais e imprevisíveis das circunstâncias ou a outras razões não imputáveis à concessionária julgadas atendíveis pela concedente, mediante despacho fundamentado, nomeadamente por factos imprevisíveis da exclusiva responsabilidade de terceiros ou por factos naturais excepcionais cujas consequências se produzam independentemente do dever de cuidado da concessionária.
+4 - Sem prejuízo do disposto no número anterior, a prorrogação do prazo inicialmente contratado só pode ocorrer excepcionalmente no âmbito de processos de reequilíbrio económico-financeiro, nos termos previstos no artigo 121.º

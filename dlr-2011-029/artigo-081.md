@@ -1,0 +1,3 @@
+# Artigo 81.º
+### Integração com o regime jurídico do licenciamento industrial
+O licenciamento de uma operação de gestão de resíduos que careça igualmente de licença ou autorização industrial nos termos do Decreto Legislativo Regional n.º 14/88/A, de 6 de Abril, que estabelece os princípios gerais para o exercício de actividades industriais na Região Autónoma dos Açores, e legislação acessória, é substituído por um parecer vinculativo emitido pela autoridade ambiental no âmbito deste procedimento, no prazo de 30 dias contados da data da respectiva solicitação, sem prejuízo da sua participação na vistoria que no caso haja lugar.

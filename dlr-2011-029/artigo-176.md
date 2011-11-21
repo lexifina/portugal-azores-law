@@ -1,0 +1,4 @@
+# Artigo 176.º
+### Derrogações e abate sanitário
+1 - As derrogações previstas nos artigos 16.º a 19.º do Regulamento (CE) n.º 1069/2009, do Parlamento Europeu e do Conselho, de 21 de Outubro, relativas, respectivamente, à utilização e à eliminação de subprodutos animais, são aprovadas por despacho do membro do Governo Regional com competência em matéria de sanidade animal.
+2 - Sem prejuízo do estabelecido no Regulamento (CE) n.º 1069/2009, do Parlamento Europeu e do Conselho, de 21 de Outubro, e no presente diploma, em caso de abate por razões sanitárias, o destino final dos cadáveres e suas partes é o que estiver estabelecido na portaria a que se refere o artigo 2.º do Decreto Legislativo Regional n.º 3/87/A, de 11 de Março, relativo à atribuição de indemnizações pelo abate compulsivo de animais, na redacção conferida pelo artigo 240.º

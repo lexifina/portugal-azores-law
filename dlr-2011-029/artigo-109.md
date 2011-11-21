@@ -1,0 +1,5 @@
+# Artigo 109.º
+### Missão de interesse público
+1 - As operações de gestão de resíduos realizadas mediante concessão constituem missão de interesse público, consubstanciando serviços de interesse económico geral a exercer em regime de exclusividade territorial nos termos do presente diploma.
+2 - Quando esteja em causa a concessão de operações de gestão de resíduos realizadas num centro de processamento de resíduos previsto nos artigos 61.º e seguintes, não se aplica o regime de exclusividade territorial previsto no número anterior.
+3 - A missão de interesse público compreende como objectivos fundamentais da prestação destes serviços a universalidade de cobertura, a igualdade material no acesso, a continuidade, qualidade e transparência na prestação dos serviços, a protecção dos interesses dos utilizadores, a racionalidade, eficiência e eficácia dos meios utilizados nas diversas fases, a coesão social, o desenvolvimento e a solidariedade entre as diversas ilhas e concelhos e a salvaguarda da saúde pública e do ambiente.

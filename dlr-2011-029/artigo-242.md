@@ -1,0 +1,4 @@
+# Artigo 242.º
+### Aplicação de legislação sobre resíduos minerais
+1 - Sem prejuízo do disposto no número seguinte, à gestão dos resíduos resultantes da prospecção, extracção, tratamento, transformação e armazenagem de recursos minerais e da exploração de pedreiras aplica-se o disposto no Decreto-Lei n.º 10/2010, de 4 de Fevereiro, que transpõe para a ordem jurídica interna a Directiva n.º 2006/21/CE, do Parlamento Europeu e do Conselho, de 15 de Março, relativa à gestão dos resíduos das indústrias extractivas.
+2 - Os resíduos provenientes de locais de extracção de bagacinas, de cascalheiras e de pedreiras onde se extraiam exclusivamente basaltos, traquitos ou ignimbritos, quando livres de qualquer contaminante, são considerados como solos e rochas não contendo substâncias perigosas aos quais são aplicáveis as normas de reutilização de solos e rochas constantes do artigo 49.º

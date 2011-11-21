@@ -1,0 +1,4 @@
+# Artigo 168.º
+### Periodicidade de preenchimento dos mapas de registo
+1 - Sem prejuízo do disposto no número seguinte, os mapas são preenchidos anualmente, devendo a introdução ou alteração de dados ser feita até à data de fecho do registo, que ocorre no termo do mês de Fevereiro do ano seguinte ao que respeita o mapa de registo de produção e gestão de resíduos, salvo autorização concedida pela autoridade ambiental que não prejudique os prazos para pagamento da taxa de gestão de resíduos.
+2 - Os operadores e entidades gestoras de resíduos, incluindo de sistemas de gestão de fluxos específicos de resíduos, individuais ou colectivos, devem proceder, até ao último dia do mês de Janeiro e do mês de Julho de cada ano, ao preenchimento dos mapas necessários à liquidação por conta da taxa de regulação prevista no artigo 203.º

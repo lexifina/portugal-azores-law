@@ -1,0 +1,7 @@
+# Artigo 89.º
+### Aprovação do projecto e autorização de instalação
+1 - No prazo de 20 dias contados do termo final do prazo para a recepção dos pareceres solicitados no âmbito das consultas promovidas a que se refere o n.º 1 do artigo anterior, a entidade licenciadora notifica o requerente da respectiva decisão relativa à aprovação do projecto e autorização de instalação e, em caso de deferimento, das condições impostas, caso aplicável.
+2 - No caso de o procedimento de licenciamento da operação de gestão de resíduos decorrer em simultâneo com o procedimento de avaliação do impacte e do licenciamento ambiental, nos termos do respectivo regime jurídico, aprovado pelo Decreto Legislativo Regional n.º 30/2010/A, de 15 de Novembro, a decisão de autorização de instalação referida no n.º 1 integra a respectiva licença ambiental.
+3 - A notificação de aprovação do projecto e autorização de instalação é válida por um período de dois anos, prazo durante o qual a entidade requerente deverá solicitar a vistoria nos termos do artigo seguinte.
+4 - O prazo mencionado no número anterior pode ser prorrogado por um ano, a pedido do requerente, o qual deve ser apresentado à entidade licenciadora até 40 dias antes da data da sua caducidade e com fundamento em motivo que não lhe seja imputável.
+5 - A não solicitação da vistoria dentro do prazo referido no número anterior implica a extinção do procedimento e arquivamento do respectivo processo.

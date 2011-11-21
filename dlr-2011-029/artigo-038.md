@@ -1,0 +1,7 @@
+# Artigo 38.º
+### Planos internos de prevenção e gestão de resíduos
+1 - Os produtores de resíduos sujeitos à obrigatoriedade de inscrição e registo no Sistema Regional de Informação sobre de Resíduos, nos termos do n.º 1 do artigo 161.º, são obrigados a elaborar e implementar planos internos de prevenção e gestão de resíduos com o conteúdo mínimo fixado no artigo seguinte.
+2 - No caso de instalações que produzam resíduos perigosos, o plano referido no número anterior é enviado à autoridade ambiental para aprovação, a qual se deve pronunciar no prazo de 30 dias úteis.
+3 - Sem prejuízo do disposto no número anterior, no caso de instalações que produzam resíduos hospitalares perigosos, o plano referido no n.º 1 deve ser previamente enviado ao departamento da administração regional autónoma competente em matéria de saúde humana ou competente em matéria de saúde animal, consoante se trate de resíduos com origem em actividades relacionadas com seres humanos ou com animais, os quais se devem pronunciar no prazo de 30 dias.
+4 - O plano interno de prevenção e gestão de resíduos deve estar disponível na instalação, para efeitos de fiscalização pelas entidades competentes, e ser do conhecimento de todos os funcionários da instalação.
+5 - A autoridade ambiental disponibiliza no Portal do Governo Regional na Internet os modelos dos planos internos de prevenção e gestão de resíduos a elaborar pelo produtor.

@@ -1,0 +1,8 @@
+# Artigo 132.º
+### Fixação e revisão das tarifas
+1 - A alteração de tarifas depende sempre de aprovação da concedente, mediante parecer prévio da ERSARA, cabendo à concessionária apresentar em cada ano um projecto tarifário devidamente fundamentado para vigorar no ano seguinte.
+2 - O projecto tarifário deve respeitar os critérios definidos no artigo anterior e inserir-se no orçamento anual a submeter a aprovação da concedente, até ao final do mês de Setembro do ano anterior, com detalhe de proveitos e custos de exploração previsionais, sendo acompanhado por parecer de auditor, aceite pela concedente, sobre a respectiva razoabilidade.
+3 - A concedente deverá pronunciar-se sobre o orçamento e projecto tarifário nele incluído, no prazo de 60 dias.
+4 - A concessionária terá direito a 50 % dos ganhos de produtividade correspondentes à diferença entre o custo unitário médio previsto no orçamento anual e o custo unitário médio efectivamente verificado no exercício em causa.
+5 - Quando a quantidade dos resíduos objecto das operações de gestão concessionadas efectivamente entregues pelos utilizadores não coincidirem com os previstos na elaboração do orçamento e fixação de tarifas para o ano em causa, verificando-se uma diferença superior a 10 %, haverá lugar, no final do ano, a um acerto de tarifas e, consequentemente, dos valores pagos pelos utilizadores, para mais ou para menos, a incluir de forma faseada no semestre do ano seguinte.
+6 - Os valores das tarifas fixados no contrato de concessão poderão ser sujeitos a uma primeira revisão na data do início do funcionamento, de acordo com as regras fixadas nos números anteriores.

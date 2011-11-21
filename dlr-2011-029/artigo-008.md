@@ -1,0 +1,5 @@
+# Artigo 8.º
+### Obrigações do produtor do produto
+1 - O produtor do produto deve, na medida da sua intervenção, adoptar medidas que incentivem a concepção de produtos que tenham um menor impacte ambiental e dêem origem a menos resíduos durante a sua produção e posterior utilização, bem como assegurar que a valorização e eliminação de produtos que tenham assumido a natureza de resíduos sejam realizadas de acordo com os princípios da hierarquia de gestão e da prevenção e redução estabelecidos nos termos dos artigos 11.º e 14.º
+2 - Para efeitos do disposto no número anterior, o produtor do produto assegura que na fase de concepção dos produtos seja considerada a redução da utilização e controlo de substâncias perigosas, a integração de aspectos ambientais e melhoria do seu desempenho ambiental, com recurso às melhores técnicas disponíveis.
+3 - As medidas referidas no presente artigo incluem, nomeadamente, o desenvolvimento, a produção e a comercialização de produtos adequados a várias utilizações, que sejam tecnicamente duradouros e que, depois de assumir a natureza de resíduos, possam ser sujeitos a valorização ou a eliminação adequada e segura.

@@ -1,0 +1,4 @@
+# Artigo 49.º
+### Reutilização de solos e rochas
+1 - Os solos e as rochas que não contenham substâncias perigosas provenientes de actividades de construção devem ser reutilizados preferencialmente no local de origem em tarefas de construção, reconstrução, ampliação, alteração, reparação, conservação, reabilitação, limpeza e restauro, bem como em qualquer outro trabalho que envolva processos construtivos, abreviadamente designado por obra de origem.
+2 - Os solos e as rochas referidos no número anterior que não sejam reutilizados na respectiva obra de origem podem ser utilizados noutra obra sujeita a licenciamento ou comunicação prévia, na recuperação ambiental e paisagística de explorações mineiras e de pedreiras ou cascalheiras, na cobertura de aterros destinados a resíduos ou em local apropriado que para tal esteja licenciado pela câmara municipal competente.
