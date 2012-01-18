@@ -2,8 +2,8 @@
 ### Montante
 1 - O montante mensal da remuneração complementar regional é determinado nos termos do artigo 13.º do presente diploma.
 2 - O montante efectivo a abonar é determinado de acordo com as seguintes regras:
-a) A totalidade para aqueles cuja remuneração seja inferior ao índice 137;
-b) 90% para aqueles cuja remuneração esteja compreendida entre os índices 137 e 180, inclusive;
+a) A totalidade para aqueles cuja remuneração seja igual ou inferior à retribuição mínima mensal garantida;
+b) 90 % para aqueles cuja remuneração seja superior à retribuição mínima mensal garantida e inferior a 619 (euro);
 c) 85% para aqueles cuja remuneração esteja compreendida entre os índices 181 e 204, inclusive;
 d) 80% para aqueles cuja remuneração esteja compreendida entre os índices 205 e 224, inclusive;
 e) 70% para aqueles cuja remuneração esteja compreendida entre os índices 225 e 249, inclusive;
