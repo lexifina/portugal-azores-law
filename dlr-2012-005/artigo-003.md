@@ -1,0 +1,10 @@
+# Artigo 3.º
+### Definições
+a) «Atividade industrial», atividade económica prevista na Classificação Portuguesa das Atividades Económicas (CAE - Rev. 3), aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro;
+b) «Atividade industrial temporária», atividade exercida durante um período de tempo não superior a dois anos, destinada à execução de um fim específico pontual, implantada ou não sobre uma estrutura móvel, e que não se inclua nos regimes específicos de avaliação do impacte ambiental, prevenção e controlo integrados da poluição, bem como de controlo dos perigos associados a acidentes graves que envolvam substâncias perigosas;
+c) «Entidade fiscalizadora», entidade a quem compete a fiscalização do cumprimento das regras disciplinadoras do exercício da atividade industrial;
+d) «Estabelecimento industrial», totalidade da área coberta e não coberta sob responsabilidade do industrial, onde seja exercida uma ou mais atividades industriais, independentemente da sua dimensão, do número de trabalhadores, do equipamento ou de outros fatores de produção;
+e) «Industrial», pessoa singular ou coletiva que pretenda explorar, ou seja responsável pela exploração de um estabelecimento industrial, ou que nele exerça, em seu próprio nome, atividade industrial;
+f) «Interlocutor e responsável técnico do projeto», pessoa ou entidade designada pelo industrial para efeitos de demonstração de que o projeto se encontra em conformidade com a legislação aplicável e para o relacionamento com a entidade licenciadora e demais entidades intervenientes no processo de licenciamento industrial;
+g) «Licença de exploração industrial», decisão escrita relativa à autorização ou aprovação de exploração dos estabelecimentos industriais emitida pela direção regional com competência em matéria de indústria;
+h) «Licença de instalação ou alteração», decisão escrita relativa à autorização para instalar ou alterar um estabelecimento industrial, emitida pela direção regional com competência em matéria de indústria.
