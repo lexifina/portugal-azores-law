@@ -1,0 +1,5 @@
+# Artigo 16.º
+### Despiste, comunicação e suspensão da atividade
+1 - O órgão executivo da unidade orgânica sempre que conheça ou suspeite da existência de uma doença infetocontagiosa entre os alunos ou entre o pessoal docente e não docente deve afastar provisoriamente o portador da doença e comunicar de imediato o facto ao delegado de saúde concelhio, a fim de que possam ser tomadas as providências necessárias.
+2 - O delegado de saúde concelhio pode determinar o afastamento do indivíduo ou indivíduos afetados em caso de suspeita de serem portadores de alguma das doenças contagiosas mencionadas no presente diploma, terminando esse afastamento logo que não se confirme a existência da doença.
+3 - Sem prejuízo das competências atribuídas nos termos da regulamentação específica às autoridades de saúde, cabe à direção regional competente em matéria de administração educativa, ouvido o delegado de saúde concelhio, determinar a suspensão da atividade escolar nos estabelecimentos de educação ou ensino onde se conheça ou suspeite a existência de foco de doença infetocontagiosa.
