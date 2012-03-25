@@ -1,0 +1,3 @@
+# Artigo 25.º
+### Instauração e instrução de processos e aplicação de sanções
+As competências para instauração e instrução dos processos de contraordenação instaurados no âmbito do presente diploma, bem como a competência para a aplicação das correspondentes coimas e sanções acessórias estão cometidas ao dirigente máximo do departamento do Governo Regional com competência a determinar em função da natureza ou localização dos recursos naturais submetidos a amostragem e ou acedidos, ou, nos demais casos, ao dirigente máximo do departamento do Governo Regional com competência em matéria de ciência e tecnologia.
