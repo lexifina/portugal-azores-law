@@ -1,0 +1,6 @@
+Decreto Legislativo Regional n.º 6/98/A
+Protecção do património florestal regional
+Actualmente, o revestimento florestal da Região apresenta um valor considerável para a produção de material lenhoso, o que tem permitido o aparecimento e desenvolvimento das indústrias florestais. Indústrias que, assim, contribuem para o abastecimento do mercado regional e a exportação de importantes contingentes de madeira para outros mercados, assumindo grande relevância no contexto do desenvolvimento económico da Região.
+As áreas florestais assumem igualmente importância na conservação dos solos e do ciclo hidrológico, num melhor ordenamento cultural e paisagístico e na protecção do ambiente, atentas as particulares condições ecológicas de algumas ilhas.
+As crescentes preocupação e sensibilização sociais para a problemática da protecção e conservação da natureza, que se expressam na natural exigência de melhores e mais eficazes sistemas de fiscalização e controlo, recomendam a adopção de medidas que garantam uma protecção eficaz do património florestal da Região.
+Assim, a Assembleia Legislativa Regional dos Açores, ao abrigo da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:
