@@ -1,0 +1,4 @@
+# Artigo 18.º
+### Obrigações dos docentes
+1 - A manutenção de titular de lugar de quadro dos docentes que obtenham provimento integrados nas prioridades descritas nas alíneas a), b) e e) do n.º 4 e a) do n.º 5, ambos do artigo 9.º do presente Regulamento, fica condicionada ao cumprimento integral dos módulos de tempo de serviço ali fixados com serviço letivo distribuído, exceto quando sejam membros de órgão executivo da unidade orgânica e, nos termos legais e regulamentares, dele possam ser dispensados, ou sejam nomeados para o exercício de cargos dirigentes.
+2 - O incumprimento do disposto no número anterior determina a cessação de contrato por tempo indeterminado e a impossibilidade de no respetivo ano escolar e nos subsequentes serem colocados em exercício de funções docentes em estabelecimentos de educação da rede pública regional.

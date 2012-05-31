@@ -1,0 +1,18 @@
+# Artigo 23.º
+### Celebração de contrato a termo resolutivo
+1 - Os contratos a termo resolutivo consideram-se celebrados na data da apresentação efetiva ao serviço.
+2 - Caso a colocação ocorra em data anterior a 1 de setembro do ano escolar a que respeita, os contratos só produzem efeito a partir daquela data.
+3 - A aceitação da colocação deve ter lugar no prazo de dois dias úteis, contados a partir do dia seguinte ao da publicitação da lista de colocações ou da comunicação da colocação, iniciando-se o exercício de funções, por conveniência urgente de serviço, na data de entrada em exercício de funções.
+4 - A não apresentação ao serviço no 1.º dia útil subsequente ao prazo de aceitação determina a anulação da colocação.
+5 - O candidato colocado que não responda à colocação nos termos do n.º 3 ou que falte à celebração do contrato nos prazos estabelecidos, por motivo não atendível, fica impedido de prestar serviço em qualquer unidade orgânica da rede pública dos Açores nesse ano escolar e nos dois anos escolares subsequentes.
+6 - Os contratos previstos no presente Regulamento são celebrados de acordo com o prazo em que se encontre vago ou disponível o lugar cujo preenchimento se visa assegurar, não podendo ser celebrados por período inferior a 30 dias.
+7 - O contrato celebrado pelo período de um ano escolar vigora até 31 de agosto do ano escolar a que respeita.
+8 - Os contratos celebrados por período inferior a um ano podem ser renovados, até ao termo do ano escolar, por períodos de 30 dias, ou enquanto durar o impedimento do titular, por despacho do diretor regional competente em matéria de educação, sob proposta do órgão executivo competente, com a antecedência mínima de cinco dias úteis, mediante simples anotação.
+9 - Para além das alterações decorrentes do número de horas letivas, a aquisição de licenciatura e ou habilitação profissional para a atividade docente ou o completamento de 360 dias de serviço docente no decurso da vigência do contrato determina a alteração do índice com efeitos ao dia 1 do mês seguinte.
+10 - A renovação dos contratos referidos no n.º 8 depende de comunicação ao contratado, a realizar pelo órgão de gestão da unidade orgânica.
+11 - O contrato celebrado para substituição temporária do docente titular do lugar vigora até três dias úteis após a apresentação deste, sem prejuízo do disposto no artigo seguinte.
+12 - Nos casos em que o docente titular do lugar se apresente ao serviço após o dia 31 de maio, o contrato considera-se em vigor até ao final do ano escolar, desde que o docente naquele ano escolar tenha completado um mínimo de 150 dias de serviço docente efetivo.
+13 - Se o docente titular do lugar se apresentar no decurso dos trabalhos de avaliação ou durante os 15 dias imediatamente anteriores, o contrato considera-se em vigor até à sua conclusão.
+14 - Sem prejuízo do disposto no número seguinte, os contratos de duração superior a três meses podem ser rescindidos, a pedido do docente, com a antecedência mínima de 20 dias, até ao início do 3.º período do ano escolar a que respeitam.
+15 - O docente que fundamente a rescisão em motivo não atendível fica impedido de prestar serviço em qualquer unidade orgânica da rede pública dos Açores nesse ano escolar e nos dois anos escolares subsequentes.
+16 - Ao contratado que não cumprir, total ou parcialmente, o prazo de pré-aviso estabelecido no presente artigo é exigido, a título de indemnização, o valor de remuneração base correspondente ao número de dias em falta daquele prazo, salvo se o motivo determinante do incumprimento não pudesse ser conhecido em data anterior à comunicação.
