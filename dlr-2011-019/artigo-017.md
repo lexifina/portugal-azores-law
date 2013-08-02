@@ -1,3 +1,5 @@
+## Capítulo IV
+## Disposições transitórias e finais
 # Artigo 17.º
 ### Regulamentação
 1 - Os regulamentos necessários à boa execução do presente diploma são adoptados por portaria conjunta dos membros do Governo Regional competentes em matéria do turismo e do trabalho, num prazo máximo de 30 dias após a publicação do presente diploma.
