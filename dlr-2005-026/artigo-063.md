@@ -1,6 +1,6 @@
 # Artigo 63.º
 ### Contagem do tempo de serviço
-1 - Aos docentes das valências educativas privadas que transitem para o ensino público é contado o tempo de serviço prestado no ensino particular, designadamente para progressão na carreira, e enquadramento na alínea a) do n.º 7 do artigo 25.º do Decreto Legislativo Regional n.º 27/2003/A, de 9 de Junho, em igualdade de condições com o serviço prestado nas escolas públicas, desde que se verifiquem as seguintes condições:
+1- Aos docentes das valências educativas privadas que transitem para o ensino público é contado o tempo de serviço prestado no ensino particular, designadamente para progressão na carreira, e enquadramento na alínea a) do n.º 6 do artigo 9.º do Regulamento de Concurso do Pessoal Docente da Educação Pré-Escolar e Ensinos Básico e Secundário, aprovado pelo Decreto Legislativo Regional n.º 22/2012/A, de 30 de maio, retificado pela Declaração de Retificação n.º 39/2012, de 24 de julho, em igualdade de condições com o serviço prestado nas escolas públicas, desde que se verifiquem as seguintes condições:
 a) Que o tempo de serviço tenha sido prestado em escolas devidamente legalizadas;
 b) Que os docentes se encontrem legalizados à data da prestação do serviço;
 c) Que o serviço não tenha sido prestado em acumulação com a função pública ou com o ensino oficial;
