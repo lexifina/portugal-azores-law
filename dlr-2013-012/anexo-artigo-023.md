@@ -1,0 +1,7 @@
+# Artigo 23.º
+### Representação dos alunos
+1 - Os alunos podem reunir-se em assembleia de alunos, sendo representados pela associação de estudantes, pelo delegado ou subdelegado da respetiva turma e pela assembleia de delegados de turma, nos termos da lei e do regulamento interno da unidade orgânica.
+2 - Os alunos a quem tenha sido aplicada uma medida disciplinar sancionatória não podem exercer ou terminar o mandato para órgãos da unidade orgânica e para o conselho de turma, quando for o caso, no ano letivo em que tenha sido aplicada a medida disciplinar sancionatória superior à de repreensão registada.
+3 - O delegado e o subdelegado de turma têm o direito de solicitar a realização de reuniões da turma com o respetivo diretor de turma, professor tutor ou professor titular para apreciação de matérias relacionadas com o funcionamento da turma, desde que tal não prejudique o cumprimento das atividades letivas.
+4 - Por iniciativa dos alunos ou por iniciativa do diretor de turma, do professor tutor ou do professor titular pode ser solicitada a participação dos representantes dos pais e encarregados de educação na reunião referida no número anterior.
+5 - A associação de estudantes e os representantes dos alunos nos órgãos de administração e gestão têm o direito de solicitar ao conselho executivo a realização de reuniões para apreciação de matérias relacionadas com o funcionamento da unidade orgânica.

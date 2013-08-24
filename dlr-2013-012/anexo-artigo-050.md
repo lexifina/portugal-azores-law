@@ -1,0 +1,3 @@
+# Artigo 50.º
+### Intervenção dos pais e encarregados de educação
+Desde o momento da instauração do procedimento disciplinar ao seu educando até à sua conclusão, os pais e encarregados de educação devem contribuir para o correto apuramento dos factos e, sendo aplicada medida disciplinar sancionatória, diligenciar para que a execução da mesma prossiga os objetivos de reforço da formação cívica do educando, com vista ao desenvolvimento equilibrado da sua personalidade, da sua capacidade de se relacionar com os outros, da sua plena integração na comunidade educativa, do seu sentido de responsabilidade e das suas aprendizagens.

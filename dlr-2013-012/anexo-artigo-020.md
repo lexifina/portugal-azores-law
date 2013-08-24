@@ -1,0 +1,4 @@
+# Artigo 20.º
+### Intervenção de outras entidades
+1 - O conselho executivo da unidade orgânica deve, quando necessário, solicitar a cooperação das autoridades públicas, privadas ou solidárias competentes, de modo a pôr termo a situações de perigo para a saúde ou segurança do aluno e restantes membros da comunidade educativa pelos meios adequados, preservando a vida privada do aluno e da sua família, atuando de forma articulada com os pais e os encarregados de educação.
+2 - Quando se verifique a oposição dos pais, do representante legal ou de quem tenha a guarda de facto do aluno à intervenção da escola no âmbito da competência referida no número anterior, o conselho executivo comunica imediatamente a situação à comissão de proteção de crianças e jovens ou, caso esta não se encontre instalada, ao representante do Ministério Público junto do tribunal competente.

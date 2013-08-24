@@ -1,0 +1,5 @@
+# Artigo 17.º
+### Responsabilidade do pessoal não docente
+1 - O pessoal não docente das unidades orgânicas colabora obrigatoriamente no acompanhamento e na integração dos alunos na comunidade educativa, incentivando o respeito pelas regras de convivência, promovendo um bom ambiente educativo e contribuindo, em articulação com os docentes, os pais e encarregados de educação, para a prevenção e resolução de problemas.
+2 - Os técnicos de serviço de psicologia e orientação, integrados em equipas multidisciplinares, consagradas no regime jurídico da criação, autonomia e gestão das unidades orgânicas do sistema educativo, são responsáveis pela identificação de situações de perigo, previstas no artigo 3.º da lei de proteção de crianças e jovens em perigo, e pela prevenção de fenómenos de violência.
+3 - Os técnicos referidos no número anterior são responsáveis pela intervenção de promoção dos direitos e de proteção das crianças e jovens em perigo que couber à escola e pela elaboração de planos de acompanhamento de alunos indisciplinados.

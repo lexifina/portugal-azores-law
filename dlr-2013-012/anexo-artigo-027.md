@@ -1,0 +1,6 @@
+# Artigo 27.º
+### Faltas
+1 - A falta corresponde à ausência do aluno a uma aula ou a outra atividade de frequência obrigatória, para efeitos da educação pré-escolar, do ensino básico e secundário, ou facultativa caso tenha havido lugar a inscrição, com registo desse facto em suporte administrativo adequado pelo diretor de turma, professor tutor ou, tratando-se de alunos da educação pré-escolar e do 1.º ciclo do ensino básico, pelo docente titular de turma.
+2 - Decorrendo as aulas em tempos consecutivos, há lugar a tantas faltas quantos os tempos de ausência do aluno.
+3 - Sempre que, de forma reiterada e injustificada, o aluno não cumpra com o dever de pontualidade ou se apresente na aula sem o material didático necessário e imprescindível à prossecução das atividades escolares, aplica-se o estipulado no regulamento interno da unidade orgânica, só podendo, no entanto, ser aplicadas as medidas disciplinares preventivas e de integração previstas nas alíneas a) e c) do n.º 1 do artigo 40.º e na alínea a) do n.º 1 do artigo 41.º
+4 - Compete ao conselho executivo assegurar o registo de faltas dos alunos de modo que, a todo o tempo, este possa ser utilizado para fins pedagógicos e administrativos.

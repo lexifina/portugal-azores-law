@@ -1,0 +1,9 @@
+# Artigo 33.º
+### Limite de faltas injustificadas
+1 - As faltas injustificadas não podem exceder em cada ano letivo:
+a) Dez dias consecutivos ou interpolados no 1.º ciclo do ensino básico;
+b) Nos restantes ciclos do ensino básico e no ensino secundário, em cada disciplina, o dobro do número de tempos letivos semanais para ela previstos;
+c) Nas disciplinas ou atividades de natureza facultativa, nomeadamente aquelas que se inserem no ensino vocacional da música e das artes, o dobro do número de sessões semanais;
+d) Nas ofertas formativas profissionalmente qualificantes, designadamente nos cursos profissionais ou noutras ofertas formativas que exigem níveis mínimos de cumprimento da respetiva carga horária, o aluno encontra-se na situação de excesso de faltas quando ultrapassa os limites de faltas justificadas e ou injustificadas daí decorrentes, relativamente a cada disciplina, módulo, unidade ou área de formação, nos termos previstos na regulamentação própria ou definidos, no quadro daquela, no regulamento interno da escola.
+2 - Quando for atingida a metade do limite de faltas injustificadas, o diretor de turma, o professor tutor, o professor titular ou o professor que desempenhe funções equiparadas convoca os pais e encarregados de educação ou, quando maior de idade, o aluno pelo meio mais expedito, para alertar para as consequências da violação do limite de faltas e encontrar uma solução que permita garantir o cumprimento efetivo do dever de assiduidade.
+3 - Se, terminadas as diligências desenvolvidas nos termos do disposto no número anterior, subsistir uma situação de perigo enquadrável no artigo 3.º da lei de proteção de crianças e jovens em perigo, as faltas e os procedimentos e diligências desenvolvidos pela escola são comunicados à comissão de proteção de crianças e jovens competente.
