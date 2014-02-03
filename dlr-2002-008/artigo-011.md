@@ -1,16 +1,6 @@
 # Artigo 11.º
 ### Montante
-1 - O montante mensal da remuneração complementar regional é determinado nos termos do artigo 13.º do presente diploma.
-2 - O montante efectivo a abonar é determinado de acordo com as seguintes regras:
-a) A totalidade para aqueles cuja remuneração seja igual ou inferior à retribuição mínima mensal garantida;
-b) 90 % para aqueles cuja remuneração seja superior à retribuição mínima mensal garantida e inferior a 619 (euro);
-c) 85% para aqueles cuja remuneração esteja compreendida entre os índices 181 e 204, inclusive;
-d) 80% para aqueles cuja remuneração esteja compreendida entre os índices 205 e 224, inclusive;
-e) 70% para aqueles cuja remuneração esteja compreendida entre os índices 225 e 249, inclusive;
-f) 60% para aqueles cuja remuneração esteja compreendida entre os índices 250 e 269, inclusive;
-g) 55% para aqueles cuja remuneração esteja compreendida entre os índices 270 e 304, inclusive;
-h) 45% para aqueles cuja remuneração esteja compreendida entre os índices 305 e 319, inclusive;
-i) 40% para aqueles cuja remuneração esteja compreendida entre os índices 320 e 329, inclusive;
-j) 35% para aqueles cuja remuneração esteja compreendida entre os índices 330 e 354, inclusive;
-k) 25% para aqueles cuja remuneração esteja compreendida entre os índices 355 e 380, inclusive.
-3 - Sempre que da aplicação do disposto no número anterior resultar uma mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), será garantido, mediante requerimento do interessado e sobre o montante apurado, o acréscimo de remuneração complementar regional correspondente a 25% do quantitativo referido no mesmo número.
+1 - A remuneração complementar regional é atribuída aos trabalhadores que aufiram remuneração base até (euro) 3 050,00 inclusive, conforme tabela anexa ao presente diploma, do qual faz parte integrante.
+2 - Para o cálculo da remuneração complementar é tido como valor de referência o montante de (euro) 100.
+3 - Ao valor da remuneração complementar são deduzidos os suplementos remuneratórios derivados de trabalho suplementar, extraordinário, ou em dias de descanso e feriados, ou outros de idêntica natureza.
+4 - Sempre que da atribuição da remuneração complementar resulte uma inversão relativa da remuneração dos trabalhadores, a remuneração complementar será reduzida na diferença desse montante.
