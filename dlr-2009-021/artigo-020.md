@@ -19,7 +19,7 @@ b) Do escalão de iniciados, ou similar, até ao escalão de juniores ou similar
 6 - O apoio mínimo anual, previsto no número anterior, pode ser majorado até ao máximo de 100 %, nos termos seguintes:
 a) 25 % quando o clube tenha mantido, de forma ininterrupta, durante os últimos cinco anos, e com contrato-programa celebrado, actividade formativa na mesma modalidade, escalão e sexo, ou nas duas primeiras épocas consecutivas de actividade formativa do mesmo escalão e do sexo feminino, e em condições a fixar no documento orientador previsto na alínea e) do n.º 2;
 b) Até 75 % em função da realidade desportiva e da modalidade, das qualificações do treinador, das distâncias a percorrer e de outras orientações a estabelecer em documento orientador a elaborar pelo departamento da administração regional autónoma competente em matéria de desporto e a fixar no contrato-programa.
-7 - O apoio determinado é devido em duas prestações iguais e processado nas condições a fixar no respectivo contrato-programa.
+7 - O apoio determinado é devido, no mínimo, em duas prestações e processado nas condições a fixar no respetivo contrato-programa.
 8 - Os clubes desportivos que utilizem instalações desportivas próprias para as actividades de treino e competição dos escalões de formação podem beneficiar de apoio por parte do departamento da administração regional autónoma competente em matéria de desporto, que é calculado atendendo aos seguintes indicadores:
 a) Número mínimo de horas de treino definidas para os escalões de formação e constantes na alínea c) do n.º 2 do presente artigo;
 b) Duração da actividade formativa durante o tempo previsto na alínea b) do n.º 2 do presente artigo;

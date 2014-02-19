@@ -1,7 +1,7 @@
 # Artigo 62.º
 ### Licença extraordinária de trabalhadores do sector privado
 1 - Os atletas em regime de alto rendimento podem ser dispensados da prestação de trabalho pelas entidades empregadoras, pelo tempo necessário à sua preparação e participação desportivas, a pedido da direcção regional competente em matéria de desporto, sendo tais ausências caracterizadas como faltas justificadas não remuneradas.
-2 - Não sendo concedida a dispensa, e caso estejam esgotadas outras vias de resolução negociada, podem os atletas ser requisitados, por despacho do director regional competente em matéria de desporto, com fundamento no interesse público das provas em que participam.
+2 - Não sendo concedida a dispensa, e caso estejam esgotadas outras vias de resolução negociada, podem os atletas ser requisitados, por despacho do membro do Governo Regional com competência em matéria de desporto, com fundamento no interesse público das provas em que participam.
 3 - Nos casos referidos nos números anteriores, o pagamento da retribuição é assegurado pelo organismo da administração regional competente em matéria de desporto, através das verbas afectas ao apoio ao desporto de alto rendimento.
 4 - Os trabalhadores que beneficiem das medidas previstas neste artigo não podem ser prejudicados na respectiva carreira profissional ou na percepção de regalias ou benefícios concedidos, designadamente em razão da assiduidade.
 5 - A concessão de apoio pelas entidades empregadoras de atletas em regime de alto rendimento pode ser objecto de convenção a celebrar com a direcção regional competente em matéria de desporto, nomeadamente no respeitante a contrapartidas referentes à promoção da imagem da empresa.
