@@ -1,0 +1,8 @@
+# Artigo 12.º-A
+### Audição pela Assembleia Legislativa da Região Autónoma dos Açores
+1 - O processo de audição referido no n.º 2 do artigo anterior inicia-se com a comunicação, pelo Presidente do Governo Regional dos Açores ao Presidente da Assembleia Legislativa da Região Autónoma dos Açores, do nome do indigitado ou proposto e da entidade respetiva, bem como do currículo e outros elementos relevantes para a justificação da proposta.
+2 - Recebida a comunicação referida no número anterior, o Presidente da Assembleia Legislativa da Região Autónoma dos Açores, no prazo de três dias úteis, despacha para a comissão especializada permanente, competente em razão da matéria, a fim de ser realizada a respetiva audição.
+3 - A comissão especializada permanente respetiva deve proceder à audição no prazo de vinte dias, a contar da data do despacho do Presidente da Assembleia Legislativa da Região Autónoma dos Açores.
+4 - A comissão referida no número anterior, ao abrigo das correspondentes normas regimentais, elabora um relatório, do qual deve constar a audição do gestor público indigitado, bem como a posição dos partidos que integrem a comissão sobre a referida audição.
+5 - O relatório é obrigatoriamente enviado, no prazo de cinco dias, pelo Presidente da Assembleia Legislativa da Região Autónoma dos Açores ao Presidente do Governo Regional dos Açores, para os devidos efeitos.
+6 - Decorridos trinta dias sobre a data da comunicação referida no n.º 1 sem que tenha sido enviado pelo Presidente da Assembleia Legislativa da Região Autónoma dos Açores ao Presidente do Governo Regional dos Açores o relatório da audição, a nomeação poderá concretizar-se mesmo sem este.
