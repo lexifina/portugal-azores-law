@@ -1,0 +1,3 @@
+# Artigo 34.º
+Atualização do complemento regional de pensão, aprovado pelo Decreto Legislativo Regional n.º 8/2002/A, de 10 de abril
+Nos termos definidos no artigo 13.º do Decreto Legislativo Regional n.º 8/2002/A, de 10 de abril, alterado pelos Decretos Legislativos Regionais n.os 22/2007/A, de 23 de outubro, 6/2010/A, de 23 de fevereiro, 3/2012/A, de 13 de janeiro, 3/2013/A, de 23 de maio, 2/2014/A, de 29 de janeiro, 14/2014/A, de 1 de agosto e 22/2014/A, de 27 de novembro, é aumentado em 2% o valor do complemento regional de pensão, fixando-se em (euro)743 o apoio atribuído anualmente aos beneficiários do 1.º escalão.

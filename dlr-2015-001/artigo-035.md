@@ -1,0 +1,4 @@
+# Artigo 35.º
+### Suspensão da obrigação de reembolso de incentivo
+1 - Fica suspensa, durante o ano de 2015, a obrigação de reembolso de incentivo prevista no n.º 3 do artigo 22.º, n.º 3 do artigo 27.º e n.º 4 do artigo 32.º do Decreto Legislativo Regional n.º 19/2007/A, de 23 de julho, alterado pelos Decretos Legislativos Regionais n.os2/2009/A, de 2 de março, 10/2010/A, de 16 de março, 26/2011/A, de 4 de novembro, 3/2012/A, de 13 de janeiro, 2/2013/A, de 22 de abril e 2/2014/A, de 29 de janeiro, nos termos a definir em protocolo a celebrar para o efeito entre as instituições de crédito e o departamento do Governo Regional competente em matéria de política de incentivos.
+2 - O prazo de suspensão previsto no número anterior acresce ao prazo global de financiamento previsto nos artigos ali mencionados, na proporção de doze meses, a contabilizar no último ano do prazo.
