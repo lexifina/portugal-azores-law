@@ -1,3 +1,5 @@
+## Secção IV
+## Organização da segurança
 # Artigo 48.º
 ### Formação para a protecção civil
 1 - Inserida na área disciplinar de formação cívica, área de projecto ou outra que venha a ser determinada no âmbito da operacionalização do currículo regional, é obrigatória a realização por todos os alunos de pelo menos quinze horas anuais de formação sobre temáticas adequadas ao seu nível etário versando:

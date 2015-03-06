@@ -1,3 +1,7 @@
+## Capítulo VI
+## Normas de segurança a observar no funcionamento de estabelecimentos escolares
+## Secção I
+## Disposições gerais
 ## Secção II
 ## Condições de utilização
 # Artigo 31.º
