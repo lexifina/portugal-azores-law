@@ -1,0 +1,9 @@
+Decreto Legislativo Regional n.º 6/2015/A
+REGIME JURÍDICO DE SEGURANÇA CONTRA INCÊNDIO EM EDIFÍCIOS NA REGIÃO AUTÓNOMA DOS AÇORES
+O Decreto Legislativo Regional n.º 25/92/A, de 27 de outubro, fixou as medidas de segurança contra incêndio em estabelecimentos hoteleiros na Região Autónoma dos Açores.
+Decorridos mais de vinte anos sobre a publicação daquele diploma, surge a necessidade de adequar a legislação à realidade urbanística e de edificação da Região.
+A legislação sobre esta matéria era dispersa e heterogénea, pelo menos até 2008, ano em que as regras referentes à segurança contra incêndio em edifícios foram codificadas num único normativo a nível nacional.
+Por outro lado, houve a necessidade de adoção de conteúdos normativos europeus que permitam padronizar a classificação dos materiais de construção dos edifícios, o que foi consagrado no Decreto-Lei n.º 220/2008, de 12 de novembro, que estabeleceu o regime jurídico de segurança contra incêndio em edifícios.
+Considerando o trabalho desenvolvido em sede da comissão de acompanhamento da aplicação do regime jurídico da segurança contra incêndio em edifícios, criada pelo Despacho Conjunto n.º 5533/2010, de 26 de março, nomeadamente, no que diz respeito à identificação de constrangimentos na aplicação do regime supra referido, suas incorreções, e medidas propostas necessárias à sua resolução.
+Considerando a necessidade de dotar a Região Autónoma dos Açores de um regime jurídico de segurança contra incêndio em edifícios próprio, procedeu-se à elaboração do presente diploma que visa contemplar os aspetos específicos desta matéria e da realidade regional.
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e dos números 1 e 2 do artigo 37.º e do artigo 66.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:

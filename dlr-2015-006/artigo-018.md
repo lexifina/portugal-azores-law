@@ -1,0 +1,5 @@
+# Artigo 18.º
+### Edifícios existentes
+Aos edifícios ou partes de edifícios e recintos existentes, sujeitos a obras de reconstrução, obras de ampliação ou obras de alteração a que se referem as alíneas c) a e) do artigo 2.º do Decreto-Lei n.º 555/99, de 16 de dezembro, na redação atual, bem como aos casos de alteração de utilização dos mesmos, pode ser dispensada a aplicação de algumas das disposições do regulamento técnico referido no artigo 15.º, se estas se revelarem, por razões de natureza económica, técnica ou arquitetónica, de concretização manifestamente desproporcionada, desde que, cumulativamente, se verifiquem as seguintes condições:
+a) Emissão de declaração pelos autores e coordenadores dos projetos, nos termos de responsabilidade, estabelecendo quais as disposições técnicas que não foram observadas na elaboração dos mesmos, fundamentando as razões da sua não observância;
+b) Previsão de meios de segurança compensatórios determinados para cada situação, a propor fundamentadamente pelos autores e coordenadores dos projetos, para aprovação pela entidade fiscalizadora competente.

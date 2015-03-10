@@ -1,0 +1,5 @@
+# Artigo 16.º
+### Projetos e planos de SCIEA
+1 - A responsabilidade pela elaboração dos projetos de SCIEA referentes a edifícios e recintos classificados na 3.ª e 4.ª categorias de risco, decorrentes da aplicação do presente diploma, tem de ser assumida exclusivamente por um arquiteto, reconhecido pela Ordem dos Arquitetos (OA) ou por um engenheiro, reconhecido pela Ordem dos Engenheiros (OE), ou por um engenheiro técnico, reconhecido pela Ordem dos Engenheiros Técnicos (OET), com certificação de especialização declarada para o efeito.
+2 - A responsabilidade pela elaboração dos planos de segurança internos referentes a edifícios e recintos classificados na 3.ª e 4.ª categorias de risco, constituídos pelos planos de prevenção, pelos planos de emergência internos e pelos registos de segurança, tem de ser assumida exclusivamente por técnicos associados das OA, OE e OET, propostos pelas respetivas associações profissionais.
+3 - O SRPCBA procede ao registo gratuito e atualizado dos autores de projetos e planos de SCIEA referidos nos números anteriores e publicita a listagem dos mesmos no sítio do SRPCBA.
