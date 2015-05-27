@@ -1,8 +1,8 @@
 # Artigo 33.º
 ### Requisitos de acesso
 1 - Podem candidatar-se aos apoios previstos no artigo anterior:
-a) O proprietário ou comproprietários de edifício ou fracção autónoma de edifício a reparar, à data de entrada em vigor deste diploma, desde que este não se encontre arrestado, penhorado ou nomeado à penhora em processo executivo;
-b) O usufrutuário do edifício ou fracção autónoma de edifício a reparar, à data de entrada em vigor deste diploma, desde que este não se encontre arrestado, penhorado ou nomeado à penhora em processo executivo e o respectivo título ter sido constituído nos termos previstos na lei e de modo vitalício.
+a) O proprietário ou comproprietários de edifício ou fração autónoma de edifício a reparar, desde que este não se encontre arrestado, penhorado ou nomeado à penhora em processo executivo;
+b) O usufrutuário do edifício ou fração autónoma de edifício a reparar, desde que este não se encontre arrestado, penhorado ou nomeado à penhora em processo executivo e o respetivo título ter sido constituído nos termos previstos na lei e de modo vitalício.
 2 - O acesso aos apoios previstos no artigo anterior depende, ainda, da verificação dos seguintes requisitos:
 a) No caso de pessoa singular, se esta preencher as condições de idoneidade fixadas no artigo 34.º do presente diploma;
 b) No caso de pessoa colectiva, com ou sem fins lucrativos, se preencher as condições de idoneidade fixadas no artigo 34.º do presente diploma.
