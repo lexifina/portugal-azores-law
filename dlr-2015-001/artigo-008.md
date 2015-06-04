@@ -1,3 +1,3 @@
 # Artigo 8.º
 ### Necessidades de financiamento
-Fica o Governo Regional autorizado, nos termos da lei, a contrair empréstimos, incluindo créditos bancários, até ao montante de (euro) 69 143 000, dos quais (euro) 19 143 000 respeitam a uma operação de refinanciamento e os restantes destinam-se ao financiamento de projetos com comparticipação de Fundos Europeus Estruturais e de Investimento (FEEI).
+Fica o Governo Regional autorizado, nos termos da lei, a contrair empréstimos, incluindo créditos bancários, até ao montante de (euro) 79 143 000 dos quais, (euro) 19 143 000 respeitam a uma operação de refinanciamento e os restantes destinam-se ao financiamento de projetos com comparticipação de Fundos Europeus Estruturais e de Investimento (FEEI).
