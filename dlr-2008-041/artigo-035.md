@@ -1,7 +1,7 @@
 # Artigo 35.º
-### Avaliação intercalar
-1 - A avaliação anual intercalar prevista no n.º 2 do artigo 28.º fundamenta-se na avaliação dos parâmetros referidos no artigo anterior, através de indicadores de medida previamente estabelecidos.
-2 - O parâmetro relativo a «Resultados» assenta nos objectivos, em número não inferior a três, anualmente negociados com o dirigente, prevalecendo, em caso de discordância, a posição do superior hierárquico.
+### Avaliação
+1 - Para efeitos do disposto no artigo anterior, os dirigentes intermédios, no início da sua comissão de serviço e no quadro das suas competências legais, negoceiam com o respetivo avaliador a definição dos objetivos, quantificados e calendarizados, a atingir no decurso do exercício de funções, bem como os indicadores de desempenho aplicáveis à avaliação dos resultados.
+2 - O parâmetro relativo a «Resultados» assenta nos objetivos, em número não inferior a três, negociados com o dirigente, prevalecendo, em caso de discordância, a posição do superior hierárquico.
 3 - Os resultados obtidos em cada objectivo são valorados através de uma escala de três níveis nos seguintes termos:
 a) «Objectivo superado», a que corresponde uma pontuação de 5;
 b) «Objectivo atingido», a que corresponde uma pontuação de 3;

@@ -7,4 +7,4 @@ c) A planificação em cascata, quando efectuada, deve evidenciar o contributo d
 d) A definição de orientações que permitam assegurar o cumprimento das percentagens relativas à diferenciação de desempenhos.
 2 - O planeamento dos objectivos e resultados a atingir pelo serviço é considerado pelo conselho coordenador da avaliação no estabelecimento de orientações para uma aplicação objectiva e harmónica do sistema de avaliação do desempenho, para a fixação de indicadores, em particular os relativos à superação de objectivos, e para validar as avaliações de Desempenho relevante e Desempenho inadequado, bem como o reconhecimento de Desempenho excelente.
 3 - Na fase de planeamento estabelecem-se as articulações necessárias na aplicação dos vários subsistemas que constituem o SIADAPRA, nomeadamente visando o alinhamento dos objectivos do serviço, dos dirigentes e demais trabalhadores.
-4 - A fase de planeamento deve decorrer no último trimestre de cada ano civil.
+4 - A fase de planeamento deve decorrer no último trimestre do ano anterior ao início do ciclo avaliativo.

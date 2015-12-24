@@ -4,5 +4,5 @@
 a) Desempenho bom, atingiu todos os objectivos, superando alguns;
 b) Desempenho satisfatório, atingiu todos os objectivos ou os mais relevantes;
 c) Desempenho insuficiente, não atingiu os objectivos mais relevantes.
-2 - Em cada departamento governamental pode ainda ser atribuída aos serviços com avaliação de Desempenho bom uma distinção de mérito reconhecendo Desempenho excelente, a qual significa superação global dos objectivos.
+2 - [Revogado].
 3 - As menções previstas no n.º 1 são propostas pelo dirigente máximo do serviço como resultado da auto-avaliação e, após o parecer previsto no n.º 1 do artigo anterior, homologadas ou alteradas pelo respectivo membro do Governo.
