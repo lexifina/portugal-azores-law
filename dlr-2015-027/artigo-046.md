@@ -1,0 +1,3 @@
+# Artigo 46.º
+### Preços e prazos no regime simplificado do ajuste direto
+Nos contratos de empreitada de obras públicas e nos contratos de aquisição ou locação de bens móveis ou de aquisição de serviços, celebrados na sequência do ajuste direto previsto no artigo anterior, o preço contratual não é passível de revisão e o prazo de vigência, incluindo eventuais prorrogações, não pode ser superior a três anos a contar da decisão de adjudicação, sem prejuízo da existência de obrigações acessórias que tenham sido estabelecidas inequivocamente em favor da entidade adjudicante, tais como as de sigilo ou de garantia.

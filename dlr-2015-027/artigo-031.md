@@ -1,0 +1,9 @@
+# Artigo 31.º
+### Direitos de autor em contratos de projeto
+1 - Sem prejuízo dos direitos do projetista no exercício da profissão, nomeadamente quanto aos respetivos direitos de autor, o caderno de encargos deve convencionar, expressamente, os termos e condições da consulta prévia ao autor do projeto para efeitos do respetivo consentimento quanto às modificações ou alterações ao projeto que sejam necessárias realizar, após a adjudicação.
+2 - Quando uma obra se encontrar edificada segundo o respetivo projeto, pode o dono da obra, durante a fase da respetiva construção ou após esta, e por razões de interesse público superveniente, devidamente fundamentadas, introduzir alterações, devendo, para o efeito, proceder à consulta prévia do autor do projeto para efeitos de obtenção do respetivo consentimento.
+3 - No caso de inexistência do acordo previsto nos números anteriores, é facultado ao autor do projeto o direito de repudiar a paternidade da obra modificada, ficando vedado à entidade adjudicante regional invocar para o futuro e em proveito próprio, o nome do autor do projeto inicial.
+4 - Em caso de inexistência de acordo ou de inexistência do exercício da faculdade de repúdio da autoria do projeto pelo respetivo autor, constituem fundamento para a resolução do contrato, pelo contraente público, as seguintes situações:
+a) As soluções técnicas contidas no projeto apresentem-se desajustadas ou desadequadas, face às necessidades que decorram de lei superveniente;
+b) As alterações ou modificações às soluções técnicas contidas no projeto impliquem um aumento do preço contratual da empreitada de obras públicas, em, pelo menos, 25 %;
+c) Se verifiquem ponderosas razões de interesse público que justifiquem e fundamentem as alterações necessárias a introduzir no projeto inicial, no caso das respetivas soluções técnicas se apresentarem supervenientemente desajustadas ou desadequadas em termos de funcionalidade, segurança ou dimensionamento.

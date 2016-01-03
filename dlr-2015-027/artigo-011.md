@@ -1,0 +1,3 @@
+# Artigo 11.º
+### Extensão do âmbito da contratação nos setores da água, da energia e dos transportes
+Sem prejuízo pelo disposto no artigo 12.º do Código dos Contratos Públicos, à formação dos contratos a celebrar pelas entidades adjudicantes regionais que exerçam uma ou várias atividades nos setores da água, da energia e dos transportes, são aplicáveis as regras especiais previstas naquele Código, relativas à formação dos contratos a celebrar pelas entidades adjudicantes referidas no n.º 1 do artigo 7.º desse mesmo Código, desde que esses contratos digam respeito a uma ou a várias dessas atividades.

@@ -1,0 +1,7 @@
+# Artigo 17.º
+### Noção de valor do contrato
+1 - Para efeitos do presente diploma, o valor do contrato a celebrar é o valor máximo do benefício económico que, em função do procedimento adotado, possa ser obtido pelo adjudicatário com a execução de todas as prestações que constituem o seu objeto.
+2 - O benefício económico referido no número anterior inclui, além do preço a pagar pela entidade adjudicante regional ou por terceiros, o valor de quaisquer contraprestações a efetuar em favor do adjudicatário e ainda o valor das vantagens que decorram diretamente para este da execução do contrato ou emergentes do ciclo de vida do contrato e que possam ser configuradas como contrapartidas das prestações que lhe incumbem.
+3 - Nos contratos de empreitadas de obras públicas, o benefício económico referido no número anterior deve ainda considerar o valor total estimado dos fornecimentos e serviços que sejam postos à disposição do empreiteiro pela entidade adjudicante regional, desde que os mesmos sejam necessários à execução da obra.
+4 - Nos procedimentos de parcerias para a inovação previstos na alínea f) do n.º 1 do artigo 14.º, o benefício económico referido no n.º 2 é aquele que resulta das atividades de investigação e de desenvolvimento a terem lugar em todas as fases da parceria prevista, bem como dos fornecimentos, dos serviços ou das obras a serem desenvolvidos ou adquiridos.
+5 - Caso não se verifique qualquer das situações referidas nos números anteriores o contrato considera-se sem valor.

@@ -1,0 +1,15 @@
+# Artigo 32.º
+### Rótulos
+1 - Na Região Autónoma dos Açores, a criação de rótulos é definida em diploma regulamentar próprio.
+2 - Os rótulos são constituídos por um documento, certificado ou atestado que confirme que as obras, produtos, serviços, processos ou procedimentos preenchem determinados requisitos definidos por portaria conjunta dos membros do Governo Regional competentes em razão da matéria.
+3 - Sempre que as entidades adjudicantes regionais pretendam adquirir obras, aquisição de bens móveis ou fornecimento de serviços com características específicas do ponto de vista ambiental, social ou outros, estas podem, nas especificações técnicas, nos critérios de adjudicação ou nas condições de execução dos contratos, exigir um rótulo para atestar que as mesmas correspondem às características exigidas, desde que estejam preenchidas todas as seguintes condições:
+a) Os requisitos de rotulagem digam exclusivamente respeito a critérios associados ao objeto do contrato e se mostrem adequados a definir as características das obras, fornecimento ou serviços a que se refere o contrato;
+b) Os requisitos de rotulagem sejam baseados em critérios objetivamente verificáveis e não discriminatórios;
+c) Os rótulos sejam criados através de um procedimento que garanta a participação aberta e transparente a todas as partes interessadas, públicas e privadas;
+d) Os rótulos estejam acessíveis a todos os interessados;
+e) Os requisitos de rotulagem sejam definidos por um terceiro independente, sobre quem o concorrente que solicita o rótulo não possa exercer uma influência decisiva.
+4 - No caso das entidades adjudicantes regionais não exigirem que as obras, fornecimentos ou serviços obedeçam a todos os requisitos de rotulagem, devem as mesmas indicar, no caderno de encargos, quais os requisitos de rotulagem a cumprir.
+5 - Sempre que as entidades adjudicantes regionais exijam um determinado rótulo nos termos do disposto no n.º 3, estas devem aceitar todos os rótulos que confirmem que as obras, fornecimentos ou serviços obedecem a requisitos de rotulagem equivalentes.
+6 - Sempre que se possa comprovar que um concorrente não tem possibilidade de obter, dentro do prazo estabelecido, o rótulo específico indicado pela entidade adjudicante regional, ou um outro rótulo equivalente e por razões que lhe não sejam imputáveis, a entidade adjudicante regional deve aceitar outros meios de prova adequados a suprir essa falta, nomeadamente um ficheiro técnico do fabricante.
+7 - O suprimento da falta referida no número anterior deve garantir que o concorrente em causa prove que as obras, fornecimentos ou serviços a serem por ele prestados, cumprem os requisitos do rótulo específico ou os requisitos específicos indicados pela entidade adjudicante regional.
+8 - As entidades adjudicantes regionais não podem exigir um rótulo quando este incluir requisitos que não estejam ligados ao objeto do contrato, devendo, neste caso, definir a especificação técnica por referência às especificações pormenorizadas do rótulo em questão ou, se necessário, às partes do mesmo que estejam ligadas ao objeto do contrato.

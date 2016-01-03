@@ -1,0 +1,7 @@
+# Artigo 91.º
+### Plataforma eletrónica
+1 - Enquanto não for obrigatória a utilização de plataforma eletrónica nos procedimentos de formação de contratos públicos a celebrar pelas entidades adjudicantes regionais, estas podem determinar, no programa do procedimento ou no convite, que todos os atos que, nos termos do Código dos Contratos Públicos e do artigo 35.º do presente diploma devam ser apresentados em plataforma eletrónica, podem ser praticados através do envio pelo correio, correio eletrónico ou telecópia.
+2 - O uso da plataforma eletrónica referida no número anterior só é obrigatório nas datas referidas no artigo 90.º da Diretiva 2014/24/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro.
+3 - O DEUCP a que se refere o n.º 3 do artigo 35.º é elaborado com base num formulário tipo estabelecido pela Comissão Europeia.
+4 - Compete ao membro do Governo Regional com competência em matéria de ciência e tecnologia selecionar o modelo de plataforma eletrónica a utilizar pelos serviços e organismos da administração regional autónoma, incluindo os institutos públicos regionais, nas modalidades de serviços personalizados, de estabelecimentos públicos e de fundos públicos, bem como, pelas empresas do setor público empresarial regional.
+5 - As demais entidades previstas no artigo 2.º do presente diploma podem aderir à plataforma eletrónica prevista no número anterior nos termos a definir contratualmente.

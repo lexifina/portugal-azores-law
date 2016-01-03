@@ -1,0 +1,11 @@
+# Artigo 39.º
+### Prazos mínimos de apresentação das propostas ou candidaturas
+1 - Para efeito de apresentação das propostas ou candidaturas, sempre que o anúncio do procedimento seja publicado no Jornal Oficial da União Europeia e no Diário da República, não podem ser fixados prazos inferiores a trinta dias a contar da data do envio do anúncio ou da data do envio do convite.
+2 - Quando, no âmbito de um concurso público, a entidade adjudicante regional aceite que as propostas sejam apresentadas por meio não eletrónico, o prazo referido no número anterior não pode ser inferior a trinta e cinco dias.
+3 - No concurso público ou no concurso limitado por prévia qualificação, o prazo mínimo para a apresentação das propostas e candidaturas previsto nos números anteriores pode ser reduzido em situações de urgência, devidamente fundamentada, pelo órgão competente para a decisão de contratar, desde que:
+a) O prazo de apresentação de candidaturas ou propostas não seja inferior a quinze dias a contar da data de envio do anúncio ao Serviço de Publicações Oficiais das Comunidades Europeias e serviço de publicações do Diário da República;
+b) O prazo de apresentação das propostas não seja inferior a dez dias a contar da data de envio do convite.
+4 - Quando tenha sido publicado anúncio de pré-informação que não tenha sido utilizado como meio de abertura de concurso, o prazo mínimo referido no n.º 1 é de quinze dias no caso do concurso público e de dez dias no caso de concurso limitado por prévia qualificação, desde que:
+a) O anúncio de pré-informação tenha incluído todas as informações exigidas para o anúncio de concurso ou concurso limitado por prévia qualificação, nos termos da Secção I, Parte B do Anexo V da Diretiva 2014/24/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro, na medida em que essas informações tenham estado disponíveis à data de publicação do anúncio de pré-informação; e
+b) O anúncio de pré-informação tenha sido enviado para publicação com uma antecedência mínima de trinta e cinco dias e máxima de doze meses em relação à data do envio do anúncio previsto na alínea anterior.
+5 - Nos procedimentos não previstos nos números anteriores são aplicáveis os prazos mínimos de apresentação das propostas previstos no Código dos Contratos Públicos.

@@ -1,0 +1,5 @@
+# Artigo 45.º
+### Regime simplificado do ajuste direto
+1 - No caso de se tratar de ajuste direto para a formação de um contrato de empreitada de obras públicas, cujo preço contratual não seja superior a (euro) 25.000,00, ou de um contrato de aquisição ou locação de bens móveis ou de aquisição de serviços, cujo preço contratual não seja superior a (euro) 15.000,00, a adjudicação pode ser feita pelo órgão competente para a decisão de contratar, diretamente sobre uma fatura ou documento equivalente apresentado pela entidade convidada.
+2 - À decisão de adjudicação prevista no número anterior está subjacente a decisão de contratar e a decisão de escolha do ajuste direto.
+3 - O regime simplificado de ajuste direto está dispensado de quaisquer outras formalidades previstas no Código dos Contratos Públicos e no presente diploma, incluindo as relativas à celebração de contrato e à publicitação prevista no artigo 127.º daquele Código, sem prejuízo, no caso de empreitadas de obras públicas, do cumprimento das normas legais aplicáveis relativas a alvarás e títulos de registo.

@@ -1,0 +1,7 @@
+# Artigo 92.º
+### Apresentação de propostas, candidaturas e soluções em suporte papel
+1 - Enquanto não for obrigatória a utilização de plataforma eletrónica nos procedimentos de formação de contratos a celebrar pelas entidades adjudicantes regionais, estas podem fixar, no programa do procedimento ou no convite, que as propostas, candidaturas ou soluções sejam obrigatoriamente apresentadas em suporte papel.
+2 - No caso previsto no número anterior, os documentos que constituem a proposta ou a candidatura devem ser encerrados em invólucro opaco e fechado, no rosto do qual deve ser escrita a palavra «Proposta» ou «Candidatura» ou «Soluções», indicando-se o nome ou a denominação social do concorrente, do candidato ou do parceiro, ou, se for o caso, dos membros do agrupamento concorrente, candidato ou parceiro, e a designação do contrato a celebrar.
+3 - O disposto no número anterior aplica-se às propostas variantes, devendo no rosto do respetivo invólucro ser escrita a expressão «Proposta variante n.º [...]».
+4 - O invólucro que contém os documentos que constituem a proposta, a candidatura ou a solução pode ser entregue diretamente ou enviado por correio registado, devendo, em qualquer caso, a receção ocorrer dentro do prazo e no local fixados para a sua apresentação.
+5 - A receção dos invólucros deve ser registada, anotando-se a data e a hora em que os mesmos são recebidos e, no caso de entrega direta, a identidade das pessoas que a efetuaram, sendo entregue a estas um recibo comprovativo.

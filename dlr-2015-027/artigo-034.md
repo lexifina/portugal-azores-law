@@ -1,0 +1,5 @@
+# Artigo 34.º
+### Contratação de participação reservada
+1 - As entidades adjudicantes regionais podem reservar a contratação apenas a entidades que operem no mercado com o objetivo principal de promover a integração social e profissional de pessoas com deficiência ou socioeconomicamente desfavorecidas, ou reservar a execução desses contratos para o âmbito de programas de emprego protegido, desde que, pelo menos, 30 % dos trabalhadores dessas entidades sejam trabalhadores com deficiência ou desfavorecidos.
+2 - Sempre que uma entidade adjudicante regional decida pelo tipo de contratação referida no número anterior, deve, na fase de formação dos contratos, fundamentar, expressamente, na decisão de contratar, os motivos que justificam a opção tomada, devendo as peças do procedimento fazer referência à presente disposição, à natureza de contrato reservado, e aos documentos de habilitação necessários a comprovar os respetivos factos.
+3 - As condições referidas nos números anteriores são aferidas em fase de habilitação, nos termos previstos no Código dos Contratos Públicos.

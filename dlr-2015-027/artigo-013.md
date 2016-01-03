@@ -1,0 +1,9 @@
+# Artigo 13.º
+### Contratos que abranjam várias atividades
+1 - Sempre que se verifique a existência de contratos destinados a abranger várias atividades nos setores da água, da energia e dos transportes, as entidades adjudicantes regionais podem optar por adjudicar contratos distintos para cada uma das atividades individualmente consideradas ou optar por adjudicar todas as atividades num contrato único.
+2 - Para efeitos do referido no número anterior, a opção entre a adjudicação de um único contrato ou a adjudicação de vários contratos distintos não pode ser realizada com o objetivo de excluir o contrato ou contratos em causa do âmbito de aplicação das regras da contratação pública, reguladas pelo presente diploma e pelo Código dos Contratos Públicos.
+3 - Quando as entidades adjudicantes regionais optem por adjudicar um contrato ou contratos distintos, a determinação do regime jurídico a aplicar a cada um desses contratos tem como base as características da atividade que caracteriza o respetivo objeto.
+4 - Sempre que as entidades adjudicantes regionais optem por adjudicar um contrato único, a respetiva formação rege-se pelas normas aplicáveis à atividade a que esse contrato se destina de forma principal.
+5 - Sempre que em relação aos contratos em causa não seja objetivamente possível determinar a atividade a que se destinam de modo principal, as regras aplicáveis aos mesmos são determinadas de acordo com os seguintes critérios:
+a) O contrato é adjudicado de acordo com o regime de formação dos contratos abrangidos pelo presente diploma ou pelo disposto no Código dos Contratos Públicos, se uma das atividades a que se destina estiver abrangida pelos respetivos normativos;
+b) O contrato é adjudicado em conformidade com o regime de contratação pública nos setores especiais, se uma das atividades a que se destina assim puder ser caracterizada.
