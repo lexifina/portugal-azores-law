@@ -7,3 +7,4 @@ c) Os pescadores licenciados para a pesca apeada e apanhadores, titulares de lic
 2. Para efeitos do disposto na alínea a) do número anterior, são considerados:
 a) Armadores - os proprietários das embarcações de pesca cujos rendimentos mensais não sejam superiores a três vezes a retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores;
 b) Pescadores - os que exerçam a sua atividade em regime de contrato individual de trabalho ou que estejam inscritos no rol de matrícula de uma embarcação de pesca.
+3 - As entidades referidas no n.º 1, que pretendam beneficiar do apoio referido no artigo anterior, devem efetuar descontos para o FUNDOPESCA, de acordo com o disposto na alínea g) do artigo 13.º
