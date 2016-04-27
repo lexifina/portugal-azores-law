@@ -1,7 +1,0 @@
-# Artigo 17.º
-### Reconhecimento da capacidade técnica e profissional
-1 - É emitido pela direcção regional competente em matéria de transportes terrestres um certificado de capacidade profissional para transportes colectivos de crianças aos administradores, directores ou gerentes que obtenham aprovação em exame sobre as matérias a definir por portaria do membro do Governo Regional com competência em matéria de transportes terrestres.
-2 - O exame a que se refere o número anterior é realizado em conformidade com regulamento aprovado por portaria do membro do Governo Regional com competência em matéria de transportes terrestres.
-3 - As pessoas diplomadas com curso do ensino superior, ou equiparado, que implique bom conhecimento de alguma ou algumas das matérias previstas na portaria a que se refere o n.º 1 do presente artigo, podem ser dispensadas do exame relativamente a essa ou a essas matérias.
-4 - A direcção regional competente em matéria de transportes terrestres reconhece os certificados de capacidade profissional para transportes rodoviários de passageiros emitidos em Portugal, ao abrigo do Decreto-Lei n.º 3/2001, de 10 de Janeiro, e em outros Estados membros da União Europeia, desde que atestados pela respectiva autoridade competente.
-5 - Na Região o nível de conhecimento a tomar em consideração, para efeitos do reconhecimento da capacidade técnica e profissional, não pode ser inferior à escolaridade obrigatória.
