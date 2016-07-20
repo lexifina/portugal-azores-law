@@ -1,0 +1,4 @@
+# Artigo 23.º
+### Área Marinha Protegida do Monte Submarino Altair
+1 - A Área Marinha Protegida do Monte Submarino Altair, referida na alínea b) do n.º 1 do artigo 21.º, foi classificada com os fundamentos específicos constantes da Decisão OSPAR 2010/3, sobre o estabelecimento da Área Marinha Protegida Oceânica do Monte Submarino Altair (OSPAR 10/23/1-E, anexo n.º 38), e a sua gestão visa dar cumprimento à Recomendação OSPAR 2010/14, sobre a gestão da Área Marinha Protegida Oceânica do Monte Submarino Altair (OSPAR 10/23/1-E, anexo n.º 39), adotadas pelas Partes da Convenção OSPAR reunidas em Bergen em setembro de 2010.
+2 - Os limites territoriais da Área Marinha Protegida do Monte Submarino Altair, conforme fixados pela Decisão OSPAR 2010/3, sobre o estabelecimento da Área Marinha Protegida Oceânica do Monte Submarino Altair (OSPAR 10/23/1-E, anexo n.º 38), estão representados no anexo ii pela sigla PMA08.
