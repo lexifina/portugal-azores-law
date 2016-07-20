@@ -1,0 +1,6 @@
+# Artigo 4.º
+### Actos e actividades interditos
+1 - No Parque Marinho dos Açores constituem actos e actividades interditos todos os que sejam tipificados como tal na legislação regional, nacional e comunitária, bem como em convenções ou acordos internacionais que vinculem a Região ou o Estado Português.
+2 - Fica, ainda, interdita a introdução de espécies exóticas ou geneticamente modificadas em qualquer área do Parque Marinho dos Açores.
+3 - No Parque Marinho dos Açores é interdita a realização de actividades de investigação científica e de bioprospecção que não respeitem o estabelecido no Código de Conduta para a Investigação Científica no Mar Profundo e no Alto Mar na Área Marítima da OSPAR (OSPAR Code of Conduct for Responsible Marine Research in the Deep Seas and High Seas of the OSPAR Maritime Area), aprovado pela Comissão OSPAR (OSPAR 08/24/1, anexo n.º 6) e suas alterações.
+4 - No Parque Marinho dos Açores constituem, em termos gerais, actos e actividades condicionados e sujeitos a parecer prévio vinculativo ou a autorização do serviço com competência em matéria de ambiente a extracção de quaisquer recursos biológicos e minerais marinhos não sujeitos a regulamentação específica, sem prejuízo das demais normas regulamentares definidas pelo presente diploma e restante legislação aplicável.
