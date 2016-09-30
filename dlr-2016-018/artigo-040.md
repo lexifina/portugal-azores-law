@@ -1,0 +1,5 @@
+# Artigo 40.º
+### Acompanhamento técnico
+1 - O acompanhamento técnico das amas em creche familiar é realizado por um técnico com formação mínima correspondente a licenciatura nas áreas de educação de infância, psicologia ou serviço social, com experiência profissional para o exercício das funções, a tempo inteiro, por cada grupo de oito amas, que articula com as famílias, com a equipa técnica da creche e de estabelecimento de educação pré-escolar da instituição de enquadramento e com os serviços administrativos da instituição, sempre que necessário.
+2 - As ações de acompanhamento referidas no número anterior compreendem a definição, execução e avaliação do projeto pedagógico, a organização do tempo e rotinas das crianças e o relacionamento com os pais ou com quem exerça as responsabilidades parentais.
+3 - O acompanhamento técnico pode ainda incidir sobre a organização dos espaços onde as crianças permanecem, de acordo com as disposições constantes na regulamentação referente às condições de higiene e de segurança habitacionais a observar no domicílio das amas, a que se refere o artigo 53.º
