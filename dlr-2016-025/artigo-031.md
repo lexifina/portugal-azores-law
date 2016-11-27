@@ -1,0 +1,6 @@
+# Artigo 31.º
+### Intervenções de conservação e restauro
+1 - A conservação e o restauro de bens culturais incorporados ou depositados no museu só podem ser realizados por técnicos de qualificação legalmente reconhecida, quer integrem o pessoal do museu, quer sejam especialmente contratados para o efeito.
+2 - No caso de bens culturais classificados ou em vias de classificação, o projeto de conservação ou de restauro carece de autorização prévia da direção regional com competência em matéria de cultura.
+3 - É nulo o contrato celebrado para a conservação ou o restauro de bens culturais incorporados ou depositados em museu que viole os requisitos previstos nos números anteriores.
+4 - Quando tiverem sido executados trabalhos de conservação ou restauro que impliquem dano irreparável ou destruição de bens culturais incorporados ou depositados em museu, as pessoas a quem se achem vinculados, por contrato de trabalho, de prestação de serviços, ou de empreitada, aqueles que cometerem qualquer das contraordenações previstas no presente diploma são subsidiariamente responsáveis pelo pagamento da importância igual à da coima àqueles aplicável, salvo se provarem ter tomado as providências necessárias para os fazer observar a lei.
