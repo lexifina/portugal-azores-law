@@ -8,6 +8,7 @@
 6 - A não comparência dos docentes nos termos dos n.os 4 e 5 determina:
 a) Anulação da colocação;
 b) Impossibilidade de celebração do respetivo contrato;
-c) Impossibilidade de, no respetivo ano e nos dois anos subsequentes, serem colocados em exercício de funções docentes em estabelecimentos de educação da rede pública regional.
+c) Impossibilidade de, no respetivo ano escolar e nos dois anos escolares subsequentes, serem colocados em exercício de funções docentes em estabelecimentos de educação da rede pública regional, ficando, ainda, impedidos de se candidatarem aos procedimentos concursais que para esses anos forem abertos.
 7 - O disposto no número anterior pode não ser aplicado em virtude de motivos devidamente fundamentados, reconhecidos como tal por despacho do diretor regional competente em matéria de educação.
 8 - A celebração do contrato por tempo indeterminado dos docentes dos quadros de escola está sujeita à forma escrita e do contrato deve constar a assinatura do docente e do presidente ou diretor do órgão executivo da unidade orgânica onde obtiver colocação.
+9 - Consideram-se nulos os contratos que não obedeçam ao estabelecido no presente Regulamento.

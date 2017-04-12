@@ -1,6 +1,6 @@
 # Artigo 11.º
 ### Graduação académica
-1 - A graduação académica do docente, a que se refere o n.º 3 do artigo 9.º, corresponde à soma da classificação académica, expressa na escala de 0 a 20 valores, obtida no curso que lhe confere habilitação própria para a docência, com a parcela N x 1 valor, em que N é o quociente, arredondado por excesso à milésima mais próxima, da divisão por 365 do número de dias de serviço docente oficial ou equiparado avaliado com a menção qualitativa mínima de Bom, contado nos termos da lei geral, prestado até ao dia 31 de agosto do ano imediatamente anterior à data de abertura do procedimento concursal.
+1 - A graduação académica do docente, a que se refere o n.º 3 do artigo 9.º, corresponde à soma da classificação académica, expressa na escala de 0 a 20 valores, obtida no curso que lhe confere habilitação própria para a docência no grupo de recrutamento a que é opositor e com o qual se candidata, com a parcela N x 1 valor, em que N é o quociente, arredondado por excesso à milésima mais próxima, da divisão por trezentos e sessenta e cinco do número de dias de serviço docente oficial ou equiparado avaliado com a menção qualitativa mínima de Regular, contado nos termos da lei geral, prestado até ao dia 31 de agosto do ano imediatamente anterior à data de abertura do procedimento concursal.
 2 - Dentro de cada um dos escalões das habilitações próprias fixadas na legislação em vigor, os candidatos são seriados por ordem decrescente da sua graduação na docência.
 3 - Na determinação da classificação académica observa-se:
 a) Quando a habilitação própria exigir, para além de um curso de média final Mc, a aprovação em cadeiras ad hoc, sendo Ma a média das classificações destas cadeiras calculada até às décimas, a classificação académica M é calculada através da fórmula, com aproximação às décimas:
@@ -13,3 +13,4 @@ e) O tempo de serviço considerado como condição necessária para aquisição 
 a) Candidatos com maior valor de N a que se refere o n.º 1;
 b) Candidatos com classificação académica mais elevada;
 c) Candidatos com mais idade.
+5 - Para efeitos de contagem do tempo de serviço docente a que se refere o n.º 1, é aplicável o disposto no n.º 10 do artigo anterior.
