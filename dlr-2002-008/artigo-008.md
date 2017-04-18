@@ -1,6 +1,6 @@
 # Artigo 8.º
-### Prova de pensão auferida e prova de residência
-1 - De Janeiro a Março de cada ano os beneficiários apresentarão nos serviços da segurança social documento que comprove o quantitativo que auferem referente à pensão ou pensões que lhes dá o direito ao complemento regional de pensão, excluindo aquelas que sejam do conhecimento oficioso daquela entidade.
+### Prova de rendimentos auferidos e prova de residência
+1 - De janeiro a março de cada ano, os beneficiários, cujos rendimentos de pensão, trabalho ou atividade por conta própria, não sejam obtidos de forma oficiosa, através de troca eletrónica de dados com as entidades detentoras da respetiva informação, apresentam nos serviços de segurança social documento que comprove o quantitativo mensal que auferem.
 2 - Os pensionistas referidos no artigo 4.º deverão, na data mencionada no número anterior, fazer prova de possuírem residência permanente na Região.
 3 - Para efeitos do número anterior, entende-se por residência permanente a residência na Região ou permanência no respectivo território por mais de 183 dias, nesta se situando a sua residência habitual e que aí esteja registado para efeitos fiscais.
 4 - Excluem-se do disposto no n.º 2 os beneficiários que se encontrem em situação de doença prolongada e os estudantes deslocados fora da Região, cuja situação se encontre devidamente comprovada.

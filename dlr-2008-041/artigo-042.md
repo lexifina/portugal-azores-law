@@ -1,6 +1,6 @@
 # Artigo 42.º
 ### Requisitos funcionais para avaliação
-1 - No caso de trabalhador que, no ano civil anterior ao da realização do ciclo avaliativo, tenha constituído relação jurídica de emprego público há menos de seis meses, o desempenho relativo a este período é objeto de avaliação conjunta com o do ciclo seguinte.
+1 - No caso de trabalhador que, no ano civil anterior ao da realização do ciclo avaliativo, tenha constituído relação jurídica de emprego público há menos de um ano, o desempenho relativo a este período é objeto de avaliação conjunta com o ciclo seguinte.
 2 - No caso de trabalhador que, no biénio anterior, tenha relação jurídica de emprego público com, pelo menos, um ano e o correspondente serviço efetivo, independentemente do serviço onde o tenha prestado, o desempenho é objeto de avaliação nos termos do presente título.
 3 - O serviço efectivo deve ser prestado em contacto funcional com o respectivo avaliador ou em situação funcional que, apesar de não ter permitido contacto directo pelo período temporal referido no número anterior, admita, por decisão favorável do conselho coordenador da avaliação, a realização de avaliação.
 4 - No caso previsto no n.º 2, se no decorrer do biénio anterior e/ou período temporal de prestação de serviço efetivo se sucederem vários avaliadores, o que tiver competência para avaliar no momento da realização da avaliação deve recolher dos demais os contributos escritos adequados a uma efetiva e justa avaliação.
