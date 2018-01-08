@@ -1,0 +1,4 @@
+# Artigo 47.º
+Compensação por caducidade dos contratos a termo resolutivo celebrados com docentes pela Secretaria Regional da Educação e Cultura
+1 - Aos docentes contratados a termo resolutivo pela Secretaria Regional da Educação e Cultura não é devida a compensação por caducidade a que se referem o n.º 3 do artigo 293.º e o n.º 4 do artigo 294.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, se ocorrer a celebração de novo contrato sucessivo até 31 de dezembro do ano letivo seguinte.
+2 - Para efeitos do disposto no número anterior, o pagamento da compensação por caducidade devida nos termos do n.º 3 do artigo 293.º e do n.º 4 do artigo 294.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, só se efetua a partir do dia 1 de janeiro do ano letivo seguinte.
