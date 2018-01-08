@@ -3,7 +3,7 @@
 # Artigo 3.º
 ### Conceitos
 Para efeitos do presente diploma, considera-se:
-a) «Centro de actividades de tempos livres (ATL)» o local onde se desenvolvam actividades de apoio social e de complemento curricular destinadas a crianças com idades compreendidas entre o ingresso no ensino básico e os 12 anos;
+a) «Centro de atividades de tempos livres (CATL)» o local destinado a crianças e jovens a partir do ingresso no sistema de ensino e durante a escolaridade obrigatória, onde se promove a ocupação dos tempos livres num contexto de aprendizagem não formal, através da promoção do lazer, entendido como o conjunto de experiências e vivências que visam o desenvolvimento individual e social, promovidas num ambiente lúdico, de liberdade e com potencial pedagógico;
 b) «Creche» o estabelecimento frequentado por crianças com idade compreendida entre o termo da licença por maternidade, paternidade ou adopção e os 3 anos;
 c) «Ensino doméstico» aquele que é leccionado no domicílio do aluno por familiar ou por pessoa que com ele coabite;
 d) «Ensino individual» aquele que é ministrado por um professor diplomado a um único aluno fora de estabelecimento de ensino;
