@@ -1,7 +1,8 @@
 # Artigo 48.º
-### Largada de touros
-1 - O licenciamento de largada de touros reveste carácter excepcional, quando não esteja integrada em programa festivo camarário, e a mesma só pode ser realizada ao sábado, domingo ou feriado.
-2 - Para todos os casos de largada de touros é necessária a emissão de licença, nos termos do n.º 1 artigo 44.º, devendo respeitar-se as imposições constantes dos n.os 2 e 3 do artigo 49.º e do n.º 2 do artigo 51.º
-3 - É aplicável à largada de touros o disposto no artigo 64.º
-4 - Sem prejuízo da aplicação das regras gerais sobre responsabilidade civil, o presidente da câmara municipal fixa, para cada caso, as condições especiais de segurança e de responsabilidade a que se obriga o promotor da largada de touros.
-5 - Para efeitos do disposto no número anterior, considera-se promotor da largada de touros o requerente da respectiva licença.
+### Espera de gado e largada de toiros
+1 - Exceto quando esteja integrado num programa de festividades concelhias, o licenciamento de esperas de gado e largadas de toiros reveste caráter excecional e só pode ser concedido para evento a realizar num sábado, domingo ou feriado.
+2 - Para todos os casos de espera de gado ou largada de toiros é necessária a emissão de licença específica, devendo respeitar-se as imposições constantes do n.º 2 do artigo 49.º e do n.º 2 do artigo 53.º quanto ao horário e duração do divertimento.
+3 - Não pode ser autorizada a realização de esperas de gado ou largadas de toiros em local ajardinado nem em zona ou recinto afeto a atividades desportivas.
+4 - É aplicável às esperas de gado e largadas de toiros o disposto no artigo 64.º quanto ao embolamento e período de descanso obrigatório das reses.
+5 - Sem prejuízo da aplicação das regras gerais sobre responsabilidade civil, o presidente da câmara municipal fixa, para cada caso, as condições especiais de segurança e de responsabilidade a que se obriga o promotor da espera de gado ou largada de toiros, as quais devem ser apostas na licença.
+6 - Para efeitos do disposto no número anterior, considera-se promotor da espera de gado ou largada de toiros o requerente da respetiva licença.
