@@ -1,3 +1,5 @@
+## Capítulo V
+## Disposições finais
 # Artigo 38.º
-### Entrada em vigor
-O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+### Regulamentação
+As regras respeitantes à realização de trabalhos arqueológicos e respetivos formulários, constam de portaria do membro do Governo Regional competente em matéria de cultura.

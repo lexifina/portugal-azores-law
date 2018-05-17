@@ -1,16 +1,5 @@
-## Capítulo III
-## Parques arqueológicos
 # Artigo 36.º
-### Criação de parques arqueológicos
-1 - Entende-se por «parque arqueológico» qualquer monumento, sítio ou conjunto de sítios arqueológicos de interesse relevante, integrado num território demarcado, cujo ordenamento e gestão devam ser determinados pela necessidade de garantir a preservação e fruição dos testemunhos arqueológicos aí existentes.
-2 - São objectivos dos parques arqueológicos:
-a) Proteger, conservar e divulgar o património arqueológico;
-b) Desenvolver acções tendentes à salvaguarda dos valores culturais e naturais existentes na área do parque;
-c) Promover o estudo e a fruição dos bens arqueológicos.
-3 - Por decreto regulamentar regional podem ser criadas e extintas zonas classificadas como parques arqueológicos, de acordo com o disposto nos artigos 74.º e 75.º da Lei n.º 107/2001, de 8 de Setembro.
-4 - A gestão dos parques arqueológicos cabe aos serviços dependentes do departamento da administração regional competente em matéria de cultura, aos quais compete elaborar e propor à aprovação do Governo Regional, no prazo de três anos após a criação do parque, o respectivo plano de pormenor de salvaguarda, nos termos legalmente fixados.
-5 - O diploma a que se refere o número anterior determinará a existência de parques arqueológicos visitáveis, incluindo nessa categoria a totalidade ou parte do parque.
-6 - Para ser elegível como parque arqueológico visitável, os sítios arqueológicos deverão:
-a) Apresentar comparativamente um valor arqueológico relativo, conforme avaliação efectuada no local;
-b) Ser pouco sensível ao impacte negativo que o acréscimo de visitas ao local acarretar;
-c) Apresentar boas condições geofísicas que permitam efectuar visitas em segurança.
+### Instrução do processo
+São competentes para mandar instruir processo de contraordenação e aplicar as sanções a que haja lugar:
+a) O membro do Governo Regional competente em matéria de cultura, no que diz respeito à violação do disposto no n.º 1 e nas alíneas a), b), c) e d), do n.º 2 do artigo 33.º;
+b) A autoridade marítima competente, no que diz respeito à violação do disposto nas alíneas e), f) e g) do n.º 2 do artigo 33.º

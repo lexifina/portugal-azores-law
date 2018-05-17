@@ -1,6 +1,8 @@
+## Secção II
+## Propriedade dos bens e avaliação
 # Artigo 24.º
-### Trabalhos arqueológicos subaquáticos
-1 - Consideram-se trabalhos arqueológicos subaquáticos as acções que, de acordo com uma metodologia arqueológica, tenham por objecto a prospecção, detecção, localização, sondagem, escavação, remoção, recuperação, tratamento, conservação e protecção dos bens do património cultural subaquático.
-2 - Os trabalhos arqueológicos subaquáticos regem-se pelos mesmos princípios regulamentados na secção I do capítulo II do presente diploma.
-3 - As acções de prospecção, detecção, localização, sondagem, escavação, remoção, recuperação, tratamento, conservação e protecção dos bens do património cultural subaquático só são permitidas no âmbito de trabalhos arqueológicos devidamente licenciados pela administração regional autónoma, nos termos do presente diploma.
-4 - A licença referida no número anterior não substitui nem dispensa as demais autorizações legalmente exigidas.
+### Achados fortuitos
+1 - Quem por acaso achar ou localizar quaisquer testemunhos arqueológicos, em terreno público ou particular, ou em meio subaquático, fica obrigado a comunicar a ocorrência diretamente ao departamento do Governo Regional competente em matéria de cultura, ou a qualquer autoridade policial, ou, ainda, no caso de ocorrer em meio subaquático, ao órgão local do sistema de autoridade marítima ou estância aduaneira com jurisdição sobre a área do achado, no prazo de quarenta e oito horas.
+2 - As entidades anteriormente referidas devem dar conhecimento do auto ao departamento do Governo Regional competente em matéria de cultura no prazo de vinte e quatro horas ou, caso não seja possível a comunicação imediata, efetuá-la num prazo limite de quarenta e oito horas.
+3 - Quando o achado for comunicado diretamente ao departamento do Governo Regional competente em matéria de cultura, este deverá dar conhecimento do facto às entidades com jurisdição sobre o local do achado no prazo de vinte e quatro horas.
+4 - Salvo motivo justificado, a falta de comunicação do achado no prazo referido no n.º 1 implica a perda dos direitos do achador, sem prejuízo da responsabilidade civil, criminal e contraordenacional a que haja lugar.

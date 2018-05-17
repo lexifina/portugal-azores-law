@@ -1,3 +1,5 @@
 # Artigo 37.º
-### Competências
-As competências genéricas em matéria de arqueologia atribuídas pela Lei n.º 19/2000, de 10 de Agosto, à administração regional autónoma são exercidas pelo membro do Governo Regional competente em matéria de cultura, podendo ser delegadas de acordo com a orgânica do departamento governamental respectivo.
+### Produto das coimas
+O produto das coimas reverte para:
+a) O Fundo Regional de Ação Cultural, quando o processo tenha sido instaurado pela administração regional autónoma;
+b) A autoridade marítima competente, quando o processo tenha sido instaurado por esta entidade.

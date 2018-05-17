@@ -1,14 +1,7 @@
-## Secção II
-## Património arqueológico subaquático
 # Artigo 23.º
-### Conceito
-1 - Fazem parte do património arqueológico subaquático todos os bens móveis ou imóveis e zonas envolventes, testemunhos da presença humana e possuidores de valor histórico, artístico ou científico, situados, inteiramente ou em parte, em meio subaquático, encharcado ou húmido.
-2 - Consideram-se meios subaquáticos, encharcados ou húmidos, na Região:
-a) O mar territorial, seus leitos e margens;
-b) Os lagos, lagoas e lagunas, seus leitos e margens;
-c) Os cursos de água, seus leitos e margens;
-d) Os cais e bacias portuárias, seus leitos e margens;
-e) As águas dos poços e reservatórios;
-f) As zonas inundadas periodicamente ou actualmente assoreadas, seus leitos e margens, desde que tais trabalhos incidam sobre bens ou indícios de âmbito náutico.
-3 - Integram ainda o património cultural subaquático os bens que sejam arrojados ou que se encontrem no subsolo das águas e zonas referidas no número anterior.
-4 - São também património cultural subaquático os sítios arqueológicos subaquáticos localizados em zonas submersas onde se encontrem bens culturais que, pela sua natureza ou interesse de conjunto, ali devam permanecer.
+### Suspensão de trabalhos
+1 - Quando, em virtude de trabalhos de qualquer natureza, como sejam remoção de terras, dragagens, demolições, remoção de areias ou outros materiais, prospeções petrolíferas ou de minerais, forem encontrados ou localizados bens que integrem o património arqueológico, terrestre ou subaquático, o achador ou a entidade responsável pela execução da obra suspenderá de imediato os trabalhos e procederá à comunicação dos achados ao departamento da administração regional autónoma competente em matéria de cultura.
+2 - Os trabalhos ficarão suspensos até que seja autorizada a respetiva continuação.
+3 - O departamento da administração regional autónoma competente em matéria de cultura deverá, num prazo de dez dias a contar do recebimento do auto de achado, decidir sobre a continuidade dos trabalhos face à relevância patrimonial dos mesmos.
+4 - Deverá o departamento do Governo Regional competente em matéria de cultura elaborar um relatório contendo a avaliação patrimonial e arqueológica dos achados, definindo e delineando uma estratégia de atuação de emergência, de modo a salvaguardar esses testemunhos arqueológicos.
+5 - Quando o achador ou a entidade responsável pela execução de trabalhos não suspender ou prosseguir os trabalhos sem autorização do departamento da administração regional autónoma competente em matéria de cultura, este poderá desencadear o embargo administrativo.

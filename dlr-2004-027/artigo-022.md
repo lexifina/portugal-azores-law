@@ -1,7 +1,11 @@
 # Artigo 22.º
-### Suspensão de trabalhos
-1 - Quando, em virtude de trabalhos de qualquer natureza, como sejam remoção de terras, dragagens, demolições, remoção de areias ou outros materiais, prospecções petrolíferas ou de minerais, forem encontrados ou localizados bens que integrem o património arqueológico, terrestre ou subquático, o achador ou a entidade responsável pela execução da obra suspenderá de imediato os trabalhos e procederá à comunicação dos achados ao departamento da administração regional autónoma competente em matéria de cultura.
-2 - Os trabalhos ficarão suspensos até que seja autorizada a respectiva continuação.
-3 - O departamento da administração regional autónoma competente em matéria de cultura deverá, num prazo de 10 dias a contar do recebimento do auto de achado, decidir sobre a continuidade dos trabalhos face à relevância patrimonial dos mesmos.
-4 - Deverá o departamento do Governo Regional competente em matéria de cultura elaborar um relatório contendo a avaliação patrimonial e arqueológica dos achados, definindo e delineando uma estratégia de actuação de emergência, de modo a salvaguardar esses testemunhos arqueológicos.
-5 - Quando o achador ou a entidade responsável pela execução de trabalhos não suspender ou prosseguir os trabalhos sem autorização do departamento da administração regional autónoma competente em matéria de cultura, este poderá desencadear o embargo administrativo.
+### Cartas de risco arqueológico
+1 - As cartas de risco arqueológico aplicam-se aos conjuntos classificados como de interesse público e às respetivas zonas de proteção e às zonas de proteção de imóveis individualmente classificados como de interesse público, tendo por objetivo criar procedimentos preventivos e boas práticas que precedam operações urbanísticas, indicando os níveis de intervenção adequados à defesa e valorização do património arqueológico.
+2 - Os níveis de intervenção referidos no número anterior são:
+a) Elaboração de uma memória histórica do sítio, a ser feita por historiador;
+b) Acompanhamento arqueológico de obra;
+c) Abertura prévia de sondagens e acompanhamento de obra;
+d) Escavação integral;
+e) Escavação e musealização dos achados;
+f) Estabelecimento de zonas de interdição de operações urbanísticas.
+3 - As cartas de risco arqueológico são elaboradas pela direção regional competente em matéria de cultura, em parceria com os municípios, estando sujeitas a revisão quando os seus pressupostos sejam significativamente alterados.
