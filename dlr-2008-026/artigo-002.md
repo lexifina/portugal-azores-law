@@ -10,4 +10,4 @@ a) Da atribuição, competência ou actividade que o seu ocupante se destine a c
 b) Do cargo ou da carreira e categoria e posição remuneratória que lhes correspondam;
 c) Dentro de cada carreira e ou categoria, quando imprescindível, da área de formação académica ou profissional de que o seu ocupante é ou deva ser titular.
 7 - Na informação referida no número anterior deve igualmente constar o número de postos de trabalho que podem ser disponibilizados tendo em conta as necessidades de afectação a outros órgãos e serviços.
-8 - A informação a que se refere este artigo deve igualmente ser remetida ao membro do Governo Regional responsável pela área da Administração Pública.
+8 - O mapa anual global consolidado de recrutamento destinado ao recrutamento de entre indivíduos sem vínculo de emprego público ou com vínculo de emprego público a termo é aprovado por despacho dos membros do Governo Regional responsáveis pelas áreas das finanças e da Administração Pública durante o primeiro trimestre do respetivo ano orçamental e publicado na bolsa de emprego público dos Açores - BEP-Açores.
