@@ -1,2 +1,10 @@
 # Artigo 2.º
-### Os artigos 3.º, 7.º, 11.º, 20.º e 34.º aplicam-se à Região com as seguintes adaptações:
+### Adaptações objetivas
+1 - A operação portuária pode ser exercida diretamente pela autoridade portuária nas ilhas onde o serviço de movimentações de cargas não justifique a intervenção de empresas de estiva.
+2 - Não estão abrangidas pelo n.º 1 do artigo 7.º do regime jurídico da operação portuária, para além das situações previstas no n.º 2 desse artigo, as operações de carga, descarga e arrumação de peixe fresco, refrigerado ou congelado, quando realizadas em instalações privativas das empresas de pesca e, em qualquer caso, em operações de transbordo, independentemente do tipo de atividade das embarcações envolvidas, desde que a apresentação da mercadoria ao transporte não seja modificada.
+3 - As operações referidas no número anterior podem ser realizadas sem intervenção de trabalhadores abrangidos pelo regime do trabalho portuário.
+4 - O capital social necessário ao licenciamento e ao exercício da atividade de empresa de estiva é de (euro) 250 000 (duzentos e cinquenta mil euros) para o porto de Ponta Delgada, de (euro) 125 000 (cento e vinte e cinco mil euros) para os portos da Praia da Vitória e da Horta e de (euro) 50 000 (cinquenta mil euros) para outros portos.
+5 - Quando a empresa de estiva pretenda exercer a atividade em mais de um porto, o capital social corresponderá ao resultado do somatório do capital exigido para cada um dos portos em que pretenda ser licenciada, com o limite máximo de (euro) 500 000 (quinhentos mil euros).
+6 - O prazo das concessões do serviço público de movimentação de carga não pode exceder os 75 anos e deve ser estabelecido em função do período de tempo necessário para amortização e remuneração, em normais condições de rendibilidade da exploração, do capital investido pelo concessionário.
+7 - As bases gerais das concessões do serviço público de movimentação de carga são aprovadas por decreto legislativo regional.
+8 - O produto das coimas aplicadas pelas infrações ao regime jurídico da operação portuária reverte para o Fundo Regional de Apoio à Coesão e ao Desenvolvimento Económico e para a autoridade portuária, na proporção de 60 % e 40 %, respetivamente.
