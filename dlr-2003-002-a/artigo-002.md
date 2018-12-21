@@ -1,7 +1,0 @@
-# Artigo 2.º
-### Objecto da Sociedade de Promoção e Reabilitação de Habitação e Infra-Estruturas (SPRHI), S. A.
-1 - A SPRHI, S. A., tem por objecto social a promoção, o planeamento, a construção, a fiscalização e a gestão de parques habitacionais e de outro património, assim como a realização de obras de recuperação, de construção e de reconstrução de habitações, de requalificação urbanística e de outras infra-estruturas, nomeadamente em áreas abrangidas por catástrofes naturais e em áreas consideradas zonas de risco.
-2 - Para a prossecução das suas atribuições, são conferidos à SPRHI, S. A.:
-a) Os poderes para requerer a expropriação por utilidade pública de imóveis e dos direitos a eles inerentes e requerer a constituição de servidões administrativas;
-b) O direito de utilizar e administrar bens, do domínio público ou privado da Região Autónoma dos Açores, que estejam ou venham a estar afectos ao exercício da sua actividade;
-c) Os poderes e prerrogativas da Região Autónoma dos Açores quanto à protecção, desocupação, demolição e defesa administrativa da posse de terrenos e ou instalações que lhe estejam afectos e das obras por si contratadas, podendo ainda, nos termos da lei, ocupar temporariamente os terrenos de particulares de que necessite para estaleiros, depósitos de materiais, alojamento de pessoal operário e instalação de escritórios, sem prejuízo do direito à indemnização a que houver lugar.
