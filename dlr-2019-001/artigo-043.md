@@ -1,0 +1,3 @@
+# Artigo 43.º
+### Remuneração complementar regional
+O montante da remuneração complementar regional a que se refere o n.º 1 do artigo 10.º do Decreto Legislativo Regional n.º 8/2002/A, de 10 de abril, alterado pelos Decretos Legislativos Regionais n.os 22/2007/A, de 23 de outubro, 6/2010/A, de 23 de fevereiro, 3/2012/A, de 13 de janeiro, 3/2013/A, de 23 de maio, 2/2014/A, de 29 de janeiro, 14/2014/A, de 1 de agosto, 22/2014/A, de 27 de novembro, 8/2015/A, de 30 de março, 1/2016/A, de 8 de janeiro, 3/2017/A, de 13 de abril e 1/2018/A, de 3 de janeiro, é atualizado, com efeitos a 1 de janeiro de 2019, na percentagem de 12 %.

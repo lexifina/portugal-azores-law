@@ -1,0 +1,5 @@
+# Artigo 63.º
+### Revogação do Decreto Legislativo Regional n.º 30/99/A, de 25 de agosto
+1 - É revogado o Decreto Legislativo Regional n.º 30/99/A, de 25 de agosto, alterado pelo Decreto Legislativo Regional n.º 12/2000/A, de 20 de maio, que autorizou o Governo Regional a abrir concursos públicos para a concessão do exclusivo da exploração de jogos de fortuna ou azar na Região Autónoma dos Açores.
+2 - As competências atribuídas ao Governo da República no Decreto-Lei n.º 422/89, de 2 de dezembro, que aprova a Lei do Jogo, entendem-se atribuídas, na Região Autónoma dos Açores, ao membro do Governo Regional com competências em matéria de turismo.
+3 - O contrato de concessão do exclusivo da exploração de jogos de fortuna ou azar num casino em São Miguel, que inclui o contrato relativo às obrigações de construção e de exploração de imóveis, e o contrato de concessão da exploração de jogos de fortuna ou azar em salas de jogo do bingo e máquinas de jogo na ilha Terceira, outorgados a 15 de abril de 2003 e revistos a 18 de abril de 2016, mantêm-se em vigor, observando as cláusulas contratuais e a Lei do Jogo, aprovada pelo Decreto-Lei n.º 422/89, de 2 de dezembro.

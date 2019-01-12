@@ -1,0 +1,4 @@
+# Artigo 57.º
+### Cuidadores informais
+1 - Reconhecendo a importância dos cuidadores informais no apoio prestado a pessoas que necessitam de cuidados permanentes no seu domicílio, o Governo Regional diligenciará no ano de 2019, no desenvolvimento de medidas de apoio dirigidas aos cuidadores informais principais e às pessoas cuidadas, de forma a reforçar a sua proteção social, a criar as condições para acompanhar, capacitar e formar o cuidador informal principal e a prevenir situações de risco de pobreza e de exclusão social.
+2 - O Governo Regional procede ainda à avaliação das respostas existentes dirigidas ao descanso do cuidador, designadamente no âmbito da Rede Regional de Cuidados Continuados Integrados dos Açores, dos serviços e respostas sociais existentes de não institucionalização, por forma a avaliar a necessidade de reforço ou reformulação das mesmas.

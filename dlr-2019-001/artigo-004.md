@@ -1,0 +1,8 @@
+# Artigo 4.º
+### Gestão do património regional
+1 - A gestão patrimonial da administração direta e indireta da Região Autónoma dos Açores deve orientar-se por critérios de eficiência e de racionalidade de modo a minimizar o respetivo impacto orçamental.
+2 - Para efeitos de avaliação do impacto orçamental, a aquisição onerosa do direito de propriedade e de outros direitos reais de gozo sobre imóveis para o património da administração direta e indireta da Região Autónoma dos Açores, quando não dependa legalmente de autorização do membro do Governo Regional responsável pela área das finanças e património, fica sujeita à anuência prévia daquele membro do Governo Regional.
+3 - O pedido de anuência prévia deve ser fundamentado e indicar a descrição física e legal do imóvel sobre o qual se pretende adquirir qualquer direito e respetivo preço de aquisição.
+4 - A permuta de imóveis por parte dos serviços da administração direta e indireta da Região Autónoma dos Açores fica sujeita ao regime previsto nos números anteriores, mesmo quando não haja lugar a qualquer pagamento por parte da Região resultante da diferença de valores dos imóveis objeto de permuta.
+5 - O decreto regulamentar regional de execução do Orçamento da Região Autónoma dos Açores define os direitos e bens, designadamente os bens móveis sujeitos a registo, cuja aquisição, gratuita ou onerosa, permuta, locação, reafetação, alienação, destruição e cedência, a qualquer título, depende de autorização prévia e específica do membro do Governo Regional responsável pela área das finanças e património.
+6 - Na falta ou insuficiência de legislação própria, aplica-se à gestão do património regional a legislação nacional aplicável ao domínio privado do Estado, com as necessárias adaptações orgânicas.
