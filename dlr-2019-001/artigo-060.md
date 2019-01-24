@@ -14,9 +14,8 @@ Artigo 13.º
 [...]
 1 - [...]
 2 - [...]
-a) [...]
-b) (Revogada.)
-c) A idade média da frota de veículos automóveis da empresa, determinada pela data da primeira matrícula de cada veículo, não exceda os vinte anos.
+a) (Revogada.)
+b) A idade média da frota de veículos automóveis da empresa, determinada pela data da primeira matrícula de cada veículo, não exceda os vinte anos.
 3 - [...]
 4 - [...]
 5 - [...]
