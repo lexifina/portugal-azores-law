@@ -6,6 +6,6 @@
 a) As acções de controlo de densidade de predadores terrestres;
 b) A alteração do coberto vegetal através da realização de cortes rasos de povoamentos florestais, pelo corte de vegetação arbórea ou arbustiva destinada a acções de limpeza ou pela destruição das compartimentações existentes de sebes vivas.
 4 - Os limites territoriais da Reserva Natural do Morro do Castelo Branco estão representados no anexo ii pela sigla FAI03.
-5 - A Reserva Natural do Morro do Castelo Branco integra no seu âmbito os objectivos e limites territoriais definidos para o SIC Morro de Castelo Branco e observa, cumulativamente com o regime definido pelo presente diploma, o regime estabelecido pelo Plano Sectorial da Rede Natura 2000.
+5 - A Reserva Natural do Morro de Castelo Branco integra no seu âmbito os objetivos e limites territoriais definidos para a ZEC Morro de Castelo Branco e observa, cumulativamente com o regime definido pelo presente diploma, o regime estabelecido pelo Plano Sectorial da Rede Natura 2000.
 6 - A Reserva Natural do Morro do Castelo Branco integra no seu âmbito as zonas de reserva integral de captura de lapas definida no n.º 8 do artigo 4.º do Decreto Regulamentar Regional n.º 14/93/A, de 31 de Julho.
 7 - Dentro dos limites territoriais da Reserva Natural do Morro do Castelo Branco incluem-se áreas que preenchem os critérios de classificação da BirdLife International como Important Bird Area, doravante designado por IBA.

@@ -1,0 +1,6 @@
+# Artigo 10.º-B
+### Monumento Natural do Vulcão dos Capelinhos
+1 - O Monumento Natural do Vulcão dos Capelinhos é classificado em função dos valores estéticos e naturais em presença, designadamente a singularidade geológica e a biodiversidade associadas a espécies e habitats protegidos, com destaque para a profusão de formações palagoníticas muito desenvolvidas e a ocorrência de endemismos de fauna artrópode, bem como na expressiva componente cultural e histórica da erupção do vulcão dos Capelinhos.
+2 - Os limites territoriais do Monumento Natural do Vulcão dos Capelinhos estão representados e descritos nos anexos ii e iii pela sigla FAI03-A.
+3 - O Monumento Natural do Vulcão dos Capelinhos integra no seu âmbito os objetivos definidos para a área protegida para a gestão de habitats ou espécies dos Capelinhos, Costa Noroeste e Varadouro (FAI05) e para a ZEC da Caldeira e Capelinhos, e observa, cumulativamente com o definido pelo presente diploma, o regime estabelecido pelo Plano Sectorial da Rede Natura 2000.
+4 - Dentro dos limites territoriais do Monumento Natural do Vulcão dos Capelinhos incluem-se áreas que preenchem os critérios de classificação da BirdLife International como IBA.
