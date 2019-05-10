@@ -1,0 +1,5 @@
+# Artigo 5.º
+### Pareceres, autorizações e comunicações
+1 - Os procedimentos de licenciamento das atividades espaciais, de qualificação prévia de registo e transferência de objetos espaciais, relativos a atividades a desenvolver na Região, estão sujeitos a parecer técnico obrigatório da AE, bem como dependentes de autorização por utilização do domínio público aéreo, por parte da entidade nacional competente.
+2 - Os procedimentos de licenciamento, referidos no número anterior, estão sujeitos a parecer vinculativo fundamentado dos ministérios com competência em matéria de defesa nacional e administração interna, quando estejam em causa questões de defesa e segurança nacional.
+3 - A EER comunica à AE todas as informações necessárias, relativas aos procedimentos referidos nos números anteriores, para garantir o cumprimento por parte dessa entidade, das obrigações internacionais aplicáveis, designadamente das decorrentes da Convenção Relativa ao Registo de Objetos Lançados no Espaço Exterior.

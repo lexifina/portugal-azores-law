@@ -1,0 +1,13 @@
+# Artigo 10.º
+### Procedimento de atribuição de licença
+1 - O procedimento de atribuição de licenças é definido por decreto regulamentar regional, devendo a decisão sobre a concessão ou recusa de licença ser emitida pela EER no prazo de 90 dias após a receção do pedido completo.
+2 - Para efeitos de obtenção de outras autorizações eventualmente necessárias, nos termos previstos na alínea f) do n.º 1 do artigo anterior, deve ser seguido o seguinte procedimento:
+a) No caso da licença unitária, a informação e documentação necessária para as outras autorizações deve ser submetida junto da EER conjuntamente com a informação e documentação para obtenção da licença de operações espaciais;
+b) No caso da licença global, e se assim indicado pela EER, a informação e documentação necessária para as outras autorizações deve ser submetida previamente a cada operação, não podendo o operador proceder à operação espacial sem as referidas autorizações.
+3 - A atribuição de licenças para atividades espaciais que se desenvolvam nas zonas marítimas adjacentes ao arquipélago requer parecer obrigatório da direção regional competente em matéria de assuntos do mar, no âmbito das suas competências, sem prejuízo dos demais pareceres que sejam legalmente necessários.
+4 - A regulamentação prevista no n.º 1 pode consagrar um regime especial de licenciamento, que se pode traduzir na redução de prazos ou na simplificação de procedimentos, nas situações em que:
+a) O requerente da licença seja uma entidade pública ou uma organização internacional que atue ao abrigo de acordos internacionais celebrados com a República Portuguesa;
+b) A operação espacial pretendida prossiga exclusivamente finalidades científicas, ou de investigação e desenvolvimento (I&D), educação ou formação ou se traduza em atividades com finalidades experimentais de elevado risco técnico e devidamente justificadas em termos dos seus objetivos para o bem público, sem implicações de riscos públicos;
+c) O requerente da licença tenha obtido autorização para o exercício da atividade espacial junto de outro Estado cujo regime jurídico assegure o cumprimento das obrigações internacionais aplicáveis.
+5 - Podem ser dispensadas de licenciamento as atividades espaciais prosseguidas por operadores portugueses ou estabelecidos em território nacional relativamente às quais o operador comprova, de forma satisfatória perante a EER, que obteve as devidas autorizações e cumpre o disposto na lei de um Estado com o qual a República Portuguesa concluiu um acordo que assegure o cumprimento por esta das suas obrigações internacionais.
+6 - A EER comunica ao Serviço Regional de Proteção Civil e Bombeiros dos Açores (SRPCBA) a lista dos operadores licenciados e a sua localização.
