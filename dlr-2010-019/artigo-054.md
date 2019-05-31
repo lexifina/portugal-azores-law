@@ -1,5 +1,5 @@
 # Artigo 54.º
 ### Normas transitórias
 1 - As referências feitas em diplomas legais ao Conselho Regional do Ambiente, à Comissão Regional de Acompanhamento da Gestão de Embalagens e Resíduos de Embalagens, à Comissão para a Implementação do Mercado Regional de Resíduos ou ao Conselho Regional para o Ambiente e Desenvolvimento do Território consideram-se reportadas ao Conselho Regional do Ambiente e do Desenvolvimento Sustentável.
-2 - Até que seja revisto o enquadramento jurídico do sistema regional de ordenamento do território, o relatório referido no n.º 2 do artigo 3.º do presente diploma corresponde, para todos os efeitos legais, ao relatório sobre o estado do ordenamento do território a que se refere o artigo 146.º do Decreto-Lei n.º 380/99, de 22 de Setembro, que estabelece o regime jurídico dos instrumentos de gestão territorial, alterado pelos Decretos-Leis n.os 53/2000, de 7 de Abril, 310/2003, de 10 de Dezembro, 316/2007, de 19 de Setembro, 46/2009, de 20 de Fevereiro, e 181/2009, de 7 de Agosto, e pelas Leis n.os 58/2005, de 29 de Dezembro, e 56/2007, de 31 de Agosto, adaptado à Região Autónoma dos Açores pelo Decreto Legislativo Regional n.º 14/2000/A, de 23 de Maio, alterado pelo Decreto Legislativo Regional n.º 11/2002/A, de 11 de Abril, e republicado pelos Decretos Legislativos Regionais n.os 38/2002/A, de 3 de Dezembro, 24/2003, de 12 de Maio, e 43/2008/A, de 8 de Outubro.
-3 - A periodicidade do relatório a que se refere o número anterior é a fixada no presente diploma.
+2 - (Revogado.)
+3 - (Revogado.)

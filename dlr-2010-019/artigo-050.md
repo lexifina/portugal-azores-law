@@ -1,11 +1,11 @@
 # Artigo 50.º
-### Grupos de trabalho e comissões
-1 - Os grupos de trabalho são criados por deliberação do plenário, com atribuições e duração definidas e têm por objecto a elaboração de pareceres, relatórios, estudos ou informações destinados a apoiar a acção e objectivos do plenário.
-2 - Os grupos de trabalho são constituídos por membros do Conselho designados pelo presidente, ouvido o plenário, podendo incluir personalidades convidadas cuja participação seja considerada útil.
-3 - Os grupos de trabalho serão orientados por um relator-coordenador, a designar pelo presidente no momento da sua constituição ou a eleger por maioria de entre os respectivos membros.
+### Grupos de trabalho
+1 - O plenário pode, por proposta do presidente, criar grupos de trabalho, tendo por objeto a elaboração de pareceres, relatórios, estudos ou informações destinados a apoiar a ação e objetivos do CRADS, definindo as respetivas atribuições, duração e modo de funcionamento.
+2 - Os grupos de trabalho, incluindo o relator-coordenador, são constituídos por membros do CRADS designados pelo presidente, ouvido o plenário, podendo incluir personalidades convidadas, cuja participação seja considerada útil, em função do respetivo objeto.
+3 - (Revogado.)
 4 - Compete ao relator-coordenador:
-a) Organizar e orientar as actividades do grupo;
-b) Presidir às reuniões do grupo e orientar o seu funcionamento;
-c) Assegurar o cumprimento dos prazos para as tarefas atribuídas e apresentar os resultados ao plenário;
+a) Organizar e orientar as atividades do grupo e presidir às respetivas reuniões;
+b) (Revogada.)
+c) Assegurar o cumprimento dos prazos para as tarefas atribuídas, elaborar o respetivo relatório e apresentar os resultados ao plenário;
 d) Informar, sempre que solicitado pelo presidente, sobre a evolução das actividades do grupo.
-5 - O modo de funcionamento interno dos grupos de trabalho é estabelecido em função do respectivo objecto e consta da deliberação do conselho que o cria.
+5 - (Revogado.)

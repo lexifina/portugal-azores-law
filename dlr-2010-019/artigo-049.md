@@ -1,6 +1,6 @@
 # Artigo 49.º
 ### Actas
-1 - De cada reunião é lavrada pelo secretário-geral a respectiva acta, que conterá um resumo do que nela tiver ocorrido, indicando, designadamente, a data, o local da reunião, os membros presentes, as justificações dos ausentes, os assuntos apreciados, as conclusões e as deliberações tomadas e o resultado das respectivas votações.
-2 - Os membros do conselho podem juntar à acta declarações de voto, por escrito, desde que as entreguem até ao final da respectiva reunião.
-3 - A acta será submetida à aprovação do Conselho na reunião seguinte, sendo assinada, após aprovação, pelo presidente e pelo secretário-geral.
-4 - Sempre que for julgado necessário, poderá ser de imediato aprovada, na reunião a que disser respeito, uma minuta da acta, contendo a menção das deliberações tomadas e a forma e o resultado das respectivas votações.
+1 - De cada reunião do CRADS é lavrada uma ata, contendo um resumo do que nela tiver ocorrido, indicando, designadamente, a data e o local da reunião, os membros presentes e as justificações dos ausentes, os assuntos apreciados, as conclusões e as deliberações tomadas, incluindo o resultado das respetivas votações e, caso existam, as declarações de voto.
+2 - (Revogado.)
+3 - A ata é submetida à apreciação dos membros do CRADS e votada na reunião seguinte, sendo assinada, após aprovação, pelo presidente e pelo secretário-geral.
+4 - Sempre que se mostre necessário, pode ser aprovada, na reunião a que disser respeito, uma minuta da ata, contendo a menção das deliberações tomadas e a forma e o resultado das respetivas votações.

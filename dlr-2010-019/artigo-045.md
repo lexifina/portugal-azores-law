@@ -1,6 +1,7 @@
 # Artigo 45.º
-### Direitos dos vogais
-1 - Os vogais do Conselho, no exercício das suas funções, designadamente para a participação em reuniões plenárias e grupos de trabalho a que pertençam, são dispensados das suas actividades profissionais, mediante aviso antecipado às respectivas entidades empregadoras.
-2 - As despesas decorrentes da participação dos vogais do CRADS serão suportadas pelas entidades nele representadas.
-3 - As personalidades convidadas, quando não sejam trabalhadores que exerçam funções públicas na dependência directa da administração regional autónoma dos Açores, por cada reunião em que participarem, têm direito ao abono de uma ajuda de custo correspondente a 100 % do valor que legalmente estiver fixado para as ajudas de custo a abonar aos trabalhadores que exercem funções públicas que aufiram remunerações superiores às fixadas pelo índice 405 da escala salarial do regime geral da função pública.
-4 - As personalidades referidas no número anterior terão ainda direito ao pagamento de todas as despesas efectuadas com deslocação e alojamento, desde que documentalmente comprovadas.
+### Participação dos cidadãos
+1 - Os cidadãos podem participar na atividade do CRADS mediante a apresentação de comunicações ao Plenário ou através do respetivo sítio na Internet.
+2 - A apresentação de comunicações ao Plenário pode ser solicitada através de requerimento dirigido ao presidente, no qual se indique o objeto e os fundamentos da pretensão, acompanhado da documentação a distribuir pelos membros do CRADS.
+3 - Os requerimentos que sejam deferidos pelo presidente são agendados por ordem de entrada e em número nunca superior a dois por cada reunião, notificando-se o requerente da data, hora e local onde deve comparecer, a fim de participar na reunião.
+4 - A comunicação referida nos n.os 1 e 2 do presente artigo tem a duração máxima de trinta minutos, seguindo-se igual período de debate.
+5 - Os cidadãos podem, ainda, indicar os assuntos que pretendem ver abordados nas reuniões do CRADS ou efetuar comentários e propostas relativamente aos pontos da agenda da reunião, através de formulários disponibilizados no respetivo sítio na Internet.
