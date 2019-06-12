@@ -1,0 +1,6 @@
+## Capítulo II
+## Planeamento e gestão de recursos humanos
+# Artigo 4.º
+### Sistema centralizado de gestão de recursos humanos
+1 - O planeamento e a gestão dos recursos humanos dos serviços e organismos da administração regional da Região Autónoma dos Açores seguem, com as necessárias adaptações, o regime previsto no Decreto Legislativo Regional n.º 49/2006/A, de 11 de dezembro, alterado pelos Decretos Legislativos Regionais n.os 27/2007/A, de 10 de dezembro, e 17/2009/A, de 14 de outubro, e no Decreto Legislativo Regional n.º 26/2008/A, de 24 de julho, alterado e republicado pelos Decretos Legislativos Regionais n.os 17/2009/A, de 14 de outubro, e 12/2018/A, de 22 de outubro, com as adaptações que lhes forem introduzidas.
+2 - Em casos excecionais, devidamente fundamentados, os membros do Governo Regional responsáveis pelas áreas das finanças e da Administração Pública podem autorizar a realização de procedimentos concursais para além dos limites fixados no mapa anual global consolidado de recrutamentos autorizados, ou em data anterior à aprovação deste e com expressão posterior no mesmo, destinados a candidatos que não possuam um vínculo de emprego público por tempo indeterminado previamente constituído, fixando, em função dos critérios ponderados caso a caso, o número máximo de trabalhadores a recrutar.

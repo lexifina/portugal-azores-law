@@ -1,0 +1,4 @@
+# Artigo 21.º
+### Adaptação do n.º 1 do artigo 51.º do Decreto-Lei n.º 100/99, de 31 de março
+O n.º 1 do artigo 51.º do Decreto-Lei n.º 100/99, de 31 de março, na redação dada pelo artigo 26.º da Lei n.º 64-A/2008, de 31 de dezembro, é adaptado, na Região Autónoma dos Açores, nos seguintes termos:
+«O trabalhador nomeado, que for considerado pela junta médica a que se refere o artigo 46.º, incapaz para o exercício das suas funções, mas apto para o desempenho de outras às quais não possa ser integrado através do regime da mobilidade por afetação, tem o dever de se candidatar a todos os procedimentos concursais para ocupação de lugares previstos nos quadros de pessoal da administração regional, desde que reúna os requisitos exigidos e dentro dos limites da afetação consagrados na legislação regional sobre mobilidade.»

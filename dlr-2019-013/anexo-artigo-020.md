@@ -1,0 +1,5 @@
+# Artigo 20.º
+### Alteração ao Decreto Legislativo Regional n.º 41/2008/A, de 27 de agosto
+1 - No n.º 4 do artigo 3.º do Decreto Legislativo Regional n.º 41/2008/A, de 27 de agosto, onde se lê «acordo coletivo de trabalho» deve ler-se «instrumento de regulamentação coletiva de trabalho».
+2 - As percentagens que vierem a ser definidas nos termos da resolução a que se refere o n.º 1 do artigo 75.º do Decreto Legislativo Regional n.º 41/2008/A, de 27 de agosto, não incidem sobre o número de trabalhadores mencionados no n.º 6 do artigo 42.º daquele diploma, bem como dos trabalhadores que exerçam funções dirigentes na Administração Pública, dos que integrem os gabinetes de apoio dos órgãos de soberania, do governo próprio das Regiões Autónomas, dos grupos parlamentares e dos presidentes de câmaras ou que exerçam funções políticas a tempo inteiro, e ainda os que exerçam funções de gestor público.
+3 - Os dirigentes superiores da administração regional não são objeto da avaliação do desempenho a que alude o capítulo ii do título iii do Decreto Legislativo Regional n.º 41/2008/A, de 27 de agosto.
