@@ -1,7 +1,7 @@
 # Artigo 4.º
 ### Condições de acesso dos projectos
 Os projetos candidatos ao PROENERGIA devem:
-a) Corresponder a um investimento mínimo de (euro) 1000;
+a) Corresponder a um investimento mínimo de (euro) 500,00 (quinhentos euros);
 b) (Revogada.)
 c) Ser instruídos em formulário eletrónico próprio disponibilizado no Portal do Governo Regional na Internet;
 d) Ter situação regularizada em matéria de licenciamento ou ter projecto aprovado nos termos legais, quando aplicável;
