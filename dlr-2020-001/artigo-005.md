@@ -1,0 +1,5 @@
+# Artigo 5.º
+### Transferências orçamentais
+1 - O Governo Regional dos Açores fica autorizado a proceder às alterações orçamentais que se revelarem necessárias à execução do Orçamento Regional, fazendo cumprir, nesta matéria, o Decreto-Lei n.º 71/95, de 15 de abril, com as devidas adaptações, em termos de correspondência dos órgãos e serviços da administração regional às referências ali constantes aos órgãos e serviços da Administração do Estado.
+2 - Quando se verifique a deslocação ou transferência de serviços entre departamentos da administração regional ou entre serviços do mesmo departamento, as dotações orçamentais inscritas nos orçamentos dos serviços de origem poderão ser transferidas para os serviços de destino.
+3 - Quando se verifiquem transferências de pessoal entre departamentos da administração regional ou dentro de cada departamento, de um organismo para outro organismo, justificadas pela mobilidade e reafetação de recursos humanos e seu racional aproveitamento, as dotações orçamentais inscritas nos orçamentos de origem poderão, respetivamente, ser transferidas para os departamentos ou organismos de destino.

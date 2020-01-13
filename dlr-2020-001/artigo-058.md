@@ -1,0 +1,5 @@
+# Artigo 58.º
+### Gratuitidade dos manuais escolares
+1 - São disponibilizados, de forma gratuita, os manuais escolares aos alunos do 1.º e 2.º anos do 1.º ciclo do ensino básico do sistema educativo público regional, sem obrigatoriedade da devolução prevista para os demais anos, atendendo à especificidade de tais manuais.
+2 - O membro do Governo Regional responsável pela área da educação define os procedimentos e condições da disponibilização gratuita dos manuais.
+3 - No âmbito do Regime de Empréstimo dos Manuais Escolares, aprovado pelo Decreto Legislativo Regional n.º 26/2012/A, de 19 de junho, e ao abrigo do Despacho n.º 978/2012, de 10 de julho, os alunos do terceiro ciclo podem manter em sua posse os manuais das disciplinas sujeitas a prova final de ciclo, e também os alunos do ensino secundário podem manter em sua posse os manuais das disciplinas relativamente às quais pretendam realizar exame nacional, até ao fim do ano de realização das referidas provas finais ou exames nacionais.
