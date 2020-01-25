@@ -12,4 +12,4 @@ f) Cultura e desporto;
 g) Juventude, através da criação das infra-estruturas de apoio necessárias;
 h) Habitação;
 i) Outros domínios respeitantes à promoção do desenvolvimento regional, incluindo infra-estruturas de apoio ao investimento produtivo e formação profissional.
-2 - A realização de projectos na área da ciência e tecnologia tem carácter excepcional, abrangendo aqueles que pela sua dimensão e natureza tenham relevância regional.
+2 - A realização de projetos na área da ciência e tecnologia tem caráter excecional, abrangendo aqueles que pela sua dimensão e natureza tenham relevância regional, integrando igualmente a colaboração entre a administração regional, as autarquias locais e o setor público empresarial local, para além dos contratos previstos no n.º 1, a concessão de apoios a programas de fomento à criação de emprego e do empreendedorismo, nos termos que decorrem das disposições legais e regulamentares que os prevejam.
