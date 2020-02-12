@@ -1,6 +1,6 @@
 # Artigo 4.º
-### Órgãos e serviços
-O FRCT compreende os seguintes órgãos e serviços:
-a) O presidente;
-b) O conselho administrativo;
-c) A comissão de fiscalização.
+### Órgãos
+Para a prossecução dos seus objetivos o FRCT dispõe dos seguintes órgãos:
+a) Conselho diretivo;
+b) Fiscal único.
+c) (Revogada.)

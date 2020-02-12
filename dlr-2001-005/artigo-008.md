@@ -3,7 +3,7 @@
 Constituem receitas do FRCT:
 a) As verbas inscritas no Orçamento da Região;
 b) As verbas dos fundos comunitários consignadas aos programas, projectos e acções da competência do FRCT;
-c) As receitas do Jornal Oficial;
+c) Revogada;
 d) As receitas de prestações de serviços, de avaliação, de acompanhamento e fiscalização de programas, projectos e estudos;
 e) As receitas de patentes, venda ou aluguer de instalações, equipamentos ou materiais;
 f) Os juros e rendimentos de capitais e bens que lhe sejam afectos;
