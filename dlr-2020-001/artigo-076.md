@@ -1,0 +1,3 @@
+# Artigo 76.º
+### Financiamento de obrigações complementares específicas do serviço público de televisão na Região
+O Governo Regional, nos termos do n.º 3 do artigo 56.º da Lei n.º 27/2007, de 30 de julho, retificada pela Declaração de Retificação n.º 82/2007, de 21 de setembro, e alterada pelas Leis n.os 8/2011, de 11 de abril, 40/2014, de 9 de julho, e 78/2015, de 29 de julho, fica incumbido de estabelecer um acordo com a Rádio e Televisão de Portugal, S. A. para efeitos de assegurar o financiamento de obrigações complementares específicas do serviço público, designadamente para a aquisição de material imprescindível ao cumprimento da respetiva missão.
