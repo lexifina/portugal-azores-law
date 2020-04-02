@@ -1,6 +1,6 @@
 # Artigo 7.º
 ### Instrução da candidatura
-1 - O pedido de apoio é efetuado em formulário próprio, em modelo a aprovar em diploma regulamentar, e é apresentado junto da direção regional com competência em matéria de cultura e respetivos serviços externos (museus e bibliotecas públicas e arquivos regionais).
+1 - O pedido de apoio é efetuado em formulário próprio, em modelo a aprovar por portaria do membro do Governo Regional com competência em matéria de cultura, e é apresentado junto da respetiva direção regional.
 2 - O formulário de candidatura pode ser remetido por qualquer meio, acompanhado pelos documentos genéricos e obrigatórios.
 3 - Os documentos referidos no número anterior são os seguintes:
 a) Texto descritivo da atividade proposta;

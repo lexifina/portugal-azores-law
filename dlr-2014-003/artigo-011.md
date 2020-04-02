@@ -9,3 +9,7 @@ b) O beneficiário não cumpra qualquer das obrigações estabelecidas no presen
 c) As atividades executadas não correspondam às descritas e aprovadas aquando da candidatura;
 d) Decorridos trinta dias após a data prevista para a conclusão da atividade não tenha sido entregue o relatório final.
 5 - A concessão dos apoios só produz efeitos após a sua publicação no Jornal Oficial.
+6 - O apoio poderá ser pago, sob a forma de adiantamento, até 80 % do montante total atribuído.
+7 - A totalidade do apoio ou, como previsto no número anterior, o remanescente é pago quando os beneficiários apresentarem:
+a) Faturas, recibos e comprovativos de pagamento das despesas suportadas;
+b) Relatório final sobre a execução e resultados, considerando os objetivos inicialmente previstos.
