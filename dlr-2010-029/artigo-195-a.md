@@ -1,0 +1,6 @@
+# Artigo 195.º-A
+### Medida substitutiva da medida cautelar
+1 - Nos casos dos bens apreendidos previstos nas alíneas a) e b) do n.º 1 e na alínea a) do n.º 3 do artigo anterior, desde que não sejam necessários para efeitos de prova, o responsável pela infração pode requerer a substituição das medidas cautelares ali previstas pela prestação de um depósito, a título de caução, de valor igual a um terço do montante máximo da coima aplicável à contraordenação que lhe é imputada ou, sendo, mais do que uma, à de montante mais elevado.
+2 - Quando a medida cautelar corresponda à apreensão de pescado, para efeitos de medida substitutiva, o valor do depósito a que se refere o número anterior corresponde ao valor do pescado apreendido, caso este seja superior aos valores referidos nos números anteriores.
+3 - O depósito é prestado perante a autoridade autuante e destina-se a garantir o pagamento da coima em que o arguido possa vir a ser condenado, bem como das custas a que houver lugar, sem prejuízo da possibilidade de ser determinada a sua perda a favor da Região.
+4 - O depósito mantém-se até ao pagamento da coima ou à decisão de absolvição, sem prejuízo da possibilidade de ser determinada a sua perda a favor da Região.

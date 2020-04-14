@@ -1,4 +1,4 @@
 # Artigo 189.º
 ### Pagamento voluntário
-1 - No caso de se tratar de infractor sem qualquer antecedente no respectivo registo individual, poderá este proceder ao pagamento voluntário pelo mínimo legal da coima prevista para a respectiva infracção, até ao limite do prazo que lhe vier a ser fixado para o exercício do direito de audição e defesa.
-2 - O pagamento voluntário da coima não exclui a possibilidade de aplicação de sanções acessórias.
+1 - Quando a contraordenação praticada não seja suscetível de ser qualificada como infração grave, e caso se trate de infrator sem qualquer antecedente no respetivo registo individual, pode este proceder ao pagamento voluntário da respetiva coima pelo mínimo legal previsto para a respetiva infração, até ao limite do prazo que lhe vier a ser fixado para exercício do direito de defesa.
+2 - O pagamento da coima, nos termos do presente artigo, não exclui a possibilidade de aplicação de sanções acessórias.

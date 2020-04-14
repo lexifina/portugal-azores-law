@@ -1,3 +1,3 @@
 # Artigo 208.º
 ### Regime subsidiário
-Em tudo quanto não se encontrar especialmente regulado no presente diploma aplicam-se as disposições pertinentes dos regimes jurídicos do exercício da pesca marítima, das embarcações de pesca e das normas reguladoras da actividade profissional dos marítimos, bem como, subsidiariamente, o regime geral das contra-ordenações.
+Em tudo o que não se encontrar previsto no presente diploma, aplica-se subsidiariamente o regime geral do ilícito de mera ordenação social, bem como as correspondentes disposições da política comum de pescas, das medidas de gestão e controlo das organizações regionais de gestão da pesca e dos acordos com países terceiros.
