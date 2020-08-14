@@ -1,0 +1,4 @@
+# Artigo 83.º-B
+### Prémio de desempenho aos trabalhadores do Serviço Regional de Saúde envolvidos no combate à doença COVID-19
+1 - Durante o ano de 2020, o Governo Regional atribui a todos os profissionais do Serviço Regional de Saúde (SRS) que, na vigência do estado de emergência constante do Decreto do Presidente da República n.º 14-A/2020, de 18 de março, e suas renovações, exercessem funções em regime de trabalho subordinado no SRS e tenham praticado, nesse período, de forma continuada e relevante, atos diretamente relacionados com a pessoa de suspeitos e de doentes infetados por COVID-19, um prémio de desempenho, pago uma única vez, correspondente ao valor equivalente a 50 % da remuneração base mensal do trabalhador ao qual seja atribuído.
+2 - A regulamentação do disposto no número anterior é feita por diploma próprio do Governo Regional, no prazo de trinta dias, após a aprovação do presente decreto legislativo regional.
