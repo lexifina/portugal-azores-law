@@ -1,0 +1,9 @@
+# Artigo 20.º
+### Procedimento concursal externo de provimento
+1 - Podem ser opositores ao procedimento concursal externo de provimento indivíduos detentores de habilitação profissional adequada para o exercício da atividade docente.
+2 - Podem também candidatar-se indivíduos portadores de habilitação própria, sem prejuízo do disposto no número seguinte.
+3 - Com o objetivo de satisfazer necessidades de grupos carenciados, podem ser fixados, por portaria do membro do Governo Regional competente em matéria de educação, contingentes de lugares nos quadros, a serem preenchidos por indivíduos portadores de habilitação própria, nos termos da lei em vigor.
+4 - Os candidatos ao procedimento concursal externo de provimento devem preencher os requisitos gerais e específicos constantes do artigo 39.º do Estatuto da Carreira Docente.
+5 - Aos candidatos pode ser exigida prova do domínio perfeito da língua portuguesa, a qual, sem prejuízo do disposto no n.º 7, é obrigatória quando não tenham nacionalidade portuguesa e não sejam nacionais de país lusófono, exceto quando as respetivas habilitações tenham sido obtidas em país de língua oficial portuguesa.
+6 - Para efeitos do número anterior, o diretor regional competente em matéria de educação nomeia um júri composto por três docentes de língua portuguesa, com vínculo definitivo em quadro de escola e com pelo menos cinco anos de serviço, aos quais compete a elaboração e condução da respetiva prova.
+7 - Estão dispensados da realização da prova a que se referem os números anteriores os candidatos que comprovem ter pelo menos cinco anos de serviço prestado em estabelecimento de educação ou ensino, de qualquer grau ou nível, da rede pública portuguesa.
