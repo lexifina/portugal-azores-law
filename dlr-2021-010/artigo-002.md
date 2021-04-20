@@ -69,7 +69,7 @@ c) Ser detentor de habilitação profissional não incluído nas alíneas anteri
 a) [...]
 b) [...]
 c) Candidatos detentores de habilitação profissional que, na qualidade de opositores ao concurso externo de provimento precedente, tenham sido integrados no critério de ordenação a que se refere a alínea a) do n.º 6;
-d) [...]
+d) Candidatos detentores de habilitação profissional que, na qualidade de opositores ao concurso externo de provimento precedente, tenham sido integrados no critério de ordenação a que se refere a alínea b) do n.º 6;
 e) [...]
 f) [...]
 9 - (Anterior n.º 8.) (Revogado.)
