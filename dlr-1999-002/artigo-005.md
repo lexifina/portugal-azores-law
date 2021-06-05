@@ -1,6 +1,6 @@
 # Artigo 5.º
 ### IRC
-1 - Às taxas nacionais do imposto sobre o rendimento das pessoas colectivas, em vigor em cada ano, é aplicada uma redução de 30%.
+1 - Às taxas nacionais do imposto sobre o rendimento das pessoas coletivas, em vigor em cada ano, é aplicada uma redução de 30 %.
 2 - A diminuição na taxa nacional aplica-se ao IRC:
 a) Devido por pessoas colectivas ou equiparadas que tenham sede, direcção efectiva ou estabelecimento estável nos Açores;
 b) Devido por pessoas colectivas ou equiparadas que tenham sede ou direcção efectiva em território português e possuam sucursais, delegações, agências, escritórios, instalações ou quaisquer formas de representação permanente sem personalidade jurídica próprias em mais de uma circunscrição;
