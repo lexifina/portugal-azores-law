@@ -1,0 +1,6 @@
+# Artigo 39.º
+### Compromissos plurianuais
+1 - Os atos e contratos que deem lugar a encargo orçamental em mais de um ano económico, ou em ano que não seja o da sua realização, não poderão ser celebrados sem prévia autorização do membro do Governo Regional com competência na área das finanças, conferida em despacho, nos termos previstos na alínea b) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, salvo quando resultarem da execução de programas plurianuais aprovados.
+2 - Tanto o despacho a que se refere o número anterior como os próprios contratos deverão fixar o limite máximo do encargo correspondente a cada ano económico.
+3 - Fica dispensada do cumprimento das disposições deste artigo a celebração de contratos relativos a trabalhos a mais ou imprevistos em empreitadas de obras públicas cujos contratos iniciais tenham sido precedidos do despacho referido no n.º 1 deste artigo, desde que os novos encargos tenham cabimento no orçamento em vigor à data do adicional.
+4 - A competência referida no n.º 1 pode ser delegada e permanece válida por mais de um ano económico e enquanto se mantiverem em funções o respetivo delegante e delegado, salvo disposição em contrário, expressa no ato de delegação.

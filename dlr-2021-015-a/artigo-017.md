@@ -1,0 +1,5 @@
+# Artigo 17.º
+### Contratação de prestação de serviços
+1 - Os órgãos máximos de gestão dos serviços e estabelecimentos de saúde do Serviço Regional de Saúde podem autorizar, com dispensa de quaisquer formalidades, a celebração de contratos de aquisição de serviços, designadamente na modalidade de tarefa ou de avença, com pessoal de enfermagem, trabalhadores de apoio administrativo e profissionais de saúde das áreas de medicina e farmácia, que se revelem estritamente necessários para implementar e executar o processo de vacinação à doença COVID-19 de toda a população da Região Autónoma dos Açores, bem como manter os procedimentos de testagem à referida doença.
+2 - A fixação dos limites remuneratórios dos contratos a celebrar nos termos do número anterior é estabelecida por despacho conjunto dos membros do Governo Regional com competência em matéria de finanças e de saúde.
+3 - Os contratos celebrados ao abrigo dos números anteriores são, obrigatoriamente, comunicados aos departamentos do Governo Regional com competência em matéria de finanças e de saúde, nos oito dias imediatamente subsequentes à produção de efeitos dos mesmos.

@@ -1,0 +1,15 @@
+## Capítulo XIII
+## Outras disposições
+# Artigo 56.º
+### Aplicação da Lei n.º 52/2015, de 9 de junho
+1 - A aplicação da Lei n.º 52/2015, de 9 de junho, na Região Autónoma dos Açores tem em conta o disposto no presente artigo.
+2 - A Região Autónoma dos Açores é a autoridade de transportes competente quanto ao serviço público de transporte de passageiros de âmbito intermunicipal e municipal suburbano, e os municípios da Região Autónoma dos Açores são as autoridades de transportes competentes quanto aos serviços públicos de transporte de passageiros municipais de âmbito urbano.
+3 - O âmbito geográfico dos serviços públicos de transporte de passageiros referidos no número anterior é o seguinte:
+a) Intermunicipal: serviço público de transporte de passageiros que visa satisfazer as necessidades de deslocação entre diferentes municípios ou concelhos de uma ilha;
+b) Municipal suburbano: o serviço público de transporte de passageiros que visa satisfazer as necessidades de deslocação fora da área urbana de um município, entendendo-se como tal o que se desenvolve integralmente ou maioritariamente fora da respetiva área urbana da sede de concelho;
+c) Municipal urbano: o serviço público de transporte de passageiros que visa satisfazer as necessidades de deslocação dentro da área urbana de um município, entendendo-se como tal o que se desenvolve integral ou maioritariamente dentro da respetiva área urbana da sede de concelho.
+4 - A Região Autónoma dos Açores é ainda a autoridade de transportes subsidiariamente competente em todas as situações não abrangidas pelas atribuições e competências das demais autoridades de transportes, competindo-lhe a articulação e comunicação com as autoridades de transporte de âmbito europeu e nacional.
+5 - A Região Autónoma dos Açores pode delegar, total ou parcialmente, as suas competências na área dos transportes noutras autoridades de transportes ou noutras entidades públicas e prossegue as suas atribuições e exerce as competências de autoridade de transportes através do membro do Governo Regional responsável em matéria de transportes terrestres.
+6 - A Região Autónoma dos Açores e os municípios podem acordar na exploração partilhada dos serviços públicos de transporte de passageiros municipal suburbano e urbano, mediante contrato reduzido a escrito, o qual deve estabelecer o modelo do exercício partilhado das competências, responsabilidades, financiamento, vigência, desvinculação e resolução, sem prejuízo do disposto no número seguinte.
+7 - Os municípios podem requerer ao membro do Governo Regional competente em matéria de transportes terrestres autorização para exercerem as competências de autoridade de transportes quanto aos serviços públicos de transporte de passageiros suburbanos nos respetivos concelhos, com fundamento no interesse na gestão de determinadas carreiras ou na coordenação municipal dos transportes públicos.
+8 - A autorização a que se refere o número anterior envolve a cessão da posição contratual relativamente aos contratos de serviço público, no caso de existirem, e na parte aplicável.

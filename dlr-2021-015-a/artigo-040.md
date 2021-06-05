@@ -1,0 +1,5 @@
+# Artigo 40.º
+### Despesas com deslocações ao estrangeiro e consultadoria externa
+1 - As despesas com a deslocação ao estrangeiro relativamente ao pessoal vinculado a qualquer título à administração pública regional, incluindo os institutos públicos regionais que revistam a natureza de serviços personalizados ou de fundos públicos, não deverão registar acréscimos, salvo situações devidamente fundamentadas e previamente aprovadas pelo membro do Governo Regional com competência na área das finanças.
+2 - Excetua-se do limite previsto no número anterior o gabinete do Vice-Presidente do Governo Regional, o gabinete do Subsecretário Regional da Presidência, a Direção Regional das Comunidades e a Direção Regional dos Assuntos Europeus e Cooperação Externa.
+3 - O recurso à consultadoria externa não deverá ocorrer em áreas técnicas para as quais existam quadros técnicos dos serviços e organismos da administração pública regional, incluindo os institutos públicos regionais que revistam a natureza de serviços personalizados ou de fundos públicos.

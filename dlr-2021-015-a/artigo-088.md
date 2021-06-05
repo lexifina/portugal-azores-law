@@ -1,0 +1,3 @@
+# Artigo 88.º
+### Regime transitório de aplicação do Decreto-Lei n.º 166/2019, de 31 de outubro
+Para os efeitos do disposto no artigo 19.º do Decreto-Lei n.º 166/2019, de 31 de outubro, na Região Autónoma dos Açores é estabelecido um regime transitório, a vigorar até 31 de dezembro de 2021, permitindo que, em situações de manifesta imprevisibilidade e devidamente justificadas, o marítimo possa ser autorizado a exercer, em embarcações registadas no tráfego local, funções correspondentes a categoria diferente, ainda que inseridas em diferentes secções ou áreas de navegação, desde que previamente informado e familiarizado com essas mesmas funções e que para o exercício das mesmas não esteja disponível marítimo habilitado.

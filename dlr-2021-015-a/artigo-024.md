@@ -1,0 +1,7 @@
+# Artigo 24.º
+### Necessidades de financiamento
+Fica o Governo Regional autorizado, nos termos da lei:
+a) A contrair empréstimos, incluindo créditos bancários, até ao montante de 485 000 000,00 (euro) (quatrocentos e oitenta e cinco milhões de euros), dos quais 240 000 000,00 (euro) (duzentos e quarenta milhões de euros) respeitam a operações de refinanciamento e os restantes destinam-se ao financiamento de projetos com comparticipação de Fundos Europeus Estruturais e de Investimento (FEEI), a fazer face aos efeitos económicos e sociais provocados pela pandemia da COVID-19 e à regularização de pagamentos em atraso;
+b) A assumir toda a dívida financeira resultante dos processos de extinção/liquidação das empresas públicas;
+c) A acrescer ainda ao limite fixado na alínea a), o montante a realizar de operações de leasing financeiro, até ao limite máximo de 3 500 000,00 (euro) (três milhões e quinhentos mil euros) para habitação social e património da Região que potencie uma redução de futuros encargos com arrendamentos, devidamente autorizadas pelo membro do Governo Regional com competência na área das finanças;
+d) A acrescer ainda ao limite fixado na alínea a), o montante a realizar de operações de financiamento das entidades públicas reclassificadas, devidamente autorizadas pelo membro do Governo Regional com competência na área das finanças, desde que não implique aumento do endividamento líquido da administração pública regional.
