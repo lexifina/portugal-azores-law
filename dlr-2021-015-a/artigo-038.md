@@ -3,8 +3,8 @@
 1 - São competentes para autorizar despesas com empreitadas de obras públicas as seguintes entidades, com os seguintes limites:
 a) Sem limite, o Conselho do Governo Regional;
 b) Até 4 000 000,00 (euro) (quatro milhões de euros) o Presidente do Governo Regional;
-c) Até 2 500 000,00 (euro) (dois milhões e quinhentos mil de euros) o Vice-Presidente e a Secretária Regional das Obras Públicas;
-d) Até 100 000,00 (euro) (cem mil euros) os diretores regionais das obras públicas e da habitação;
+c) Até 2 500 000,00 (euro) (dois milhões e quinhentos mil euros) o Vice-Presidente e a Secretária Regional das Obras Públicas e Comunicações;
+d) Até 100 000,00 (euro) (cem mil euros) os diretores regionais das obras públicas e dos transportes terrestres, e da habitação;
 e) Até 25 000,00 (euro) (vinte e cinco mil euros) os restantes membros do Governo Regional.
 2 - São competentes para autorizar despesas com locação e aquisição de bens e serviços as seguintes entidades, com os seguintes limites:
 a) Sem limite, o Conselho do Governo Regional;
