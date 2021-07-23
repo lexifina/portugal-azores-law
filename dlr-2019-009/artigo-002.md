@@ -1,3 +1,5 @@
 # Artigo 2.º
 ### Âmbito de aplicação
-Consideram-se atividades espaciais a desenvolver na Região aquelas que tenham por base infraestruturas ou plataformas situadas no seu espaço terrestre ou marítimo, incluindo, neste caso, as zonas marítimas adjacentes ao arquipélago.
+1 - Consideram-se atividades espaciais a desenvolver na Região Autónoma dos Açores aquelas que tenham por base infraestruturas ou plataformas situadas no seu espaço terrestre ou marítimo, incluindo, neste caso, as zonas marítimas adjacentes ao arquipélago.
+2 - A utilização das infraestruturas e plataformas referidas no número anterior, que integrem o desenvolvimento de atividades espaciais na Região, é exercida exclusivamente por contrato administrativo de concessão a celebrar com o Governo Regional dos Açores, com observância do respetivo procedimento legal aplicável.
+3 - Para os efeitos previstos nos números anteriores, consideram-se infraestruturas e plataformas as estruturas que concorram para a exploração e para o desenvolvimento de atividades espaciais, incluindo testes no solo, operações de lançamento e ou retorno verticais ou horizontais, bem como as estruturas integradas em soluções técnicas que visem especificamente modelos organizacionais de negócios dedicados ao Espaço ou às tecnologias espaciais.
