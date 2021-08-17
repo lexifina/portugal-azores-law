@@ -1,0 +1,3 @@
+# Artigo 13.º
+### Medidas cautelares
+Sempre que seja detetada uma situação de perigo grave para a saúde pública, para a segurança de pessoas e bens, para a higiene e segurança nos locais de trabalho, ou para o ambiente, os serviços da direção regional com competência em matéria de indústria devem, de imediato, tomar as medidas adequadas para eliminar ou prevenir a situação de perigo, podendo, designadamente, determinar a suspensão da atividade, ou o encerramento preventivo do estabelecimento, no todo ou em parte, bem como a apreensão de todo ou parte do equipamento, mediante selagem, por prazo que não pode ultrapassar os quatro meses.

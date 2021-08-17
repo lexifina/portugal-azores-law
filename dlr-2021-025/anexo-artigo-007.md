@@ -1,0 +1,15 @@
+# Artigo 7.º
+### Licença de instalação ou alteração
+1 - O pedido de licença de instalação ou alteração deve ser remetido aos serviços da administração regional com competência em matéria de indústria, devidamente instruído nos termos previstos no presente diploma e em diploma regulamentar.
+2 - (Revogado.)
+3 - No caso de o estabelecimento estar sujeito aos regimes específicos a seguir mencionados, o pedido de licenciamento só se considera devidamente instruído se for acompanhado da documentação necessária:
+a) Declaração de impacte, ou licença ambiental, emitida nos termos do Decreto Legislativo Regional n.º 30/2010/A, de 15 de novembro;
+b) Para operações de gestão de resíduos sujeitas a licenciamento industrial e não abrangidas pelo Decreto Legislativo Regional n.º 30/2010/A, de 15 de novembro, parecer vinculativo emitido pela autoridade ambiental;
+c) Pedido de licença de rejeição de águas residuais, nos termos da Lei n.º 58/2005, de 29 de dezembro, e demais legislação específica aplicável;
+d) Quaisquer outros elementos que venham a ser previstos em diplomas legais aplicáveis à atividade industrial.
+4 - A documentação referida na alínea a) do número anterior é substituída, respetivamente, pelo estudo de impacte ambiental e resumo não técnico, e pelo pedido de licença ambiental e resumo não técnico, previstos no Decreto Legislativo Regional n.º 30/2010/A, de 15 de novembro, caso o industrial opte por dar início ao procedimento ali previsto em simultâneo com o processo de licenciamento a que se refere o presente artigo.
+5 - No caso de o estabelecimento industrial estar sujeito a autorização de localização, o pedido de licenciamento só poderá ser considerado devidamente instruído com a junção do respetivo pedido de certidão de autorização de localização.
+6 - A entidade competente para emitir a licença, no prazo de 10 dias úteis, remete o projeto para parecer, às entidades com atribuições nas áreas do ambiente, higiossanitárias, saúde, higiene e segurança no trabalho, ou quaisquer outras que entenda necessário.
+7 - As entidades referidas no número anterior devem emitir parecer no prazo de 20 dias úteis, equivalendo o respetivo silêncio a deferimento tácito, salvo quando se trate de projetos sujeitos a procedimento de avaliação de impacte ambiental e a procedimento de licença ambiental, casos em que o prazo é o estipulado no Decreto Legislativo Regional n.º 30/2010/A, de 15 de novembro.
+8 - A licença de instalação ou de alteração de estabelecimento industrial é emitida pela direção regional com competência em matéria de indústria e integra, obrigatoriamente, as condições e exigências impostas pelas entidades consultadas, ou quaisquer outras que a entidade licenciadora entenda convenientes.
+9 - A licença de instalação ou de alteração de estabelecimento industrial tem a duração de dois anos, a contar da data da sua emissão, podendo ser renovada por períodos de um ano, até ao máximo de três renovações, podendo ser prorrogado este prazo por razões não imputáveis ao empresário.

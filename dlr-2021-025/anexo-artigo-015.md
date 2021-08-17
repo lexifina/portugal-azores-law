@@ -1,0 +1,5 @@
+# Artigo 15.º
+### Cessação das medidas cautelares
+1 - A cessação das medidas cautelares previstas no artigo 13.º é determinada, a requerimento do interessado, após vistoria ao estabelecimento a realizar pela entidade fiscalizadora, no decorrer da qual se demonstre terem cessado as situações que lhes deram causa, sem prejuízo do prosseguimento dos processos criminais e de contraordenação já iniciados.
+2 - No caso de interrupção do fornecimento de energia elétrica, água ou de comunicações, estes serviços devem ser restabelecidos mediante comunicação escrita da entidade fiscalizadora à entidade distribuidora respetiva.
+3 - Sempre que o proprietário, ou o detentor legítimo do equipamento apreendido requeira a sua desselagem, demonstrando documentalmente o propósito de proceder à sua alienação, em condições que garantam que o destino que lhe vai ser dado não é suscetível de originar novas infrações ao presente diploma, a entidade fiscalizadora pode autorizar essa desselagem, independentemente de vistoria.
