@@ -8,5 +8,5 @@ c) No caso dos desportos individuais, as comitivas participantes em cada prova s
 3 - Os clubes desportivos participantes em provas ou campeonatos de âmbito regional dos desportos colectivos nas modalidades que apresentem, na época imediatamente anterior, mais de 30 equipas no mesmo escalão e sexo poderão usufruir dos seguintes apoios:
 a) Comparticipação financeira destinada a viagens aéreas e apoios complementares nos termos dos artigos 23.º e 24.º, calculados conforme os artigos 25.º e 26.º do presente diploma;
 b) Majoração dos apoios complementares em 20 %;
-c) Comparticipação financeira pela utilização de atletas formados nos Açores nos termos dos artigos 42.º e 43.º, aplicando-se os índices para o último nível competitivo constantes da tabela do anexo iii do presente diploma.
+c) Comparticipação financeira pela utilização de atletas formados na Região Autónoma dos Açores, nos termos dos artigos 42.º e 43.º, aplicando-se os índices competitivos constantes da portaria a que se refere o n.º 2 do artigo 42.º
 4 - O número limite de equipas a apoiar será de 10 equipas.
