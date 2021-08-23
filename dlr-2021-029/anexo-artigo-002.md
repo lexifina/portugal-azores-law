@@ -1,0 +1,22 @@
+# Artigo 2.º
+### Conceitos
+Para efeitos do presente diploma considera-se:
+a) «Atleta» o praticante desportivo inscrito no respetivo organismo federativo;
+b) «Atleta formado nos Açores» o atleta que, até completar 18 anos de idade, tenha sido, comprovadamente, inscrito nas federações das respetivas modalidades durante, pelo menos, quatro épocas desportivas, em representação de clube com sede na Região Autónoma dos Açores;
+c) «Atleta formado no clube açoriano» o atleta que, até completar 18 anos de idade, tenha sido, comprovadamente, inscrito nas federações das respetivas modalidades durante, pelo menos, quatro épocas desportivas, seguidas ou interpoladas, em representação do mesmo clube, com sede na Região Autónoma dos Açores;
+d) «Atleta internacional» o atleta que, até completar 19 anos, tenha sido, comprovadamente, inscrito nas federações da respetiva modalidade, e em representação das respetivas seleções nacionais;
+e) «Atleta profissional» o atleta que exerce atividade desportiva como profissão exclusiva ou principal e remunerada;
+f) «Atleta utilizado» o atleta que seja inscrito no boletim de qualquer jogo do campeonato regional ou nacional em que o clube participe;
+g) «Contrato-programa de desenvolvimento desportivo» o contrato celebrado nos termos do presente diploma entre a administração regional autónoma ou uma autarquia e uma entidade do movimento associativo desportivo ou um atleta;
+h) «Divisão ou nível competitivo» o grupo ou série do campeonato nacional da respetiva modalidade;
+i) «Entidade do movimento associativo desportivo» a entidade que cumpre os requisitos estabelecidos na Lei n.º 5/2007, de 16 de janeiro, nomeadamente clubes desportivos, associações de modalidade ou de desportos, associações de associações, agrupamentos de clubes e sociedades desportivas que tenham sede e desenvolvam a sua atividade nos Açores;
+j) «Escalões de formação» os grupos de atletas classificados como infantis, iniciados, juvenis, juniores ou designações similares, tendo como referência idades compreendidas entre os 8 e os 18 anos;
+k) «Jovem talento regional» o atleta que, numa determinada idade, evidencie capacidades, aptidões específicas (somáticas, físicas, técnicas e táticas), apresente resultados em competições oficiais e demonstre a possibilidade de, através do aumento do volume de treino, de treino especializado e de maior participação competitiva, ascender ao estatuto de praticante de alto rendimento;
+l) «Movimento associativo desportivo» o conjunto das entidades do movimento associativo desportivo;
+m) «Outras entidades promotoras do desporto» a entidade da organização não federada do desporto, nomeadamente entidades privadas prestadoras de serviços desportivos, associações promotoras do desporto, entidades representativas de recursos humanos, clubes de praticantes, casas do povo, escolas, instituições de solidariedade social ou ainda outras que desenvolvam atividades físicas ou desportivas no âmbito do desporto para todos, desporto adaptado, prevenção e controlo de dopagem e formação de recursos humanos;
+n) «Praticante desportivo» aquele que a título individual ou integrado numa equipa desenvolva uma atividade desportiva;
+o) «Regularidade anual de deslocações» o conjunto de deslocações, com início nos Açores, para participar em competições oficiais de âmbito nacional, desde a 1.ª fase, que se distribuem por jornadas ao longo da época desportiva;
+p) «Recursos humanos do desporto» aqueles que intervêm diretamente na realização de atividades desportivas ou desenvolvem ocupações necessárias ou geradas pelo fenómeno desportivo, nomeadamente praticantes desportivos, atletas, treinadores, técnicos, árbitros, juízes, dirigentes desportivos, médicos, psicólogos, enfermeiros, fisioterapeutas e massagistas legalmente habilitados;
+q) «Série Açores» o grupo ou série desportiva de uma competição nacional com extensão territorial exclusiva à Região que não seja de inscrição livre e aberta;
+r) «Servidão desportiva» a servidão administrativa com a natureza de um direito real público de uso de bens privados, destinado a assegurar a utilização pelo público, ou por certas categorias de pessoas abstratamente determinadas, das infraestruturas e equipamentos cuja aquisição ou construção tenha sido objeto de comparticipação financeira pública ao abrigo de contratos-programa de desenvolvimento desportivo;
+s) «Valor base de comparticipação» o valor de referência para o cálculo do valor pecuniário das comparticipações financeiras a conceder no âmbito do presente diploma.

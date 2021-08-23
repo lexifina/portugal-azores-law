@@ -1,0 +1,7 @@
+# Artigo 61.º
+### Licença extraordinária de trabalhadores do setor público
+1 - Aos atletas em regime de alto rendimento e aos jovens talentos regionais a qualquer título vinculados à administração regional autónoma, às autarquias locais ou a outras pessoas coletivas de direito público pode ser concedida licença extraordinária pelo período de tempo necessário à sua preparação e participação nas provas constantes do plano estabelecido pela federação desportiva respetiva ou associação desportiva quando sejam de jovens talentos regionais.
+2 - A licença é atribuída por despacho conjunto dos membros do Governo Regional com competência em matéria de desporto e com tutela sobre o serviço respetivo, sob proposta da federação ou associação respetiva.
+3 - A licença extraordinária caracteriza-se pela dispensa temporária do exercício das funções, sem prejuízo das regalias inerentes ao efetivo desempenho, designadamente o abono da respetiva remuneração e a contagem de tempo de serviço para todos os efeitos legais, não dando lugar à abertura de vaga.
+4 - Se for necessário para o desenvolvimento da sua atividade desportiva, o atleta pode ser transferido para local de trabalho onde seja possível exercer as respetivas funções sem prejuízo da sua atividade desportiva.
+5 - Aos atletas em regime de alto rendimento que sejam professores do quadro dos ensinos básico ou secundário com nomeação provisória pode ser concedido o adiamento da profissionalização em serviço pelo período de tempo necessário à sua preparação e participação desportivas.

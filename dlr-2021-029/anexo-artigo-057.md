@@ -1,0 +1,6 @@
+# Artigo 57.º
+### Professor acompanhante e compensação educativa
+1 - Nos estabelecimentos de ensino frequentados por atletas em regime de alto rendimento e jovens talentos regionais deve ser designado, pelo órgão executivo da unidade orgânica, um docente para acompanhar a evolução do seu aproveitamento escolar, detetar eventuais dificuldades e propor medidas para a sua resolução, o qual não pode enquadrar mais de três alunos.
+2 - Durante o período letivo, o professor acompanhante tem direito a receber uma gratificação mensal no valor de 15 % do índice 108 da tabela remuneratória da carreira dos educadores de infância e dos professores dos ensinos básico e secundário, processada pela escola onde preste serviço.
+3 - Cabe ao professor acompanhante, sempre que o entenda necessário, propor a lecionação de aulas de compensação aos alunos que beneficiem da aplicação das medidas de apoio ao alto rendimento e aos jovens talentos regionais, nomeadamente as correspondentes às faltas relevadas.
+4 - No final de cada período letivo deve ser elaborado pelo professor acompanhante um relatório sobre o aproveitamento escolar de cada um dos praticantes que beneficiem das medidas de apoio previstas nos artigos anteriores, que deve ser enviado pelo órgão executivo da unidade orgânica à direção regional competente em matéria de desporto.
