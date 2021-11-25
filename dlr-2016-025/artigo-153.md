@@ -6,5 +6,5 @@ b) O estabelecimento de restrições de entrada desproporcionadas, previstas no 
 c) A violação do disposto no n.º 2 do artigo 41.º;
 d) A violação do disposto nos n.os 3 e 4 do artigo 54.º;
 e) A violação do disposto nos n.os 2, 3 e 4 do artigo 62.º;
-f) A violação do disposto no n.º 1 do artigo 82.º;
+f) (Revogada.)
 g) A violação do disposto no artigo 118.º

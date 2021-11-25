@@ -8,5 +8,5 @@ d) A violação do disposto nos n.os 3, 4 e 5 do artigo 36.º;
 e) A violação do disposto no artigo 37.º;
 f) A violação do disposto no artigo 38.º;
 g) O incumprimento do despacho previsto no n.º 1 do artigo 75.º;
-h) A violação do disposto no n.º 2 do artigo 82.º;
+h) A violação do disposto no artigo 82.º;
 i) A utilização abusiva de denominação de museu prevista no artigo 94.º
