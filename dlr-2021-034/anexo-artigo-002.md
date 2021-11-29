@@ -1,0 +1,15 @@
+# Artigo 2.º
+### Princípios da política museológica
+1 - A política museológica da Região Autónoma dos Açores obedece aos seguintes princípios:
+a) Princípio do primado da pessoa, através da afirmação dos museus como instituições indispensáveis para o seu desenvolvimento integral e a concretização dos seus direitos fundamentais;
+b) Princípio da promoção da cidadania responsável, através da valorização da pessoa, para a qual os museus constituem instrumentos indispensáveis no domínio da fruição e criação cultural, estimulando o empenhamento de todos os cidadãos na sua salvaguarda, enriquecimento e divulgação;
+c) Princípio de serviço público, através da afirmação dos museus como instituições abertas à sociedade;
+d) Princípio da coesão regional, através da difusão do conhecimento sobre os Açores, promovido pelos museus, numa perspetiva de complementaridade temática de afirmação cultural;
+e) Princípio da coordenação, através de medidas concertadas no âmbito da criação e qualificação de museus, de forma articulada com outras políticas culturais e com as políticas da educação, da ciência, do ordenamento do território, do ambiente e do turismo;
+f) Princípio da transversalidade, através da utilização integrada de recursos, regionais e locais, de forma a corresponder e abranger a diversidade administrativa, geográfica e temática da realidade museológica dos Açores;
+g) Princípio da informação, através da recolha e divulgação sistemática de dados sobre os museus e o património cultural, com o fim de permitir em tempo útil a difusão o mais alargada possível e o intercâmbio de conhecimentos, a nível nacional e internacional;
+h) Princípio da supervisão, através da identificação e estímulo de processos que configurem boas práticas museológicas, de ações promotoras da qualificação e bom funcionamento dos museus e de medidas impeditivas da destruição, perda ou deterioração dos bens culturais neles incorporados;
+i) Princípio de descentralização, através da valorização dos museus municipais e do respetivo papel no acesso à cultura, aumentando e diversificando a frequência e a participação dos públicos e promovendo a correção de assimetrias neste domínio;
+j) Princípio da cooperação nacional, através do reconhecimento do dever de colaboração com museus do território nacional e com as instituições do estado com intervenção na área da museologia;
+k) Princípio da cooperação internacional, através do reconhecimento do dever de colaboração, especialmente com museus de países da diáspora açoriana e países de língua oficial portuguesa, e do incentivo à cooperação com organismos internacionais com intervenção na área da museologia.
+2 - A aplicação dos princípios referidos no número anterior subordina-se e articula-se com o regime jurídico de proteção e valorização do património cultural móvel e imóvel, constante do Decreto Legislativo Regional n.º 3/2015/A, de 4 de fevereiro, e com as bases da política de proteção e valorização do património cultural, aprovadas pela Lei n.º 107/2001, de 8 de setembro.

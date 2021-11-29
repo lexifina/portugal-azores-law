@@ -1,0 +1,6 @@
+# Artigo 4.º
+### Coleções
+1 - No âmbito do presente diploma, consideram-se coleções os conjuntos de bens naturais ou culturais, independentemente da sua tutela ou propriedade, que constituam importantes testemunhos da diversidade natural e cultural e que, pela sua relevância, deve ser acautelada a sua preservação, investigação e divulgação.
+2 - Considera-se coleção visitável o conjunto de bens naturais e culturais, conservados por uma pessoa singular ou por uma pessoa coletiva, pública ou privada, exposto publicamente em instalações especialmente afetas e adequadas a esse fim, mas que não reúna os meios que permitam o pleno desempenho das restantes funções museológicas que o presente diploma estabelece para o museu.
+3 - A coleção visitável é objeto de benefícios e de programas de apoio e de qualificação adequados à sua natureza e dimensão através dos organismos próprios da Região Autónoma e dos municípios, desde que disponha de bens culturais inventariados nos termos do disposto no Decreto Legislativo Regional n.º 3/2015/A, de 4 de fevereiro.
+4 - Os programas referidos no número anterior são estabelecidos quando seja assegurada a possibilidade de investigação, acesso e visita pública regular com horário definido.
