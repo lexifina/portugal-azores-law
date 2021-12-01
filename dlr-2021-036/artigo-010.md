@@ -1,0 +1,6 @@
+# Artigo 10.º
+### Regime aplicável aos membros do gabinete
+1 - Aplica-se aos membros do Gabinete do Presidente da Assembleia Legislativa o regime estabelecido para os membros dos gabinetes do Governo Regional, com as especificidades constantes no presente artigo.
+2 - Ao chefe de gabinete e aos adjuntos do Presidente da Assembleia Legislativa pode ser atribuído um abono para despesas de representação, a fixar por despacho do Presidente da Assembleia Legislativa, ouvida a Mesa, nos limites em vigor para o chefe de gabinete e assessores do gabinete do Presidente do Governo Regional, respetivamente.
+3 - O pessoal do Gabinete do Presidente da Assembleia Legislativa mantém o regime de segurança social de que já disponha, sendo obrigatoriamente inscrito no regime geral de segurança social se não se encontrar abrangido por qualquer outro.
+4 - O pessoal que tenha exercido as funções referidas no n.º 1 com a qualidade de subscritor da Caixa Geral de Aposentações, mantém válida, para todos os efeitos, a respetiva inscrição, podendo efetuar os correspondentes descontos pelo cargo que presentemente exerce, mediante a respetiva reinscrição naquele organismo, no caso de a nomeação ter sido efetuada em regime de requisição, comissão de serviço ou outro.
