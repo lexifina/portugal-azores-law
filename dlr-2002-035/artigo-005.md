@@ -6,3 +6,4 @@ a) Terrenos e instalações destinados ao exercício de actividades de assistên
 b) Terrenos e instalações destinados a serviços públicos;
 c) Terrenos e instalações destinados a entidades que exerçam actividades de interesse público;
 d) Locais destinados à instalação de máquinas automáticas e para outras actividades e equipamentos similares.
+e) Locais destinados à colocação de publicidade, independentemente do seu suporte.
