@@ -14,5 +14,5 @@ d) Despachos normativos:
 «O ... [indicar o membro ou membros do Governo Regional competentes], nos termos do ... [indicação da legislação habilitante], determina o seguinte:
 [Segue-se o texto.]»
 2 - Após o texto das resoluções mencionadas na alínea b) do número anterior seguem-se, sucessivamente, a data da aprovação em Conselho do Governo e a assinatura do presidente do Governo Regional.
-3 - Após o texto dos diplomas mencionados nas alíneas c) e d) do n.º 1 segue-se a assinatura do membro ou membros do Governo Regional que os emitem, com a indicação da respectiva data.
-4 - Sendo vários os membros do Governo Regional a assinar os diplomas aludidos no número anterior, a data que releva é a da última assinatura.
+3 - Após o texto dos atos normativos mencionados nas alíneas c) e d) do n.º 1, segue-se a assinatura do membro ou membros do Governo Regional que os emitem, com a indicação da respetiva data.
+4 - Sendo vários os membros do Governo Regional a assinar os atos normativos referidos no número anterior, a data que releva é a da última assinatura.
