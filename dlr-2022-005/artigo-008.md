@@ -1,0 +1,9 @@
+# Artigo 8.º
+### Publicidade e sensibilização em sacos de plástico
+1 - É proibida a inserção de publicidade em sacos de plástico leves e ultraleves, com exceção do logótipo ou denominação comercial ou social do estabelecimento que fornece o saco, em área não superior a 20 % da sua superfície total.
+2 - A inserção de mensagens publicitárias em sacos de plástico com espessura igual ou superior a 50 (mi)m deve respeitar as normas legais e princípios vigentes em matéria de publicidade, nomeadamente de licitude, identificabilidade, veracidade e respeito pelos direitos do consumidor.
+3 - É obrigatória a inserção de uma mensagem de sensibilização, no âmbito da prevenção da produção de resíduos, em todos os sacos de plástico que contenham publicidade ou a inscrição do logótipo ou denominação comercial ou social do estabelecimento, com exceção dos sacos de plástico reutilizáveis isotérmicos ou em ráfia sintética.
+4 - A mensagem de sensibilização referida no número anterior pode ser escrita ou gráfica e deve respeitar os instrumentos de planeamento e os princípios da prevenção e gestão de resíduos aplicáveis na Região Autónoma dos Açores.
+5 - Sem prejuízo da utilização de mensagens de sensibilização previamente definidas, a aprovar por despacho do membro do Governo Regional com competência em matéria de ambiente, a mensagem de sensibilização referida nos números anteriores deve ser aprovada pelo departamento do Governo Regional com competência em matéria de ambiente.
+6 - A área ocupada pela mensagem de sensibilização não pode ser inferior a 20 % da superfície total do saco de plástico, ou da área ocupada pela inserção publicitária e pelo logótipo ou denominação comercial ou social do estabelecimento, quando estes sejam superiores a 20 % da superfície total do saco.
+7 - Para efeitos do presente artigo, na determinação da superfície total do saco de plástico não são consideradas as áreas dos foles e das pegas.

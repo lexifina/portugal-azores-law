@@ -1,0 +1,6 @@
+# Artigo 12.º
+### Restrições ao acondicionamento de produtos alimentares e refeições prontas a consumir
+1 - Nos estabelecimentos e outros locais onde se realizem atividades de comércio a retalho, de alojamento, de restauração ou de bebidas, incluindo as atividades não sedentárias, em que sejam vendidos produtos alimentares ou refeições prontas a consumir, nos regimes de adquirir e levar ou com entrega ao domicílio, incluindo as atividades não sedentárias, é proibido proceder ao agrupamento ou acondicionamento de produtos alimentares ou refeições em caixas ou cuvetes e copos de utilização única, cujo componente estrutural principal seja plástico, incluindo as respetivas coberturas ou tampas.
+2 - Os estabelecimentos e outros locais abrangidos no número anterior são obrigados a aceitar que os consumidores utilizem as suas próprias embalagens.
+3 - Para efeitos do número anterior, os consumidores são responsáveis por assegurar que as suas embalagens são adequadas ao acondicionamento e transporte de produtos a ser adquiridos e não são suscetíveis de colocar em risco a segurança alimentar, devendo apresentar-se adequadamente limpas e higienizadas.
+4 - Os estabelecimentos e outros locais referidos no n.º 1 podem recusar a utilização de embalagens que considerem ser suscetíveis de provocar deterioração dos alimentos e, ou, representar um risco de contaminação.

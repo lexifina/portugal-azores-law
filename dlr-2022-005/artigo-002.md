@@ -1,0 +1,22 @@
+# Artigo 2.º
+### Definições
+Para efeitos do presente diploma, entende-se por:
+a) «Atividade de alojamento», a atividade que se destina a prestar serviços de alojamento temporário, nomeadamente empreendimentos turísticos e estabelecimentos de alojamento local;
+b) «Atividade de comércio a retalho», a atividade de revenda ao consumidor final, incluindo profissionais e institucionais, de bens novos ou usados, tal como são adquiridos, ou após a realização de algumas operações associadas ao comércio a retalho, tais como a escolha, a classificação e o acondicionamento, desenvolvida dentro ou fora de estabelecimentos de comércio, em feiras, mercados municipais, de modo ambulante, à distância, ao domicílio e através de máquinas automáticas;
+c) «Atividade de restauração ou de bebidas», a atividade que se destina a prestar serviços de alimentação ou de bebidas e cafetaria, em estabelecimento próprio ou em outros locais;
+d) «Atividade não sedentária», a atividade de comércio ou de prestação de serviços em que a presença do comerciante, ou do prestador, no local onde aquela se realiza não reveste um caráter fixo e permanente, independentemente de ser realizada em instalações fixas ou em unidades móveis ou amovíveis, nomeadamente em mercados, feiras, exposições, recintos desportivos ou de espetáculos, arraiais e outros divertimentos ou eventos públicos, ou em quaisquer outros espaços;
+e) «Bebida», a substância ou mistura de substâncias, no estado líquido, especificamente preparada para o consumo humano, por ingestão;
+f) «Bebida alcoólica», a bebida que, por fermentação, destilação ou adição, apresente um título alcoométrico volúmico total superior a 0,5 % vol.;
+g) «Embalagem», todos e quaisquer produtos feitos de materiais de qualquer natureza e utilizados para conter, proteger, movimentar, manusear, entregar e apresentar mercadorias, tanto matérias-primas como produtos transformados, desde o produtor ao utilizador ou consumidor, incluindo todos os artigos descartáveis utilizados para os mesmos fins;
+h) «Embalagem compósita», a embalagem constituída por duas ou mais camadas de materiais diferentes, que não podem ser separadas manualmente e que formam uma unidade única e integral, que consiste num recipiente interior e num invólucro exterior, e que pode ser enchida, armazenada, transportada e esvaziada como tal;
+i) «Embalagem não reutilizável», a embalagem que não é reutilizável nos termos da alínea k);
+j) «Embalagem de venda ou embalagem primária», a embalagem concebida de modo a constituir uma unidade de venda para o utilizador ou consumidor final no ponto de compra;
+k) «Embalagem reutilizável», a embalagem que tenha sido concebida e projetada para cumprir múltiplas rotações no seu ciclo de vida, é enchida de novo ou reutilizada para o mesmo fim para que foi concebida;
+l) «Introdução no consumo», a aquisição, a um produtor com sede ou estabelecimento estável na Região Autónoma dos Açores, bem como a aquisição a um produtor ou fornecedor com sede ou estabelecimento estável fora da Região Autónoma dos Açores, e a importação;
+m) «Operador económico», a parte que promove a introdução do produto no consumo, nomeadamente fabricantes, transformadores, embaladores, importadores, distribuidores, fornecedores e vendedores;
+n) «Plástico», um material composto de um polímero na aceção do n.º 5 do artigo 3.º do Regulamento (CE) 1907/2006, do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, ao qual podem ter sido acrescentados aditivos ou outras substâncias e que pode funcionar como principal componente estrutural de produtos finais, com exceção dos polímeros naturais que não tenham sido quimicamente modificados;
+o) «Produto de utilização única», o produto que não é concebido, projetado ou colocado no mercado para perfazer múltiplas rotações no seu ciclo de vida, mediante a sua reutilização para o mesmo fim para que foi concebido;
+p) «Plástico oxodegradável», materiais de plástico que incluem aditivos que, através da oxidação, conduzem à fragmentação do material de plástico em microfragmentos ou à sua decomposição química;
+q) «Saco de plástico», espécie de bolsa cujo componente estrutural principal é plástico, com ou sem pega e aberto numa das extremidades, que é disponibilizado ao consumidor para embalagem ou transporte de produtos;
+r) «Saco de plástico leve», o saco de plástico com uma parede de espessura inferior a 50 micrómetros (mi)m);
+s) «Saco de plástico muito leve», o saco de plástico com uma parede de espessura inferior a 15 (mi)m.
