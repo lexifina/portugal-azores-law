@@ -1,0 +1,8 @@
+# Artigo 3.º
+### Prioridades estratégicas
+O Solenerge deve estar alinhado com as orientações políticas nacionais e europeias, em coerência com as linhas de atuação da comunidade internacional, em matérias de transição energética e clima, e tem como prioridades estratégicas as seguintes:
+a) Reduzir a dependência energética da RAA, no que se refere ao consumo de combustíveis fósseis provenientes do exterior, bem como a imprevisibilidade dos custos para a economia, resultantes da oscilação de preços associados àqueles;
+b) Contribuir para a redução de emissões de gases com efeito estufa, como aposta na transição energética para uma economia competitiva e de baixo carbono, assente num modelo democrático e justo de coesão territorial que potencie a geração de riqueza e o uso eficiente de recursos, mitigando, também, os efeitos das alterações climáticas;
+c) Apostar, de forma significativa, na produção de energia elétrica proveniente de fontes renováveis e endógenas, bem como no incremento da sua penetração nos diversos sistemas eletroprodutores da RAA;
+d) Sensibilizar a sociedade civil para as vantagens da eficiência energética e da importância do combate às alterações climáticas, incentivando a assunção de padrões de produção e consumo de energia mais sustentáveis, através da adoção de comportamentos inerentes à economia circular da energia;
+e) Reduzir a fatura energética para as famílias e para as organizações que optem por esta alternativa de produção de energia elétrica, contribuindo para o aumento da competitividade regional e para o desenvolvimento de uma economia de baixo carbono.
