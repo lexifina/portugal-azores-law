@@ -1,3 +1,3 @@
 # Artigo 2.º
 ### Beneficiários
-Beneficiam do CEDO os utentes do Serviço Regional de Saúde com doença oncológica ativa até à sua remissão, encaminhados ao abrigo do programa de deslocação de doentes, para unidades de saúde fora da sua ilha de residência, para a realização de exames complementares de diagnóstico, tratamentos e consultas.
+Beneficiam do CEDO os utentes do Serviço Regional de Saúde com doença oncológica ativa até à sua remissão, os doentes candidatos a transplante e submetidos a transplante de órgãos até obtenção de alta clínica pela unidade de saúde que realizou o procedimento e todos os doentes cuja patologia implique deslocação frequente, de pelo menos três ou mais viagens no período de 12 meses até obtenção de alta clínica, encaminhados ao abrigo do programa de deslocação de doentes para unidades de saúde fora da sua ilha de residência, para a realização de exames complementares de diagnóstico, tratamentos e consultas.
