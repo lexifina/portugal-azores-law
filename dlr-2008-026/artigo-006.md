@@ -12,4 +12,5 @@
 10 - A prova de conhecimentos a realizar no âmbito do procedimento concursal, quando assuma a forma escrita, é efetuada após o sorteio, realizado na presença dos candidatos, de três propostas fechadas apresentadas em envelope branco e opaco.
 11 - A ponderação para a valoração final dos métodos de seleção obrigatórios, prova de conhecimentos e avaliação curricular, é de 70 % e 30 %, respetivamente.
 12 - No caso previsto no n.º 9, a ponderação para a valoração final dos métodos de seleção, prova de conhecimentos e avaliação curricular, não pode ser inferior, respetivamente, a 50 % e 30 %.
-13 - Na tramitação do procedimento concursal não se aplica o disposto na alínea d) do n.º 1 do artigo 54.º da Lei n.º 12-A/2008, de 27 de Fevereiro.
+13 - Para efeitos de correção da prova de conhecimentos prevista no n.º 8, na forma escrita, é garantido o anonimato da mesma.
+14 - Na tramitação do procedimento concursal não se aplica o disposto na alínea d) do n.º 1 do artigo 54.º da Lei n.º 12-A/2008, de 27 de Fevereiro.
