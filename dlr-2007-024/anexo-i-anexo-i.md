@@ -5,6 +5,6 @@ Loque europeia.
 Acarapisose.
 Varroose.
 Acthinose por Aethina tumida.
-Tropilaelaps por Tropilaeps sp.
-Ascosferiose (unicamente em zonas controladas).
-Nosemose (unicamente em zonas controladas).
+Tropilaelaps por Tropilaelaps sp.
+Ascosferiose.
+Nosemose.
