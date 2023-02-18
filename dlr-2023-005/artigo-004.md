@@ -1,0 +1,14 @@
+# Artigo 4.º
+### Princípios orientadores
+Constituem princípios orientadores da educação inclusiva os seguintes:
+a) Equidade, enquanto garantia de que todas as crianças e alunos têm acesso aos apoios necessários, de modo a concretizar o seu potencial de aprendizagem e desenvolvimento, assegurando a gestão da diversidade, de forma que a educação de todos os alunos seja considerada como de igual importância;
+b) Personalização, através do planeamento educativo centrado no aluno, de modo que as medidas sejam decididas casuisticamente de acordo com as suas necessidades, potencialidades, interesses e preferências, através de uma abordagem multinível;
+c) Inclusão, através do direito, de todas as crianças e alunos, ao acesso, à participação e ao sucesso, de modo pleno e efetivo, nos mesmos contextos educativos e sociais;
+d) Flexibilidade, nomeadamente na gestão do currículo, dos espaços e dos tempos escolares, de modo que a ação educativa nos seus métodos, tempos, instrumentos e atividades possa responder às especificidades de cada um;
+e) Autodeterminação, através do respeito pela autonomia pessoal, tomando em consideração não apenas as necessidades do aluno, mas também os seus interesses e preferências, a expressão da sua identidade cultural e linguística, criando oportunidades para o exercício do direito de participação na tomada de decisões;
+f) Envolvimento parental, nomeadamente o direito e dever dos pais ou encarregados de educação à participação e à informação relativamente a todos os aspetos do processo educativo do seu educando;
+g) Corresponsabilização da comunidade educativa, através do envolvimento participado e responsabilizador de todos os intervenientes no processo educativo, como condição necessária para uma efetiva inclusão;
+h) Interferência mínima, uma vez que a intervenção técnica e educativa deve ser desenvolvida exclusivamente pelas entidades e instituições cuja ação se revele necessária à efetiva promoção do desenvolvimento pessoal e educativo das crianças ou alunos, e no respeito pela sua vida privada e familiar;
+i) Confidencialidade, segundo a qual toda a informação resultante da intervenção técnica e educativa está sujeita aos limites constitucionais e legais, designadamente ao disposto na legislação relativa à proteção de dados pessoais, no que diz respeito ao acesso e tratamento desses dados e sigilo profissional;
+j) Não discriminação, garantindo que nenhuma criança ou aluno pode ser discriminado direta ou indiretamente, por ação ou omissão, em razão de ascendência, género, raça, língua, território de origem, religião, convicções políticas ou ideológicas, instrução, situação económica, condição pessoal ou social ou orientação sexual;
+k) Educabilidade universal, de modo a garantir que todas as crianças e alunos têm capacidade de aprendizagem e de desenvolvimento educativo.
