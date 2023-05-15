@@ -1,0 +1,9 @@
+# Artigo 6.º-D
+### Animal comunitário
+1 - As câmaras municipais podem, sob parecer escrito fundamentado do médico veterinário municipal, autorizar a permanência de animais em espaço público, a que o animal esteja habituado e onde esteja integrado.
+2 - A autorização referida no n.º 1 é obtida através de requerimento de pessoa, singular ou coletiva, ou por um grupo de pessoas integradas numa comunidade local de moradores, residenciais ou profissionais, comunidades escolares ou entidades públicas, onde o animal em causa esteja inserido, os quais se obrigam a assegurar a guarda, alimentação e cuidados médico-veterinários do mesmo nos exatos termos e condições que forem protocolados com a câmara municipal, e sob supervisão desta.
+3 - Deferida a autorização, o animal é identificado, registado, vacinado e esterilizado através do centro de recolha oficial de animais, sendo posteriormente devolvido ao local de origem.
+4 - Os espaços utilizados para manutenção do animal comunitário são mantidos livres de resíduos ou de restos de comida, devendo os comedouros ser recolhidos e o espaço limpo após a alimentação do animal.
+5 - Quando a câmara municipal verificar que não são cumpridos os requisitos referidos no n.º 4, podem ser determinadas medidas corretivas ou, se imprescindível, ordenadas a suspensão temporária ou mesmo a cessação do regime do animal comunitário, procedendo-se à recolha do animal para o centro de recolha oficial de animais, sem prejuízo de ser reencaminhado para adoção, decorrido o prazo referido no n.º 6 do artigo 6.º
+6 - Salvo o regime previsto para as colónias de gatos, a câmara municipal pode autorizar a presença de até três animais comunitários no mesmo espaço, desde que reunidas as condições para o efeito.
+7 - O animal comunitário deve exibir coleira indicando a qualidade de animal comunitário e o contacto telefónico de, pelo menos, um cuidador.
