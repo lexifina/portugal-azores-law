@@ -1,0 +1,4 @@
+# Artigo 75.º
+### Exercício de outras funções educativas
+1 - O docente que se encontre qualificado para o exercício de outras funções educativas, nos termos do artigo anterior, é obrigado ao desempenho efetivo dessas mesmas funções, quando para tal tenha sido eleito ou designado, salvo nos casos em que, por despacho do diretor regional competente em matéria de administração educativa, sejam reconhecidos motivos atendíveis e fundamentados que o incapacitem para aquele exercício.
+2 - Ao docente qualificado para o exercício de outras funções educativas obtidas ao abrigo de qualquer tipo de apoio público que recuse, nos termos do artigo anterior, o desempenho efetivo das referidas funções é atribuída, no primeiro momento de avaliação de desempenho subsequente à recusa, a menção qualitativa de Regular, nos termos e para efeitos do disposto nos artigos 60.º e seguintes.

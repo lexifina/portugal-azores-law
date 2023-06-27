@@ -1,0 +1,5 @@
+# Artigo 115.º
+### Atividades educativas de substituição
+1 - Quando não estejam reunidas as condições necessárias à lecionação das aulas de substituição a que se referem os artigos anteriores, podem ser organizadas atividades de enriquecimento e complemento curricular que possibilitem a ocupação educativa dos alunos.
+2 - Aos professores com horário completo, sem redução da componente letiva ao abrigo do artigo 117.º, não devem ser atribuídas atividades de acompanhamento dos alunos em caso de ausência do professor, exceto nas situações em que, depois de esgotado o recurso aos demais docentes, continue a verificar-se necessidade de suprir as situações de ausência.
+3 - Para professores com horário completo e redução da componente letiva ao abrigo do artigo 117.º, a componente não letiva, a nível do estabelecimento, inclui a parte correspondente à redução da componente letiva em função da idade e do tempo de serviço, 50 % das quais, até ao máximo de dois tempos semanais, podem ser usadas em atividades de acompanhamento dos alunos, em caso de ausência do professor.

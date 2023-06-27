@@ -1,0 +1,8 @@
+# Artigo 116.º
+### Trabalho suplementar
+1 - Considera-se trabalho suplementar aquele que, por determinação do órgão executivo, for prestado para além do serviço docente, registado no horário semanal do docente ou da componente letiva a cujo cumprimento está obrigado.
+2 - O docente não pode recusar-se ao cumprimento do trabalho suplementar que lhe for distribuído, resultante de situações ocorridas no decurso do ano letivo, exceto se beneficiar de redução da componente letiva, nos termos do artigo seguinte, podendo, no entanto, solicitar dispensa da respetiva prestação, por motivos atendíveis.
+3 - O trabalho suplementar não pode exceder cinco horas por semana, salvo casos excecionais devidamente fundamentados e autorizados pelo diretor regional competente em matéria de administração educativa, na sequência de pedido devidamente fundamentado do órgão executivo da unidade orgânica onde o serviço deva ser prestado, com a concordância do docente.
+4 - Para efeitos do disposto no número anterior, não é considerado o trabalho suplementar previsto no n.º 2.
+5 - O cálculo do valor da hora letiva suplementar tem por base a duração da componente letiva do docente, nos termos previstos no artigo 111.º
+6 - É proibida a distribuição de trabalho suplementar aos docentes que se encontrem ao abrigo do estatuto do trabalhador-estudante e de apoio a filhos com deficiência e, ainda, àqueles que beneficiem de dispensa da componente letiva nos termos dos artigos 119.º e seguintes, salvo nos casos em que tal se manifeste necessário para completar o horário semanal do docente, em função da carga horária da disciplina que ministra, e na situação prevista na alínea d) do n.º 5 do artigo 113.º

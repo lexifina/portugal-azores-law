@@ -1,0 +1,5 @@
+# Artigo 219.º
+### Docentes do ensino superior, particular, cooperativo e solidário
+1 - O ingresso na carreira dos docentes oriundos do ensino superior, particular, cooperativo e solidário efetua-se, com respeito pelas regras gerais constantes do presente Estatuto, para o escalão que lhes competiria caso tivessem ingressado na rede pública nos correspondentes níveis determinados pela respetiva habilitação, incluindo o tempo realizado na valência de creche.
+2 - Para efeitos do disposto no número anterior, apenas são contados os anos em que o docente tenha obtido avaliação que, nos termos da regulamentação da carreira em que se integrava, permitisse a sua consideração para efeitos de progressão.
+3 - O período de acompanhamento realizado no ensino particular, cooperativo e solidário de qualquer nível, bem como no ensino superior, é válido para efeitos de provimento definitivo na carreira docente, quando a instituição onde ele se realize esteja para tal acreditada pelo diretor regional competente em matéria de educação.

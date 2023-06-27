@@ -1,0 +1,9 @@
+# Artigo 192.º
+### Atividade docente supervisionada
+1 - O professor estagiário desenvolve os seus trabalhos referentes às turmas que lhe foram atribuídas em regime de atividade docente supervisionada pelo orientador cooperante, e participa, ainda, em todas as tarefas que estejam atribuídas ao orientador cooperante, referentes a uma turma a que este lecione, ou noutras, em que o orientador cooperante possa colaborar e participar.
+2 - Para efeitos do disposto no número anterior, a atividade docente é supervisionada com observância dos seguintes procedimentos:
+a) O professor estagiário prepara aulas e leciona nas horas de lecionação autónoma às suas turmas, bem como numa turma atribuída ao orientador cooperante, sob supervisão deste;
+b) O orientador cooperante deve, exceto quando falte justificadamente nos termos da lei, assistir a todas as aulas ministradas à turma que lhe foi atribuída, bem como às turmas atribuídas aos seus estagiários, o número de horas que seja estabelecido pela instituição de ensino superior, em número que não ultrapasse 10 aulas por período por estagiário, intervindo sempre que entenda benéfico para os alunos ou para a realização do estágio;
+c) O professor estagiário prepara, sob supervisão direta do orientador cooperante, todos os instrumentos de avaliação a aplicar nas turmas cujas aulas ministre, procedendo, sob supervisão do orientador cooperante, à respetiva correção e avaliação;
+d) O professor estagiário participa, sem direito a voto, em todas as reuniões do conselho de turma e dos restantes órgãos da unidade orgânica em que o orientador cooperante deva tomar parte, por força da titularidade da turma a que o professor estagiário esteja afeto;
+e) O professor estagiário participa em todas as reuniões, formais ou informais, em que sejam tratadas matérias do foro disciplinar, ou de avaliação, referentes aos alunos da turma a que esteja afeto.

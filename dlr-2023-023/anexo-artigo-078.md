@@ -1,0 +1,6 @@
+# Artigo 78.º
+### Remuneração de outras funções educativas
+1 - O exercício efetivo de outras funções educativas para as quais o docente se encontre qualificado determina o abono de remuneração superior àquela que é auferida pelo docente no escalão da carreira onde se encontra.
+2 - Sem prejuízo do disposto no número seguinte, a remuneração a auferir pelo exercício de outras funções educativas por docentes habilitados nas áreas de especialização referidas no n.º 1 do artigo 74.º é fixada em 15 % do índice 100 da escala indiciária da carreira dos educadores de infância e dos professores dos ensinos básico e secundário constante do seu anexo i.
+3 - A remuneração a auferir pelo exercício de funções nos órgãos de administração e gestão e nas estruturas de gestão intermédia das unidades orgânicas do sistema educativo, por docentes que se encontrem habilitados nas respetivas áreas, nos termos do n.º 1 do artigo 74.º, é fixada pelo diploma que estabelece o regime jurídico de criação, autonomia e gestão das unidades orgânicas do sistema educativo regional.
+4 - Beneficiam de uma gratificação, fixada em 15 % do índice 100 da escala indiciária da carreira dos educadores de infância e dos professores dos ensinos básico e secundário, os docentes a quem esteja atribuído serviço de atendimento direto no ensino recorrente mediatizado.

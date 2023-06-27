@@ -1,0 +1,10 @@
+# Artigo 40.º
+### Ajustamento dos quadros
+1 - A revisão dos quadros de pessoal docente subordina-se aos seguintes princípios orientadores:
+a) O número de lugares docentes na educação pré-escolar e no 1.º ciclo do ensino básico tem como referência o quociente arredondado, por excesso, da divisão por 18 do total de alunos;
+b) O número de lugares docentes em cada grupo de recrutamento, para os 2.º e 3.º ciclos do ensino básico e para o ensino secundário, tem como referência o somatório dos lugares correspondentes a horários completos, existentes no início do ano escolar que antecede o concurso e, ainda, os horários completos resultantes das variações previsíveis das matrículas, considerando turmas de 20 alunos;
+c) Na fixação do número de lugares dos quadros é considerado o número de crianças e alunos a apoiar no âmbito da educação inclusiva e as necessidades do ensino recorrente e do extraescolar, bem como a distribuição das atividades letivas pelos diferentes estabelecimentos de educação e ensino que integrem a unidade orgânica;
+d) Na dotação dos quadros para o ensino artístico é considerado o número de alunos inscritos, a tipologia dos estabelecimentos e a especificidade dos cursos.
+2 - O recurso sistemático a docentes contratados a termo resolutivo, para satisfação de necessidades permanentes, por períodos superiores a três anos, constitui indicador de necessidade de proceder à revisão prevista no número anterior.
+3 - Consideram-se necessidades permanentes das unidades orgânicas do sistema educativo regional aquelas que visam assegurar as atividades letivas das crianças e alunos que as frequentam, incluindo as destinadas aos alunos no âmbito da educação inclusiva.
+4 - Para efeitos do disposto no número anterior, não são consideradas, pela sua natureza, as necessidades resultantes de ausência temporária dos docentes dos quadros, da afetação dos mesmos, total ou parcialmente, a projetos, cargos ou à prestação de apoio temporário, as necessárias para lecionação de cursos ou projetos curriculares de carácter temporário e, ainda, as resultantes de redução da componente letiva.

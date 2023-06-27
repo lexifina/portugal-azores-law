@@ -1,0 +1,4 @@
+# Artigo 66.º
+### Formação contínua
+1 - No processo de avaliação é, ainda, considerada a frequência de ações de formação contínua que incidam sobre conteúdos de natureza científica ou didática com estreita ligação à matéria curricular que o docente leciona, bem como as relacionadas com as necessidades de funcionamento da escola, definidas no respetivo plano de escola ou plano de atividades, devendo ser particularmente valorizadas as ações de formação realizadas em contexto de sala de aula e aquelas que visem o aprofundamento da componente científica dos conteúdos a ministrar na área que o docente leciona.
+2 - Para efeitos do disposto no número anterior, considera-se que o docente não teve acesso a formação desde que comprove que não lhe foram facultadas ações de formação gratuitas na área de formação adequada e na área geográfica da unidade orgânica a que pertence.

@@ -1,0 +1,6 @@
+# Artigo 73.º
+### Progressão por aquisição de outras habilitações
+1 - A aquisição de licenciatura, em domínio diretamente relacionado com a docência, por docentes profissionalizados integrados na carreira, determina a mudança para escalão correspondente àquele em que o docente se encontraria se tivesse ingressado na carreira com esse grau.
+2 - A conclusão, por docentes dos quadros com vínculo definitivo, dos cursos que confiram diploma de estudos superiores especializados, de cursos especializados em escolas superiores ou de cursos de pós-graduação em domínio diretamente relacionado com o respetivo grupo de docência determina, por uma só vez durante a carreira do docente, para efeitos de progressão, a bonificação equivalente a um ano no tempo de serviço docente, com avaliação do desempenho de Bom.
+3 - Caso o docente tenha beneficiado, especificamente para a aquisição da formação a que se refere o número anterior, de licença sabática ou de regime de equiparação a bolseiro, não beneficia da bonificação ali prevista.
+4 - À bonificação referida no n.º 2 são deduzidas as bonificações previstas no artigo anterior, no que se refere à aquisição de mestrados ou doutoramentos, por docentes dos quadros com vínculo definitivo detentores de licenciatura.

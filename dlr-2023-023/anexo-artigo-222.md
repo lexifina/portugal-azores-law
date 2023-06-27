@@ -1,0 +1,4 @@
+# Artigo 222.º
+### Formulários de registo
+1 - Para cada docente é criado um registo biográfico, em suporte adequado, o qual é mantido permanentemente atualizado pelos serviços administrativos da unidade orgânica do sistema educativo onde o docente preste serviço, sendo disponibilizado, com reserva dos direitos de privacidade, aos serviços da direção regional competente em matéria de administração educativa e aos serviços responsáveis pela manutenção do cadastro central dos trabalhadores da administração regional autónoma.
+2 - O formulário a que se refere o número anterior é aprovado por despacho do diretor regional competente em matéria de administração educativa, no respeito pelas normas legalmente aplicáveis e pelas orientações emanadas do departamento do Governo Regional competente em matéria de administração pública, legalmente aplicáveis.

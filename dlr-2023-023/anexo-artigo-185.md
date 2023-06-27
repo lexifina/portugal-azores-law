@@ -1,0 +1,5 @@
+# Artigo 185.º
+### Realização de estágios integrados
+1 - Nas unidades orgânicas dependentes da administração regional autónoma, a realização de estágio pedagógico para obtenção da habilitação profissional para a docência depende de protocolo, a celebrar entre o departamento da administração regional autónoma competente em matéria de educação e a instituição de ensino superior que ministra o curso.
+2 - Na sequência de auscultação às unidades orgânicas, o protocolo a que se refere o número anterior estabelece o número máximo de vagas a disponibilizar para cada curso e tem preferencialmente carácter plurianual, de forma a garantir os estágios aos alunos que, em cada ano, sejam admitidos à frequência do curso na instituição de ensino superior.
+3 - Sem prejuízo do estabelecido no presente Estatuto e na legislação que regulamenta os cursos, compete à instituição de ensino superior, no respeito pelo que legalmente estiver fixado, a definição do modelo de estágio, a sua duração e forma de avaliação.

@@ -1,0 +1,6 @@
+# Artigo 25.º
+### Realização de ações de formação
+1 - Sem prejuízo do disposto nos números seguintes, cabe a cada unidade orgânica proceder, isoladamente ou em colaboração com outras entidades formadoras acreditadas, ao levantamento das necessidades de formação contínua do seu pessoal docente.
+2 - Cabe a cada entidade formadora organizar, individualmente ou em colaboração com outras entidades formadoras acreditadas, as ações de formação contínua, de acordo com as necessidades verificadas nos termos do número anterior.
+3 - As ações de formação a que se refere o número anterior devem ser organizadas em horário que não interfira com a atividade letiva ou nos períodos de interrupção letiva, exceto nos casos cuja relevância científica, pedagógica ou didática seja, para esse efeito, reconhecida por despacho do membro do Governo Regional com competência na área da educação.
+4 - Sem prejuízo do disposto no número anterior, e com o objetivo de maximizar a oferta de alternativas de formação, devem ser fixados períodos específicos destinados à formação contínua, após o termo e antes do início das atividades letivas de cada ano escolar, com a possibilidade de participação, por parte dos docentes, em congressos organizados pelas associações das disciplinas que lecionam.
