@@ -8,4 +8,4 @@
 a) Iniciados - 20 %;
 b) Juvenis - 30 %;
 c) Juniores - 40 %.
-6 - As classificações obtidas nos três primeiros lugares de provas organizadas pelas federações internacionais e resultantes das participações em campeonatos nacionais, taças de Portugal ou provas equivalentes conferem o direito à atribuição ao clube de prémios de classificação no montante a definir por resolução do Conselho do Governo.
+6 - As classificações obtidas nos três primeiros lugares de provas organizadas pelas federações internacionais e resultantes das participações em campeonatos nacionais, Taças de Portugal ou provas equivalentes conferem o direito à atribuição ao clube de prémios de classificação, no montante a definir por portaria do membro do Governo Regional competente em matéria de desporto.

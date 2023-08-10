@@ -13,7 +13,7 @@ d) Participar em todas as provas organizadas ao nível local para o escalão em 
 e) Manter um número mínimo de atletas em formação e competição regular, fixado no documento orientador a elaborar pelo departamento da administração regional autónoma competente em matéria de desporto e constante do contrato-programa, tendo em consideração a modalidade, o escalão etário e a dimensão demográfica da ilha onde se encontra sediado o clube desportivo.
 3 - Para determinação dos limites fixados nos termos da alínea e) do número anterior, não são considerados atletas que tenham sido contabilizados, para idênticos efeitos, noutra modalidade ou escalão etário pela mesma entidade, com exceção dos atletas que residam em ilhas onde exista apenas um clube desportivo, os quais podem estar, neste caso, inscritos no máximo em duas modalidades.
 4 - As candidaturas a apoiar são apresentadas ao departamento da administração regional autónoma competente em matéria de desporto no prazo que estiver fixado no documento orientador.
-5 - O apoio mínimo anual a conceder a cada equipa é determinado multiplicando o valor base unitário fixado por resolução do Conselho do Governo Regional pelos seguintes índices:
+5 - O apoio mínimo anual a conceder a cada equipa é determinado multiplicando o valor base unitário fixado por portaria do membro do Governo Regional competente em matéria de desporto, pelos seguintes índices:
 a) Até ao escalão de infantis ou similar - 20;
 b) Do escalão de iniciados, ou similar, até ao escalão de juniores ou similar - 35.
 6 - O apoio mínimo anual, previsto no número anterior, pode ser majorado até ao máximo de 100 %, nos termos seguintes:
