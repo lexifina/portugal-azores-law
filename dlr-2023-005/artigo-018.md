@@ -5,7 +5,7 @@ a) Um elemento do conselho executivo;
 b) Um docente especializado em educação especial;
 c) Um docente representante de cada ciclo de ensino;
 d) Um psicólogo;
-e) Um representante dos pais e encarregados de educação.
+e) Os pais ou encarregados de educação, nos termos do disposto na alínea a) do n.º 2 do artigo 5.º do presente diploma, podendo fazer-se acompanhar de uma outra pessoa que considere que contribua para a elaboração do relatório técnico-pedagógico previsto no artigo 31.º e, se aplicável, do programa educativo individual previsto no artigo 33.º
 2 - O número de elementos referido no número anterior pode ser objeto de reforço, de acordo com as necessidades de cada escola, mediante requerimento apresentado pelo presidente do conselho executivo à direção regional com competência em matéria de administração educativa.
 3 - A comissão permanente da EMAEI deve convocar qualquer interveniente que julgue determinante para a análise das dificuldades evidenciadas, bem como para a consequente mobilização de medidas de suporte à aprendizagem e à inclusão.
 4 - Compete à comissão permanente da EMAEI:
@@ -16,3 +16,4 @@ d) Prestar aconselhamento aos docentes na implementação de práticas pedagógi
 e) Elaborar o relatório técnico-pedagógico previsto no artigo 31.º e, se aplicável, o programa educativo individual previsto no artigo 33.º;
 f) Acompanhar, do ponto de vista técnico e científico, os recursos específicos de apoio à aprendizagem e à inclusão;
 g) Prescrever os produtos de apoio necessários, nos termos do disposto no artigo 6.º do Decreto Regulamentar Regional n.º 13/2015/A, de 12 de agosto, que cria o Sistema de Atribuição de Produtos de Apoio da Região Autónoma dos Açores.
+5 - Quando esteja em causa o exercício de competências da comissão permanente quanto a um educando em particular, o respetivo encarregado de educação substitui o elemento referido na alínea e) do n.º 1.
