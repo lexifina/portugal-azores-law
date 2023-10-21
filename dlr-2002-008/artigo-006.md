@@ -2,12 +2,12 @@
 ### Montante
 1 - O montante do complemento regional de pensão é determinado nos termos do artigo 13.º do presente diploma.
 2 - O montante efectivo a abonar é determinado de acordo com as seguintes regras:
-a) 143 % para aqueles cujos rendimentos mensais sejam inferiores ou iguais a metade do Indexante de Apoios Sociais (IAS);
-b) 124 % para aqueles cujos rendimentos mensais sejam superiores a metade do IAS e inferiores ou iguais a dois terços do IAS;
-c) 114 % para aqueles cujos rendimentos mensais sejam superiores a dois terços do IAS e inferiores ou iguais ao IAS;
+a) 153 % para aqueles cujos rendimentos mensais sejam inferiores ou iguais a metade do Indexante de Apoios Sociais (IAS);
+b) 134 % para aqueles cujos rendimentos mensais sejam superiores a metade do IAS e inferiores ou iguais a dois terços do IAS;
+c) 119 % para aqueles cujos rendimentos mensais sejam superiores a dois terços do IAS e inferiores ou iguais ao IAS;
 d) (Revogada);
-e) 100 % para aqueles cujos rendimentos mensais sejam superiores ao IAS e inferiores ou iguais a 1,446 do IAS;
-f) 90 % para aqueles cujos rendimentos mensais sejam superiores a 1,446 do IAS e inferiores ou iguais a 1,51 do IAS;
+e) 105 % para aqueles cujos rendimentos mensais sejam superiores ao IAS e inferiores ou iguais a 1,446 do IAS;
+f) 95 % para aqueles cujos rendimentos mensais sejam superiores a 1,446 do IAS e inferiores ou iguais a 1,51 do IAS;
 g) 70 % para aqueles cujos rendimentos mensais sejam superiores a 1,51 do IAS e inferiores ou iguais a 1,598 do IAS;
 h) 50 % para aqueles cujos rendimentos mensais sejam superiores a 1,598 do IAS e inferiores ou iguais a 3,886 do IAS, no caso de pensionistas no caso de pensionista portador de deficiência.
 3 - Para efeitos do disposto no número anterior, são relevantes os rendimentos mensais de pensão, prestação social de inclusão, trabalho e atividade por conta própria.
