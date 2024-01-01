@@ -1,0 +1,8 @@
+# Artigo 6.º-A
+### Pagamentos à Segurança Social
+1 - Sobre os montantes de compensação salarial atribuídos a cada profissional da pesca, é devido à Segurança Social o pagamento dos valores equivalentes ao total de contribuições e quotizações que sejam apuradas, de acordo com a taxa contributiva aplicável ao trabalhador, em virtude do respetivo enquadramento na Segurança Social.
+2 - Para efeitos do disposto no número anterior, o FUNDOPESCA é responsável pelo pagamento dos montantes correspondentes às contribuições e quotizações de cada trabalhador à Segurança Social.
+3 - Os montantes referidos nos números anteriores são transferidos pelo FUNDOPESCA para a LOTAÇOR, Serviço de Lotas dos Açores, S. A., doravante designada por LOTAÇOR, S. A., a quem compete efetuar o respetivo pagamento à Segurança Social.
+4 - Para efeitos do disposto no número anterior, a LOTAÇOR, S. A., comunica mensalmente ao Instituto da Segurança Social dos Açores, I. P. R. A., a listagem dos profissionais de pesca a quem, no mês anterior, tenha sido paga compensação salarial, com indicação do valor pago e do número de dias a que a mesma respeitou.
+5 - Os períodos a que se reporta a compensação salarial atribuída ao abrigo do presente diploma são considerados na carreira contributiva do profissional da pesca, após o integral pagamento dos valores devidos, nos termos do n.º 1.
+6 - Os termos da comunicação da informação a que se refere o n.º 4, bem como da transferência dos montantes referidos no n.º 3 pelo FUNDOPESCA à LOTAÇOR, S. A., são objeto de regulamentação através de portaria dos membros do Governo Regional com competência em matéria de segurança social e de pescas.
