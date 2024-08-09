@@ -1,7 +1,0 @@
-# Artigo 24.º-A
-### Concessão excecional de auxílios financeiros
-1 - Sem prejuízo do disposto no artigo anterior, a cooperação financeira com as freguesias e associações de freguesias poderá abranger a comparticipação por prejuízos causados pela ocorrência de intempéries, situações imprevisíveis e excecionais, as quais não configurem situações de calamidade pública.
-2 - As candidaturas à concessão dos apoios previstos no número anterior deverão ser apresentadas pelas juntas de freguesia ou associações de freguesia, consoante o caso, junto dos departamentos regionais competentes em razão da matéria.
-3 - Compete aos departamentos do Governo Regional competentes em razão da matéria apreciar as candidaturas, ordenando-as e selecionando-as, tendo em conta o grau de urgência do auxílio a prestar e, quando for caso disso, o interesse do projeto de investimento a realizar.
-4 - Na sequência do disposto no número anterior, e tendo em conta a excecionalidade dos apoios, devem as candidaturas ser remetidas ao membro do Governo Regional competente em matéria de finanças e de autarquias locais para que sejam submetidas a aprovação do Conselho do Governo Regional.
-5 - A comparticipação financeira do Governo Regional prevista no n.º 1 será fixada pelo Conselho do Governo Regional consoante a gravidade ou a necessidade das situações objeto de apoio, podendo atingir até 70 % do montante global a investir.

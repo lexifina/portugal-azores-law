@@ -1,3 +1,5 @@
+## Capítulo III
+## Regime de cooperação técnica e financeira com freguesias
 ## Capítulo IV
 ## Regime de contratos
 # Artigo 25.º
