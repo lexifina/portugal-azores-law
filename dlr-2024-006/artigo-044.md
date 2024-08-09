@@ -1,0 +1,4 @@
+# Artigo 44.º
+### Comissão de acompanhamento
+1 - Sem prejuízo do disposto nos artigos anteriores, a cooperação técnica e financeira com as juntas de freguesia é objeto de acompanhamento e avaliação por uma comissão de acompanhamento, nomeada por despacho do membro Governo Regional competente em matéria de cooperação com o poder local.
+2 - A comissão integra dois representantes do departamento do Governo Regional competente em matéria de cooperação com o poder local, um dos quais preside, um representante do departamento do Governo Regional competente em matéria de finanças, um representante da Delegação Regional dos Açores da Associação Nacional de Freguesias - ANAFRE, a designar por esta, e um representante da Assembleia Legislativa da Região Autónoma dos Açores eleito, no período legislativo seguinte à entrada em vigor do presente diploma, pelo período do respetivo mandato, por maioria de dois terços dos deputados em efetividade de funções.
