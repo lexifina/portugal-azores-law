@@ -2,4 +2,5 @@
 ### (a que se refere o n.º 1 do artigo 2.º)
 Quadro plurianual de programação orçamental
 (milhões de euros)
-AgrupamentoPrograma2025202620272028SoberaniaA01Órgão Executivo e Legislativo15,4A02Governação e Representação14,7Subtotal agrupamento30,124,2SocialA03Ciência e Inovação38,8A04Saúde e Segurança Social652,0A05Educação414,3A06Media e Comunidades6,6A07Ambiente e Ação Climática51,0Subtotal agrupamento1 162,71 156,8EconómicaA08Finanças e Administração Pública418,5A09Qualificação Profissional e Habitação118,5A10Mar50,2A11Infraestruturas, Transportes, Turismo e Energia420,1A12Agricultura e Alimentação133,4Subtotal agrupamento1 140,81 357,9Total geral2 333,62 538,92 636,22 697,6
+Agrupamento Programa 2025 2026 2027 2028 Soberania A01 Órgão Executivo e Legislativo 15,5 A02 Governação e Representação 16,4 Subtotal agrupamento 31,9 31,4 Social A03 Ciência e Inovação 34,9 A04 Saúde e Segurança Social 507,7 A05 Educação 389,4 A06 Media e Comunidades 5,6 A07 Ambiente e Ação Climática 49,1 Subtotal agrupamento 986,7 979,2 Económica A08 Finanças e Administração Pública 389,9 A09 Qualificação Profissional e Habitação 118,8 A10 Mar 49,4 A11 Infraestruturas, Transportes, Turismo e Energia 353,5 A12 Agricultura e Alimentação 123,5 Subtotal agrupamento 1 035,0 1 224,7 Total Geral 2 053,7 2 235,3 2 278,7 2 314,7
+118273303
