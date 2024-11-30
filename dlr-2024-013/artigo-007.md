@@ -1,0 +1,5 @@
+# Artigo 7.º
+### Isenção de taxas moderadoras
+1 - Os bombeiros beneficiam da isenção do pagamento de taxas moderadoras nas prestações em cuidados de saúde primários e hospitalares, ainda que fora do exercício da sua atividade, nos termos conjugados do artigo 2.º do Decreto Regulamentar Regional n.º 16/2011/A, de 28 de junho, alterado e republicado pelo Decreto Regulamentar Regional n.º 8/2020/A, de 2 de abril, e da alínea g) do artigo 4.º do Decreto-Lei n.º 113/2011, de 29 de novembro, na sua redação atual.
+2 - Para os efeitos do disposto no número anterior, os bombeiros devem identificar-se mediante a apresentação de cartão de identificação de bombeiro ou de outro que o substitua nos termos legais.
+3 - O disposto no n.º 1 é ainda aplicável aos elementos que integram os órgãos executivos das associações humanitárias de bombeiros voluntários sediadas na Região Autónoma dos Açores e aos elementos que integram os órgãos executivos da FBRAA, devendo os mesmos, para o efeito, identificar-se mediante a apresentação de documento que comprove, nos termos legais, a qualidade em causa.
