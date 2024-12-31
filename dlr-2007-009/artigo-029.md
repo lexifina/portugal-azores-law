@@ -36,3 +36,4 @@ b) Abandonar nos cais, nos molhes ou nas zonas costeiras exemplares ou partes de
 4 - Tratando-se de pessoas colectivas, os limites máximos das coimas constantes dos n.os 1, 2 e 3 elevam-se, respectivamente, para (euro) 15000, (euro) 10000 e (euro) 1000.
 5 - Os montantes das coimas estabelecidas nos n.os 1 e 2 podem ser reduzidos a metade quando as infracções sejam praticadas sem auxílio ou sem utilização de embarcações.
 6 - Caso seja verificada pelas entidades fiscalizadoras a prática da contra-ordenação prevista na alínea f) do n.º 1, deve o correspondente auto ser comunicado à autoridade competente, com vista à aplicação da legislação respeitante à detenção e uso de armas ou de outros instrumentos e substâncias cuja posse ou utilização seja proibida ou sujeita a licenciamento.
+7 - A negligência e a tentativa são puníveis, sendo os montantes mínimos e máximos das coimas reduzidos para metade.

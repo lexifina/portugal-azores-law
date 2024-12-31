@@ -9,7 +9,7 @@ c) Ação social;
 d) Proteção civil;
 e) Ambiente e salubridade;
 f) Aquisição, construção, reconstrução, reabilitação, requalificação ou reparação de edifícios sede de juntas de freguesia ou de associações de freguesias;
-g) Aquisição, construção, reconstrução, reabilitação, requalificação ou reparação de outros edifícios de juntas de freguesia ou de associações de freguesias;
+g) Aquisição, construção, reconstrução, requalificação ou reparação de outros imóveis de juntas de freguesia ou de associações de freguesia;
 h) Mobiliário e equipamento destinado às sedes;
 i) Aquisição de viaturas ligeiras de mercadorias e de passageiros com lotação entre sete e nove lugares;
 j) Despesas com a organização ou com a participação em reuniões, colóquios e ações de formação;
