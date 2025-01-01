@@ -1,6 +1,6 @@
 # Artigo 2.º
 ### Reposição do tempo intercarreiras
-1 - Os docentes que, na sequência das alterações da estrutura da carreira e abrangidos pela aplicação do Decreto Legislativo Regional n.º 26/2008/A, de 24 de julho, e do Decreto Legislativo Regional n.º 15/2019/A, de 16 de julho, venham a contabilizar tempo de serviço superior ao que resulta da soma da duração dos escalões da carreira definida no presente diploma beneficiam do direito à recuperação desse tempo de serviço, de acordo com a seguinte calendarização:
+1 - Os docentes dos quadros da Região Autónoma dos Açores que, na sequência das sucessivas transições decorrentes das alterações da estrutura da carreira docente, venham a contabilizar tempo de serviço superior ao que resulta da soma da duração dos escalões da carreira definida no presente diploma beneficiam do direito à recuperação desse tempo de serviço, até três anos, de acordo com a seguinte calendarização:
 a) A 31 de março de 2024, 50 % do tempo a considerar, salvo se o tempo total for inferior a 730 dias, situação na qual se reposiciona todo o tempo até um máximo de 365 dias;
 b) Quando aplicável, o restante tempo após a mudança de escalão.
 2 - Cada um dos módulos definidos no número anterior aplica-se aos docentes dos quadros da Região Autónoma dos Açores que se encontrem a prestar serviço docente no sistema educativo regional, ou legalmente equiparado, de acordo com o seguinte critério:
