@@ -1,0 +1,6 @@
+# Artigo 21.º-G
+### Posição remuneratória e contagem do tempo de serviço
+1 - O tempo de serviço de funções na CVR Açores ao abrigo da relação jurídica de emprego por tempo indeterminado releva para efeitos de atribuição da posição remuneratória aquando do recrutamento, nos termos dos números seguintes.
+2 - Aos trabalhadores recrutados é atribuída a posição remuneratória que, de acordo com as regras de alteração obrigatória de posicionamento remuneratório em vigor na Administração Pública, seria, na data do recrutamento, atribuída aos trabalhadores da entidade empregadora pública inseridos nas mesmas carreiras a que os trabalhadores da CVR Açores se candidatam, e que possuíssem, no mesmo período de tempo relevante ao daqueles, avaliação de desempenho, a partir de 2004 a 2008, de Muito Bom ou Bom e, a partir de 2009, menção de Adequado.
+3 - O tempo de serviço que exceda o necessário para a determinação da posição remuneratória referida no número anterior releva para efeitos de futura alteração do posicionamento remuneratório, nos termos da lei.
+4 - O tempo de exercício de funções na CVR Açores releva, igualmente, como exercício de funções públicas, designadamente, para efeitos de férias, nos termos previstos para os trabalhadores em regime de direito público e de carreira contributiva na medida dos descontos efetuados.

@@ -1,0 +1,5 @@
+# Artigo 21.º-D
+### Carreira e categoria de integração
+1 - O direito de candidatura a que se refere o artigo anterior aplica-se apenas aos procedimentos concursais para ocupação dos postos de trabalho, na categoria base das carreiras, correspondentes às funções ou atividades que o trabalhador se encontre a executar.
+2 - A integração nas carreiras correspondentes às funções exercidas faz-se com respeito pelos requisitos gerais e especiais legalmente exigidos para ingresso nas carreiras e categorias postas a concurso, designadamente as habilitações literárias e profissionais exigidas para as correspondentes carreiras da administração pública, assim como da exigência de verificação dos demais requisitos legais para a constituição da relação jurídica de emprego público.
+3 - Nos casos em que o trabalhador não possua as habilitações literárias e profissionais exigidas para as correspondentes carreiras da administração pública, a integração é feita em categoria de ingresso de carreira em que se verifique o preenchimento do requisito habilitacional, cujo conteúdo funcional mais se aproxime daquele que vem sendo exercido.

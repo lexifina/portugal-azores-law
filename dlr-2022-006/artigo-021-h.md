@@ -1,0 +1,5 @@
+# Artigo 21.º-H
+### Cedência de interesse público
+1 - A CVR Açores, na pendência do processo de extinção, pode ceder, ao abrigo do regime de cedência de interesse público, ao IVV Açores, IPRA, os trabalhadores detentores de contrato de trabalho por tempo indeterminado, nos termos do disposto no Decreto Legislativo Regional n.º 17/2009/A, de 14 de outubro, na sua redação em vigor, e na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação em vigor, sem prejuízo do disposto no número seguinte.
+2 - No âmbito da celebração dos acordos de cedência de interesse público, a remuneração a atribuir ao trabalhador tem em conta, com as necessárias adaptações, o disposto no n.º 2 do artigo anterior.
+3 - Os acordos de cedência de interesse público previstos nos números anteriores vigoram até à celebração, pelos trabalhadores da CVR Açores, de contrato de trabalho em funções públicas por tempo indeterminado com o IVV Açores, IPRA, na sequência dos procedimentos concursais previstos nos artigos anteriores.
