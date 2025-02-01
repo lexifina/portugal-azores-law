@@ -21,6 +21,8 @@ l) A utilização de aparelhagens sonoras;
 m) A prática de actividades desportivas motorizadas;
 n) A imobilização de embarcações e barcos de recreio;
 o) A realização de quaisquer actividades que perturbem o equilíbrio da envolvente.
+p) Pesca lúdica apeada, na modalidade de pesca de lazer;
+q) Entrada e saída de embarcações de pesca.
 4 - Na área protegida para a gestão de habitats ou espécies do ilhéu de Vila Franca do Campo ficam condicionados e sujeitos a parecer prévio do serviço com competência em matéria de ambiente os actos e actividades seguintes:
 a) A alteração à morfologia do solo por escavações ou aterros, pela modificação do coberto vegetal, do corte de vegetação arbórea e arbustiva, com excepção das decorrentes da execução de acções de manutenção e limpeza da área protegida;
 b) A colheita, captura, abate ou detenção de exemplares de quaisquer espécies naturais, vegetais ou animais, sujeitas a medidas de protecção, em qualquer fase do seu ciclo biológico, incluindo a destruição de ninhos e a apanha de ovos, a perturbação ou a destruição dos seus habitats;
