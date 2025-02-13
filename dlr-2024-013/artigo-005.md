@@ -10,4 +10,4 @@ b) O valor correspondente, no limite, a 25 % da retribuição mínima mensal gar
 6 - Na sequência do despacho a que se refere o número anterior, o departamento do Governo Regional com competência em matéria de proteção civil e bombeiros transfere, para a associação humanitária de bombeiros voluntários a que o beneficiário pertence, o montante relativo às majorações atribuídas.
 7 - O pagamento ao beneficiário das majorações a que se refere o presente artigo é realizado pela associação humanitária de bombeiros voluntários a que o mesmo pertence.
 8 - O acesso aos benefícios elencados no presente artigo é permitido a mais do que um descendente do bombeiro e pode ser usufruído em simultâneo com este.
-9 - Os bombeiros voluntários dos quadros de comando e ativo têm direito ao reembolso de 50 % das despesas suportadas com centros de atividades de tempos livres.
+9 - Os bombeiros voluntários dos quadros de comando e ativo têm direito ao reembolso de 50 % das despesas suportadas com centros de atividades de tempos livres, nos termos e condições a definir por decreto regulamentar regional.
