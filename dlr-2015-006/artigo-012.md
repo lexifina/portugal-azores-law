@@ -8,7 +8,8 @@ c) «Utilizações-tipo III e X», altura da utilização-tipo e efetivo, a que 
 d) «Utilizações-tipo IV, V e VII», altura da utilização-tipo, efetivo, efetivo em locais de tipo D ou E e, apenas para a 1.ª categoria, saída independente direta ao exterior de locais do tipo D ou E, ao nível do plano de referência, a que se referem os quadros IV e VI, respetivamente;
 e) «Utilizações-tipo VI e IX», espaço coberto ou ao ar livre, altura da utilização-tipo, número de pisos abaixo do plano de referência e efetivo, a que se refere o quadro V;
 f) «Utilização-tipo VIII», altura da utilização-tipo, número de pisos abaixo do plano de referência e efetivo, a que se refere o quadro VII;
-g) «Utilização-tipo XI», altura da utilização-tipo, número de pisos abaixo do plano de referência, efetivo e carga de incêndio modificada, calculada com base no valor de densidade de carga de incêndio modificada, a que se refere o quadro IX;
+g) «Utilização-tipo xi», altura da utilização-tipo, número de pisos abaixo do plano de referência, efetivo e a densidade de carga de incêndio modificada, a que se refere o quadro ix;
 h) «Utilização-tipo XII», espaço coberto ou ao ar livre, número de pisos abaixo do plano de referência e densidade de carga de incêndio modificada, a que se refere o quadro X.
 3 - O efetivo dos edifícios e recintos corresponde ao somatório dos efetivos de todos os seus espaços suscetíveis de ocupação, determinados de acordo com os critérios definidos no regulamento técnico mencionado no artigo 15.º.
 4 - A densidade de carga de incêndio modificada a que se referem as alíneas g) e h) do n.º 2 é determinada com base nos critérios técnicos definidos em despacho do presidente do SRPCBA.
+5 - A carga de incêndio modificada a que se referem a alínea n) do n.º 3 do artigo 10.º e o n.º 3 do artigo anterior é determinada com base nos critérios técnicos definidos em despacho do presidente do SRPCBA.
