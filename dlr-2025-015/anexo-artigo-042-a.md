@@ -1,0 +1,4 @@
+# Artigo 42.º-A
+### Requisitos funcionais para avaliação no ano de ingresso na Administração Pública ou integração em carreira diferente
+1 - No ano de ingresso na Administração Pública ou de integração em diferente carreira ou categoria o trabalhador contratualiza com o avaliador competente os parâmetros de avaliação, no período máximo de 10 dias após a conclusão com sucesso do período experimental.
+2 - Quando decorra um período inferior a seis meses entre a data de conclusão do período experimental e o final do ciclo avaliativo e o trabalhador tenha mais de seis meses de serviço efetivo, é-lhe atribuída a avaliação de desempenho regular, para efeitos do disposto no n.º 7 do artigo 156.º da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.

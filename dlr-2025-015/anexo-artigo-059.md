@@ -1,0 +1,19 @@
+# Artigo 59.º
+### Comissão paritária
+1 - Junto de cada departamento governamental funciona uma comissão paritária com competência consultiva para apreciar propostas de avaliação dadas a conhecer a trabalhadores avaliados, antes da homologação.
+2 - A comissão paritária é composta por quatro vogais, sendo dois representantes da administração, designados pelo membro do Governo Regional, sendo um membro do conselho coordenador da avaliação, e dois representantes dos trabalhadores por estes eleitos.
+3 - Caso se justifique, dada a natureza e dimensão dos serviços, podem ser constituídas várias comissões paritárias, mediante despacho do membro do Governo Regional em que os representantes da administração correspondem a um membro do conselho coordenador da avaliação e aos dirigentes máximos daqueles serviços e os representantes dos trabalhadores eleitos pelos universos de trabalhadores que correspondam à competência daqueles serviços.
+4 - Os vogais representantes da administração são designados em número de quatro, pelo período de quatro anos, sendo dois efetivos, um dos quais orienta os trabalhos da comissão, e dois suplentes.
+5 - Os vogais representantes dos trabalhadores são eleitos, pelo período de quatro anos, em número de seis, sendo dois efetivos e quatro suplentes, através de escrutínio secreto pelos trabalhadores que constituem o universo de trabalhadores de todo o serviço ou de parte dele, nos termos do n.º 3.
+6 - O processo de eleição dos vogais representantes dos trabalhadores deve decorrer em dezembro e é organizado nos termos de despacho do membro do Governo Regional que é publicitado no portal do Governo Regional, do qual devem constar, entre outros, os seguintes pontos:
+a) Data-limite para indicação, pelos trabalhadores, dos membros da mesa ou mesas de voto, referindo expressamente que, na ausência dessa indicação, os mesmos são designados pelo membro do Governo Regional até 48 horas antes da realização do ato eleitoral;
+b) Número de elementos da mesa ou mesas de voto, o qual não deve ser superior a cinco por cada mesa, incluindo os membros suplentes;
+c) Data do ato eleitoral;
+d) Período e local do funcionamento das mesas de voto;
+e) Data-limite da comunicação dos resultados ao membro do Governo Regional;
+f) Dispensa dos membros das mesas do exercício dos seus deveres funcionais no dia em que tem lugar a eleição, sendo igualmente concedidas facilidades aos restantes trabalhadores pelo período estritamente indispensável para o exercício do direito de voto.
+7 - A não participação dos trabalhadores na eleição implica a não constituição da comissão paritária sem, contudo, obstar ao prosseguimento do processo de avaliação, entendendo-se como irrelevantes quaisquer pedidos de apreciação por esse órgão.
+8 - Os vogais efetivos são substituídos pelos vogais suplentes quando tenham de interromper o respetivo mandato ou sempre que a comissão seja chamada a pronunciar-se sobre processos em que aqueles tenham participado como avaliados ou avaliadores.
+9 - Quando se verificar a interrupção do mandato de pelo menos metade do número de vogais efetivos e suplentes, representantes da administração, por um lado, ou eleitos em representação dos avaliados, por outro, os procedimentos previstos nos n.os 4 e 5 podem ser repetidos, se necessário, por uma única vez e num prazo de cinco dias.
+10 - Nos casos do número anterior, os vogais designados ou eleitos para preenchimento das vagas completam o mandato daqueles que substituem, passando a integrar a comissão até ao termo do período de funcionamento desta.
+11 - Nas situações previstas no n.º 9, a impossibilidade comprovada de repetição dos procedimentos referidos não é impeditiva do prosseguimento do processo de avaliação, entendendo-se como irrelevantes quaisquer pedidos de apreciação pela comissão paritária.
