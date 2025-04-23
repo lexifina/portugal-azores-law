@@ -7,6 +7,6 @@
 3 - Compete à direcção regional com competência na área da Administração Pública:
 a) Acompanhar e apoiar a aplicação da avaliação do desempenho, designadamente através da produção de instrumentos de orientação normativa;
 b) Elaborar relatório no final de cada ciclo avaliativo que evidencie a forma como o SIADAPRA 3 foi aplicado na administração pública regional dos Açores.
-4 - Para efeitos do disposto no número anterior, a direcção regional com competência na área da Administração Pública recolhe informação junto dos serviços com competência em matéria de planeamento, estratégia e avaliação.
+4 - Para efeitos do disposto no número anterior, concluído o processo de avaliação, os departamentos do Governo Regional remetem informação contendo a súmula das avaliações atribuídas nos serviços ou organismos na sua dependência ao membro do Governo Regional responsável pela área das finanças e administração pública.
 5 - Todos os processos de transmissão da informação no âmbito de cada departamento, bem como a alimentação das bases de dados relevantes são assegurados pelo sistema de gestão da informação dos recursos humanos da administração pública regional dos Açores.
 6 - A estrutura e conteúdo dos relatórios referidos nos números anteriores são objecto de normalização através de despacho do membro do Governo Regional responsável pela área da Administração Pública.

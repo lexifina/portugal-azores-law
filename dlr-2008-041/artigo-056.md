@@ -6,5 +6,7 @@ b) Rever regularmente com o avaliado os objetivos negociados, ajustá-los, se ne
 c) Negociar as competências que integram o segundo parâmetro de avaliação, nos termos da alínea b) do artigo 45.º e do artigo 48.º;
 d) Avaliar os trabalhadores diretamente subordinados, assegurando a correta aplicação dos princípios integrantes da avaliação;
 e) Ponderar as expectativas dos trabalhadores no processo de identificação das respectivas necessidades de desenvolvimento;
-f) Fundamentar as avaliações de Desempenho relevante e Desempenho inadequado, para os efeitos previstos no presente diploma.
+f) Fundamentar as avaliações de inadequado, para os efeitos previstos no presente diploma;
+g) Remeter os contributos escritos adequados a uma efetiva e justa avaliação ao dirigente máximo ou ao novo avaliador, nos termos previstos no artigo 42.º-B.
 2 - O superior hierárquico imediato deve recolher e registar os contributos que reputar adequados e necessários a uma efectiva e justa avaliação, designadamente quando existam trabalhadores com responsabilidade efectiva de coordenação e orientação sobre o trabalho desenvolvido pelos avaliados.
+3 - A ausência ou impedimento de avaliador direto não constitui fundamento para não avaliar o trabalhador.

@@ -1,3 +1,7 @@
+## Título VI
+## Disposições transitórias e finais
+## Capítulo I
+## Disposições transitórias
 # Artigo 81.º
 ### Estratégia de aplicação
 1 - Até 30 de Novembro de cada ano, os serviços iniciam ou prosseguem a construção do QUAR previsto no artigo 10.º e, no quadro das orientações fixadas pelos respectivos membros do Governo, propõem os objectivos a prosseguir no ano seguinte e estabelecem os indicadores de desempenho e respectivas fontes de verificação.
