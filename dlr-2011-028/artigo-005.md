@@ -1,16 +1,6 @@
-## Capítulo II
-## Áreas marinhas protegidas
-## Secção I
-## Fundamentos para a classificação, categorias e objectivos de gestão
 # Artigo 5.º
-### Fundamentos para a classificação
-1 - Constituem fundamentos gerais para a classificação de uma área oceânica como área marinha protegida a integrar no Parque Marinho dos Açores, nomeadamente:
-a) O reconhecimento da sua raridade, representatividade, conectividade e valor ecológico;
-b) A produtividade e diversidade biológicas;
-c) A importância para as espécies e habitats marinhos ameaçados;
-d) O grau de naturalidade, vulnerabilidade, fragilidade, sensibilidade e capacidade de recuperação dos ecossistemas;
-e) A importância para as diversas fases do ciclo de vida das espécies marinhas;
-f) O interesse para a investigação científica e para a regulação do acesso aos recursos genéticos e à bioprospecção.
-2 - Sem prejuízo dos fundamentos gerais referidos no número anterior, constituem fundamentos específicos para a classificação das áreas que integram o Parque Marinho dos Açores os seguintes:
-a) A adopção de medidas dirigidas à protecção de estruturas submarinas, bem como dos recursos, das comunidades e dos habitats marinhos sensíveis;
-b) A adopção de um regime específico e modelo de gestão para as estruturas submarinas classificadas ou a classificar no arquipélago dos Açores, nos termos definidos no presente diploma, com o objectivo de assegurar a manutenção e preservação da biodiversidade marinha e de garantir a prossecução de medidas de protecção, valorização e uso sustentado dos recursos marinhos, através da integração harmonizada das actividades humanas e dos estudos científicos.
+### Regime de usos e atividades da RAMPA
+1 - Na RAMPA constituem usos e atividades proibidos todos aqueles que sejam tipificados como tal na legislação regional, nacional e da União Europeia no âmbito da área de aplicação da mesma, bem como os resultantes de medidas adotadas no âmbito de tratados ou acordos internacionais que vinculem o Estado português.
+2 - Constituem, ainda, usos e atividades proibidos ou condicionados na RAMPA os seguintes:
+a) Os usos e atividades nas áreas marinhas protegidas que integram a RAMPA, nos termos do regime definido pelo presente diploma, bem como na legislação regulamentar que o desenvolver;
+b) Os usos e atividades proibidos ou condicionados definidos no regime aplicável aos PNI, no que se refere às áreas marinhas protegidas costeiras.

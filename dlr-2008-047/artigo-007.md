@@ -3,7 +3,7 @@
 # Artigo 7.º
 ### Reserva natural
 1 - Integram o Parque Natural com a categoria de reserva natural:
-a) A Reserva Natural dos Ilhéus das Formigas;
+a) (Revogado.)
 b) A Reserva Natural do Ilhéu da Vila.
 2 - As áreas protegidas com a categoria referida no número anterior são classificadas em função dos seguintes objectivos de gestão:
 a) Preservação de habitats, ecossistemas e espécies num estado favorável;

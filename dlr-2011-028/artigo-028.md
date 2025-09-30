@@ -1,7 +1,3 @@
 # Artigo 28.º
-### Competências do conselho consultivo
-Compete ao conselho consultivo:
-a) Apreciar os planos anuais e plurianuais e os relatórios anuais de actividades;
-b) Apreciar as propostas quanto à elaboração periódica de relatórios de estado do Parque Marinho dos Açores, submetendo a realização da respectiva elaboração à decisão do membro do Governo Regional com competência em matéria de ambiente e mar;
-c) Dar parecer sobre qualquer assunto com interesse para o Parque Marinho dos Açores;
-d) Aprovar o seu regulamento interno de funcionamento.
+### Procedimento
+A classificação e reclassificação de áreas marinhas protegidas, costeiras ou oceânicas, observa o disposto no presente diploma e, com as necessárias adaptações, o procedimento previsto nos artigos 47.º a 49.º do Decreto Legislativo Regional n.º 15/2012/A, de 2 de abril, que aprova o regime jurídico da conservação da natureza e da biodiversidade, ou nos diplomas que lhe venham a suceder com o mesmo objeto.

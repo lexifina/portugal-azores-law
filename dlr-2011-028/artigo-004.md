@@ -1,6 +1,14 @@
 # Artigo 4.º
-### Actos e actividades interditos
-1 - No Parque Marinho dos Açores constituem actos e actividades interditos todos os que sejam tipificados como tal na legislação regional, nacional e comunitária, bem como em convenções ou acordos internacionais que vinculem a Região ou o Estado Português.
-2 - Fica, ainda, interdita a introdução de espécies exóticas ou geneticamente modificadas em qualquer área do Parque Marinho dos Açores.
-3 - No Parque Marinho dos Açores é interdita a realização de actividades de investigação científica e de bioprospecção que não respeitem o estabelecido no Código de Conduta para a Investigação Científica no Mar Profundo e no Alto Mar na Área Marítima da OSPAR (OSPAR Code of Conduct for Responsible Marine Research in the Deep Seas and High Seas of the OSPAR Maritime Area), aprovado pela Comissão OSPAR (OSPAR 08/24/1, anexo n.º 6) e suas alterações.
-4 - No Parque Marinho dos Açores constituem, em termos gerais, actos e actividades condicionados e sujeitos a parecer prévio vinculativo ou a autorização do serviço com competência em matéria de ambiente a extracção de quaisquer recursos biológicos e minerais marinhos não sujeitos a regulamentação específica, sem prejuízo das demais normas regulamentares definidas pelo presente diploma e restante legislação aplicável.
+### Âmbito da RAMPA
+1 - A RAMPA concretiza, no espaço marítimo adjacente ao arquipélago dos Açores, o dever continuado de conservação da biodiversidade marinha, tendo em conta a classificação e os princípios adotados pela União Internacional para a Conservação da Natureza (IUCN), adaptando-os às particularidades ambientais, geográficas, culturais e político-administrativas do território da Região Autónoma dos Açores.
+2 - A RAMPA é composta pelas áreas marinhas protegidas situadas no espaço marítimo adjacente ao arquipélago dos Açores, abrangendo:
+a) Áreas marinhas protegidas costeiras, que compreendem:
+i) Zonas de interface terra-mar;
+ii) Águas interiores marítimas;
+iii) Mar territorial.
+b) Áreas marinhas protegidas oceânicas, que compreendem:
+i) Mar territorial, quando aplicável;
+ii) Zona económica exclusiva, correspondente à subárea dos Açores;
+iii) Plataforma continental.
+3 - A RAMPA compreende as áreas marinhas protegidas já classificadas ao abrigo do Decreto Legislativo Regional n.º 15/2012/A, de 2 de abril, que aprova o regime jurídico da conservação da natureza e da biodiversidade, bem como as que venham a ser classificadas nos termos do presente diploma.
+4 - A RAMPA integra no seu âmbito as áreas relevantes da rede fundamental de conservação da natureza.

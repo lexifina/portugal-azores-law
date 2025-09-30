@@ -1,28 +1,15 @@
 # Artigo 13.º
-### Reserva Natural Marinha do Campo Hidrotermal Menez Gwen
-1 - Constituem fundamentos específicos para a classificação da Reserva Natural Marinha do Campo Hidrotermal Menez Gwen as características únicas dos seus habitats, a produtividade, os valores geológicos e naturais em presença e a importância da área para espécies, habitats e ecossistemas protegidos.
-2 - A Reserva Natural Marinha do Campo Hidrotermal Menez Gwen, referida na alínea b) do artigo 11.º, é classificada em função dos objectivos de gestão referidos no n.º 1 do artigo 9.º e dos seguintes objectivos específicos:
-a) Contribuir para assegurar a biodiversidade, através da conservação dos habitats naturais da fauna selvagens num estado de conservação favorável;
-b) Aumentar o conhecimento científico relacionado com os processos que regulam o funcionamento das fontes hidrotermais de grande profundidade;
-c) Reduzir potenciais conflitos entre utilizadores da área marinha;
-d) Promover a educação ambiental através da promoção do conhecimento e dos valores naturais presentes, promovendo práticas para a sua conservação;
-e) Potenciar actividades económicas sustentáveis e amigas do ambiente de forma a potenciar os benefícios provenientes desta área, em particular para a economia e as instituições científicas dos Açores.
-3 - Sem prejuízo do disposto no n.º 4, na Reserva Natural Marinha do Campo Hidrotermal Menez Gwen ficam interditos os actos e as actividades seguintes:
-a) Todas as actividades de pesca, com excepção da pesca dirigida a espécies epipelágicas migratórias;
-b) A exploração de recursos que envolva técnicas invasivas do fundo marinho e dos ecossistemas associados, incluindo a exploração mineral, de hidratos e de outros compostos ricos em energia, energia geotérmica e actividades com fins biotecnológicos;
-c) A instalação de estruturas para a produção de energia;
-d) A deposição de quaisquer materiais com impacte na paisagem submarina e no funcionamento dos ecossistemas bentónicos;
-e) A utilização de quaisquer armas, substâncias tóxicas ou poluentes, ou de explosivos que possam causar dano ou perturbação das espécies em presença;
-f) A introdução de ruído no meio aéreo ou subaquático que possa causar perturbação nas populações de aves marinhas ou cetáceos;
-g) A realização de quaisquer actividades que perturbem o equilíbrio natural.
-4 - Na Reserva Natural Marinha do Campo Hidrotermal Menez Gwen ficam condicionados e sujeitos a parecer prévio vinculativo do director do Parque Marinho dos Açores os actos e actividades seguintes:
-a) A investigação científica e monitorização ambiental, incluindo a captura de espécimes;
-b) A recolha de amostras biológicas e geológicas;
-c) A visitação e as actividades de turismo de natureza;
-d) Filmagens para fins comerciais ou publicitários;
-e) Instalação de cabos submarinos de comunicações e de transmissão de energia, condutas de gás, hidrocarbonetos ou outros;
-f) A prospecção de recursos minerais, biológicos ou energéticos que envolvam técnicas invasivas que possam colocar em risco os fundos marinhos e ecossistemas associados;
-g) Lançar âncoras.
-5 - Para garantir os objectivos de gestão mencionados na alínea a) do n.º 2, por portaria conjunta dos membros do Governo Regional com competência em matéria de ambiente, assuntos do mar e pescas podem ser definidas zonas de protecção integral ou outras normas organizativas aplicáveis no território da Reserva Natural Marinha do Campo Hidrotermal Menez Gwen, podendo incidir sobre os fundos submarinos ou sobre parte ou toda a coluna de água sobrejacente.
-6 - A Reserva Natural Marinha do Campo Hidrotermal Menez Gwen integra no seu âmbito os objectivos e limites territoriais definidos para o sítio de interesse comunitário Menez Gwen (código PTMAZ0001), conforme o anexo da Decisão da Comissão n.º 2009/1001/UE, de 22 de Dezembro, que adopta, em aplicação da Directiva n.º 92/43/CEE, do Conselho, a segunda lista actualizada dos sítios de importância comunitária da região biogeográfica macaronésica, e os objectivos resultantes da classificação como Área Marinha Protegida OSPAR Campo Hidrotermal Menez Gwen (O-PT-020006).
-7 - Os limites territoriais da Reserva Natural Marinha do Campo Hidrotermal Menez Gwen estão representados no anexo ii pela sigla PMA02.
+### Reserva natural marinha
+1 - As áreas marinhas protegidas classificadas como reserva natural marinha destinam-se a proteger áreas naturais de excecional relevância para a conservação de espécies, habitats ou ecossistemas vulneráveis ou representativos de singularidades biológicas e, ou, elementos de geodiversidade, bem como a proteger os processos ecológicos e serviços de ecossistema dessas áreas.
+2 - Podem integrar a categoria de reserva natural marinha as áreas marinhas protegidas que apresentem, pelo menos, uma das seguintes características:
+a) Contenham espécies vulneráveis, ameaçadas ou criticamente ameaçadas, ou com elevado valor para a conservação da natureza;
+b) Contenham habitats ou ecossistemas representativos e intactos, ou com potencial de recuperação;
+c) Não registem a presença de atividade humana permanente ou significativa, encontrem-se inalteradas ou pouco alteradas pela intervenção humana direta ou indireta, ou por causas naturais, ou cujo impacte seja suscetível de recuperação.
+3 - As áreas marinhas protegidas classificadas como reserva natural marinha prosseguem os seguintes objetivos específicos de gestão:
+a) Proteger ou recuperar os ecossistemas, habitats e espécies num estado de conservação favorável, e evitar a sua degradação ou destruição;
+b) Proteger ou recuperar os processos ecológicos e evitar a sua degradação ou destruição;
+c) Proteger as características estruturais da paisagem marinha e dos seus elementos geológicos e geomorfológicos;
+d) Compatibilizar a realização de atividades científicas, educacionais, culturais, recreativas e turísticas, desde que tais atividades não prejudiquem a realização dos objetivos de gestão.
+4 - As áreas marinhas protegidas classificadas como reserva natural marinha são áreas com nível de proteção total, nos termos definidos no presente diploma.
+5 - As áreas marinhas protegidas classificadas como reserva natural marinha podem integrar zonamentos quando seja necessário balizar usos e atividades condicionados.
+6 - Os usos e atividades proibidos ou condicionados nas áreas marinhas protegidas classificadas como reserva natural marinha devem ser adequados ao respetivo nível de proteção.

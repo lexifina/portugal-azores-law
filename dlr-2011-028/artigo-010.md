@@ -1,5 +1,15 @@
+## Capítulo II
+## Constituição da RAMPA
+## Secção I
+## Disposições gerais
 # Artigo 10.º
-### Limites das áreas marinhas protegidas
-1 - Os limites das áreas que integram o Parque Marinho dos Açores estão descritos e fixados no anexo i e representados na carta simplificada constante do anexo ii, que constituem anexos do presente diploma e do qual fazem parte integrante.
-2 - Todas as dúvidas de interpretação suscitadas pela leitura da carta simplificada a que se refere o anexo ii podem ser esclarecidas pela consulta do departamento da administração regional autónoma com competência em matéria de assuntos do mar ou no portal na Internet do Governo Regional dos Açores.
-3 - O departamento da administração regional autónoma com competência nos assuntos do mar mantém actualizada a informação que permita completar a leitura da carta simplificada constante do anexo ii.
+### Fundamentos
+Constituem fundamentos para a classificação de uma área marinha protegida a integrar na RAMPA, designadamente os seguintes:
+a) O reconhecimento da raridade, representatividade, conectividade e valores ecológicos e naturais nela presentes;
+b) A importância para a produtividade e diversidade biológicas;
+c) A importância para as espécies e habitats marinhos vulneráveis, ameaçados ou criticamente ameaçados;
+d) O grau de naturalidade, vulnerabilidade, fragilidade, sensibilidade e capacidade de recuperação dos ecossistemas;
+e) A importância para mitigar impactes das alterações climáticas e aumentar a resiliência dos ecossistemas marinhos;
+f) A importância para as diversas fases do ciclo de vida das espécies marinhas;
+g) A importância para a proteção e gestão dos ecossistemas marinhos costeiros e de mar aberto, bem como dos ecossistemas do mar profundo;
+h) O contributo para a prossecução dos objetivos de conservação da RAMPA previstos no artigo anterior.

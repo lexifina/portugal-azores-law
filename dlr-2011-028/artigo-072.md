@@ -1,0 +1,5 @@
+# Artigo 72.º
+### Área Marinha Protegida do MARNA
+1 - A Área Marinha Protegida para a gestão de habitats e espécies do MARNA, referida na alínea c) do n.º 1 do artigo 52.º e na alínea c) do n.º 1 do artigo 69.º, é classificada em função dos objetivos específicos de gestão referidos no n.º 3 do artigo 14.º
+2 - Constituem, ainda, objetivos específicos subjacentes à classificação da Área Marinha Protegida do MARNA os constantes da Decisão OSPAR 2010/6, sobre o estabelecimento da Área Marinha Protegida Oceânica do MARNA (Decisão OSPAR 10/23/1-E, anexo n.º 44), e a sua gestão visa dar cumprimento à Recomendação OSPAR 2010/17, sobre a gestão da Área Marinha Protegida Oceânica do MARNA (OSPAR 10/23/1-E, anexo n.º 45), adotadas pelas Partes Contratantes da Convenção OSPAR reunidas em Bergen em setembro de 2010, por proposta do Estado português.
+3 - A Área Marinha Protegida do MARNA tem os limites descritos e fixados no anexo i, pelo código PMA10, e representados na carta simplificada constante do anexo ii, conforme disposto na Decisão OSPAR 2010/6, sobre o estabelecimento da Área Marinha Protegida Oceânica do MARNA (OSPAR 10/23/1-E, anexo n.º 44).

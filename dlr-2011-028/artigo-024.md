@@ -1,4 +1,6 @@
 # Artigo 24.º
-### Área Marinha Protegida do Monte Submarino Antialtair
-1 - A Área Marinha Protegida do Monte Submarino Antialtair, referida na alínea c) do n.º 1 do artigo 21.º, foi classificada com os fundamentos específicos constantes da Decisão OSPAR 2010/4, sobre o estabelecimento da Área Marinha Protegida Oceânica do Monte Submarino Antialtair (OSPAR 10/23/1-E, anexo n.º 40), e a sua gestão visa dar cumprimento à Recomendação OSPAR 2010/15, sobre a gestão da Área Marinha Protegida Oceânica do Monte Submarino Antialtair (OSPAR 10/23/1-E, anexo n.º 41), adoptadas pelas Partes da Convenção OSPAR reunidas em Bergen em Setembro de 2010.
-2 - Os limites territoriais da Área Marinha Protegida do Monte Submarino Antialtair, conforme fixados pela Decisão OSPAR 2010/4, sobre o estabelecimento da Área Marinha Protegida Oceânica do Monte Submarino Antialtair (OSPAR 10/23/1-E, anexo n.º 40), estão representados no anexo ii pela sigla PMA09.
+### Sítios Ramsar
+1 - Os sítios Ramsar são zonas húmidas de importância internacional para as quais é estabelecida uma estratégia de conservação, que visa a manutenção do seu caráter ecológico, através da implementação de políticas de uso racional e sustentável.
+2 - A proposta de inclusão de novos sítios, ou de alteração dos limites, é aprovada nos termos da legislação em vigor, sendo submetida através dos competentes órgãos nacionais.
+3 - Após a comunicação da aceitação da criação de um novo sítio, pelo órgão competente da Convenção de Ramsar, as normas de gestão e conservação aplicáveis são fixadas nos termos da legislação em vigor.
+4 - Caso algum sítio Ramsar venha a ser incluído no Registo de Montreux, cabe ao departamento do Governo Regional com competência em matéria de ambiente desenvolver as ações necessárias, junto dos organismos competentes do Estado, para a sua rápida remoção daquele registo.

@@ -1,19 +1,20 @@
 # Artigo 9.º
-### Objectivos de gestão das áreas marinhas protegidas
-1 - As áreas marinhas protegidas classificadas como reserva natural marinha prosseguem os seguintes objectivos de gestão:
-a) Preservação de habitats, ecossistemas e espécies num estado favorável;
-b) Manutenção de processos ecológicos;
-c) Protecção das características estruturais da paisagem marinha e dos seus elementos geológicos;
-d) Preservação de exemplos do ambiente marinho natural para estudo científico, monitorização e educação ambiental;
-e) Conservação das condições naturais de referência para trabalhos científicos e projectos em curso;
-f) Definição de limites e condicionamento ao livre acesso público.
-2 - As áreas marinhas protegidas classificadas como área marinha protegida para a gestão de habitats ou espécies prosseguem os seguintes objectivos de gestão:
-a) Assegurar as condições de referência dos habitats necessárias à protecção de espécies significantes, grupos de espécies, comunidades bióticas ou características físicas do ambiente marinho, sempre que estas necessitem de intervenção humana para a optimização da gestão;
-b) Disciplinar os usos e actividades que possam constituir ameaça à sustentabilidade de habitats ou espécies;
-c) Potenciar os benefícios sócio-económicos que resultem da prática de actividades no âmbito da área marinha protegida, quando compatíveis com os objectivos de gestão da mesma;
-d) Promover a investigação científica e a monitorização ambiental como actividades indispensáveis à gestão sustentável;
-e) Criar e delimitar áreas marinhas destinadas ao conhecimento e divulgação das características dos habitats a proteger.
-3 - As áreas marinhas protegidas classificadas como área marinha protegida para a gestão de recursos prosseguem os seguintes objectivos de gestão:
-a) Promover a gestão efectiva visando o uso sustentável dos recursos, nomeadamente a pesca e outras actividades extractivas com incidência sobre a biodiversidade ou as condições ambientais;
-b) Proteger a manutenção da biodiversidade e outros valores naturais a longo prazo;
-c) Contribuir para o desenvolvimento sócio-económico sustentável.
+### Objetivos de conservação da RAMPA
+1 - Constituem objetivos de conservação da RAMPA os seguintes:
+a) Assegurar a proteção dos ecossistemas marinhos vulneráveis que estejam ainda preservados no seu estado natural e a recuperação daqueles que se encontrem degradados;
+b) Manter a estrutura da cadeia alimentar e as redes de relações tróficas;
+c) Assegurar a proteção de habitats costeiros, do mar aberto e do mar profundo, essenciais e intactos, bem como a recuperação de outros que não se encontrem nesse estado de conservação;
+d) Assegurar a proteção e a recuperação das espécies-chave e das espécies de base;
+e) Assegurar a manutenção, a longo prazo, dos processos mediados por fatores biológicos;
+f) Manter a diversidade funcional dos ecossistemas de profundidade;
+g) Manter ou recuperar a diversidade biológica dos ecossistemas de profundidade a todos os níveis;
+h) Assegurar a proteção de espécies ou habitats vulneráveis, ameaçados ou criticamente ameaçados, e a sua recuperação;
+i) Assegurar a proteção dos hotspots de biodiversidade dos ecossistemas de profundidade;
+j) Assegurar a proteção de potenciais áreas naturais próximas das zonas classificadas;
+k) Assegurar a proteção ou recuperação dos habitats bentónicos representativos e dos ecossistemas associados;
+l) Assegurar a proteção de uma rede de zonas interligadas ecologicamente, que beneficie o intercâmbio de larvas, juvenis ou adultas, e outras ligações funcionais;
+m) Manter a diversidade biológica, a estrutura e a função dos ecossistemas costeiros, de mar aberto e do mar profundo a longo prazo, em condições climáticas futuras;
+n) Manter unidades populacionais de peixes, algas e invertebrados, bem como da biodiversidade em geral, num estado saudável;
+o) Reconstituir e restaurar as unidades populacionais de peixes e invertebrados de espécies bentónicas costeiras e de profundidade comercialmente importantes;
+p) Assegurar a proteção ou recuperação dos habitats essenciais de espécies bentónicas de profundidade com interesse comercial.
+2 - Os objetivos específicos de conservação que presidem à classificação ou reclassificação de uma área marinha protegida, salvo disposição em contrário, constam da respetiva ficha, conforme disposto no artigo 26.º

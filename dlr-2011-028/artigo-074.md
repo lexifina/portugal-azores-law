@@ -1,0 +1,11 @@
+# Artigo 74.º
+### Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a Sudoeste dos Açores
+1 - A Área Marinha Protegida para a gestão de recursos do perímetro de proteção e gestão de recursos localizada a Sudoeste dos Açores, referida na alínea b) do artigo 67.º e na alínea e) do n.º 1 do artigo 69.º, é classificada em função dos objetivos específicos de gestão referidos no n.º 3 do artigo 15.º
+2 - Constituem fundamentos para a classificação da Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a Sudoeste dos Açores as características e o estado de conservação dos seus habitats, bem como os valores geológicos e naturais em presença.
+3 - A Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a Sudoeste dos Açores tem os limites descritos e fixados no anexo i, pelo código PMA13, e representados na carta simplificada constante do anexo ii.
+4 - A Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a Sudoeste dos Açores (PMA13) integra no seu âmbito a Reserva Natural Marinha do Campo Hidrotermal Rainbow, referida na alínea d) do artigo 41.º e no artigo 45.º
+5 - Constituem fundamentos para a classificação da Reserva Natural Marinha do Campo Hidrotermal Rainbow as características únicas dos seus habitats, os valores geológicos e naturais em presença e os objetivos de conservação inerentes à classificação como área marinha protegida no âmbito da Convenção OSPAR Campo Hidrotermal Rainbow, identificada no n.º 7.
+6 - A Reserva Natural Marinha do Campo Hidrotermal Rainbow é classificada em função dos objetivos específicos de gestão referidos no n.º 3 do artigo 13.º
+7 - A Reserva Natural Marinha do Campo Hidrotermal Rainbow integra no seu âmbito a Área Marinha Protegida OSPAR Campo Hidrotermal Rainbow (O-PT-020007).
+8 - O Campo Hidrotermal Rainbow consta da lista nacional de propostas de novos sítios de importância comunitária, aprovada pela Resolução do Conselho do Governo Regional n.º 56/2010, de 10 de maio, aplicando-se o disposto no n.º 3 do artigo 22.º
+9 - A Reserva Natural Marinha do Campo Hidrotermal Rainbow tem os limites descritos e fixados no anexo i, pelo código PMA04, e representados na carta simplificada constante do anexo ii.

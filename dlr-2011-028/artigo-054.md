@@ -1,0 +1,8 @@
+# Artigo 54.º
+### Área Marinha Protegida para a gestão de habitats e espécies Açores Sudoeste
+1 - A Área Marinha Protegida para a gestão de habitats e espécies Açores Sudoeste, referida na alínea e) do n.º 1 do artigo 52.º, tem os limites descritos e fixados no anexo i, pelo código PMA13-A, e representados na carta simplificada constante do anexo ii.
+2 - A Área Marinha Protegida para a gestão de habitats e espécies Açores Sudoeste é classificada nos termos e com o regime previsto no anexo xi do presente diploma e que dele faz parte integrante.
+3 - A Área Marinha Protegida para a gestão de habitats e espécies Açores Sudoeste integra no seu âmbito a Reserva Natural Marinha do Campo Hidrotermal Menez Gwen, referida na alínea b) do artigo 41.º, como área com nível de proteção total, aplicando-se o regime previsto no artigo 43.º
+4 - Para efeitos do disposto no número anterior, a Área Marinha Protegida para a gestão de habitats e espécies Açores Sudoeste integra, ainda, no seu âmbito o sítio de importância comunitária Menez Gwen (código PTMAZ0001) e a Área Marinha Protegida OSPAR Campo Hidrotermal Menez Gwen (O-PT-020006).
+5 - A Área Marinha Protegida para a gestão de habitats e espécies Açores Sudoeste integra, também, no seu âmbito a Reserva Natural Marinha do Campo Hidrotermal Lucky Strike, referida na alínea c) do artigo 41.º, como área com nível de proteção total, aplicando-se o regime previsto no artigo 44.º
+6 - Para efeitos do disposto no número anterior, a Área Marinha Protegida para a gestão de habitats e espécies Açores Sudoeste integra, igualmente, no seu âmbito o sítio de importância comunitária Lucky Strike (código PTMAZ0002) e a Área Marinha Protegida OSPAR Campo Hidrotermal Lucky Strike (O-PT-020005).

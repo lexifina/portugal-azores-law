@@ -1,4 +1,3 @@
 # Artigo 25.º
-### Área Marinha Protegida do MARNA
-1 - A Área Marinha Protegida do MARNA, referida na alínea d) do n.º 1 do artigo 21.º, foi classificada com os fundamentos específicos constantes da Decisão OSPAR 2010/6, sobre o estabelecimento da Área Marinha Protegida Oceânica do MARNA (Mid-Atlantic Ridge North of the Azores High Seas Marine Protected Area - Decisão OSPAR 10/23/1-E, anexo n.º 44), e a sua gestão visa dar cumprimento à Recomendação OSPAR 2010/17, sobre a gestão da Área Marinha Protegida Oceânica do MARNA (OSPAR 10/23/1-E, anexo n.º 45), adoptadas pelas Partes da Convenção OSPAR reunidas em Bergen em Setembro de 2010.
-2 - Os limites territoriais da Área Marinha Protegida do MARNA, conforme fixados pela Decisão OSPAR 2010/6, sobre o estabelecimento da Área Marinha Protegida Oceânica do MARNA (OSPAR 10/23/1-E, anexo n.º 44), estão representados no anexo ii pela sigla PMA10.
+### Inclusão na RAMPA
+Quando a totalidade ou parte de uma nova ZEC, ZPE, zona marinha protegida OSPAR, ou novo sítio Ramsar, se localize fora dos limites da RAMPA, a incorporação no respetivo regime jurídico deve ser feita no prazo máximo de cinco anos após a criação ou alteração da delimitação dos mesmos.

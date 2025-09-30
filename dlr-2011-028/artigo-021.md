@@ -1,16 +1,9 @@
-## Capítulo III
-## Áreas marinhas protegidas situadas fora da zona económica exclusiva
+## Secção III
+## Rede fundamental de conservação da natureza
 # Artigo 21.º
-### Áreas marinhas protegidas situadas na plataforma continental para além das 200 milhas náuticas
-1 - Integram o Parque Marinho dos Açores as seguintes áreas marinhas protegidas situadas na plataforma continental para além das 200 milhas náuticas:
-a) A Área Marinha Protegida do Campo Hidrotermal Rainbow, com a categoria de reserva natural marinha;
-b) A Área Marinha Protegida do Monte Submarino Altair, com a categoria de área marinha protegida para a gestão de habitats ou espécies;
-c) A Área Marinha Protegida do Monte Submarino Antialtair, com a categoria de área marinha protegida para a gestão de habitats ou espécies;
-d) A Área Marinha Protegida do MARNA, com a categoria de área marinha protegida para a gestão de habitats ou espécies;
-e) A Área Marinha Protegida para a gestão de recursos do complexo de bancos submarinos localizados a sul dos Açores, designados como Montes Submarinos Seewarte, Montes Submarinos Meteor, cadeia montanhosa submarina Atlantis-Grande Meteor, ou grupo de Montes Submarinos Atlantis-Plato-Cruiser-Grande Meteor, designada por Área Marinha Protegida do Arquipélago Submarino do Meteor, na componente da área localizada fora da subárea dos Açores da Zona Económica Exclusiva (ZEE) portuguesa;
-f) Área Marinha Protegida de perímetro de proteção e gestão de recursos localizada a sudoeste dos Açores, para além da Zona Económica Exclusiva (ZEE) portuguesa.
-2 - Para além de outros objectivos que sejam fixados no âmbito da Convenção OSPAR e de outros instrumentos multilaterais relevantes para a gestão das áreas oceânicas do alto mar, as áreas marinhas protegidas referidas no número anterior regem-se pelos objectivos constantes da Recomendação OSPAR 2003/3, sobre uma rede de áreas marinhas protegidas, adoptada na reunião da Comissão OSPAR realizada em Bremen de 23 a 27 de Junho de 2003 (OSPAR 03/17/1, anexo n.º 9), conforme emendada pela Recomendação OSPAR 2010/2 (OSPAR 10/23/1, anexo n.º 7), e são classificadas em função dos objectivos de gestão referidos nos n.os 1 e 2 do artigo 9.º e dos seguintes objectivos específicos determinados no contexto da Convenção OSPAR:
-a) Prevenir a degradação e os danos infligidos a espécies, habitats e processos ecológicos, seguindo o princípio da precaução;
-b) Proteger e conservar áreas que melhor representam a diversidade de espécies, habitats e processos ecológicos presentes na região do Atlântico Nordeste onde é aplicável a Convenção OSPAR.
-3 - Em relação às áreas marinhas protegidas referidas no n.º 1 e a outras que por decisão dos competentes órgãos nacionais e internacionais sejam criadas na plataforma continental para além das 200 milhas náuticas e colocadas sob a gestão da Região Autónoma dos Açores, cabe ao Parque Marinho dos Açores exercer as competências e atribuições que sejam determinadas pela entidade competente para a classificação ou que derivem da aplicação do direito internacional geral e em particular da Convenção das Nações Unidas sobre o Direito do Mar, aprovada para ratificação pela Resolução da Assembleia da República n.º 60-B/97, de 14 de Outubro.
-4 - Sem prejuízo das normas que venham a ser fixadas para a gestão da coluna de água, nos termos do número anterior, nos fundos marinhos subjacentes às áreas marinhas protegidas não podem ser autorizadas, financiadas ou de alguma forma apoiadas por entidades com sede na Região Autónoma dos Açores quaisquer actividades de natureza extractiva ou que resultem na perturbação dos ecossistemas bentónicos e das espécies bentónicas ali existentes.
+### Compatibilização com a rede fundamental de conservação da natureza
+1 - A RAMPA respeita a rede fundamental de conservação da natureza, de modo a garantir o seguinte:
+a) A existência de um continuum naturale entre áreas importantes para as espécies e habitats, que permita a circulação do fluxo genético inerente aos corredores ecológicos;
+b) Estimular o investimento em conservação da natureza e biodiversidade num contexto mais alargado do que as áreas dedicadas em exclusivo àquele efeito.
+2 - Integram a rede fundamental de conservação da natureza, para efeitos do presente diploma, a Rede Natura 2000, nomeadamente os Sítios de Importância Comunitária (SIC), as Zonas Especiais de Conservação (ZEC) e as Zonas de Proteção Especial (ZPE), as áreas classificadas ao abrigo da Convenção OSPAR e as áreas classificadas, designadamente, ao abrigo da Convenção de Ramsar.
+3 - Sem prejuízo dos regimes legais de proteção previstos no número anterior, na RAMPA podem ser estabelecidos regimes mais restritivos com incidência nessas áreas.

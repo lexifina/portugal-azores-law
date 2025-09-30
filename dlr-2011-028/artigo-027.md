@@ -1,17 +1,13 @@
 # Artigo 27.º
-### Conselho consultivo
-1 - O conselho consultivo é o órgão de natureza consultiva do Parque Marinho dos Açores, constituído pelas entidades seguintes:
-a) O director do Parque Marinho dos Açores, que preside;
-b) Um representante do departamento do Governo Regional com competência em matéria de investigação científica;
-c) Um representante do departamento do Governo Regional com competência em matéria de pescas;
-d) Um representante do departamento do Governo Regional com competência em matéria de turismo;
-e) Um representante do órgão regional do sistema de autoridade marítima;
-f) Um representante da Guarda Nacional Republicana;
-g) Um representante da Federação das Pescas dos Açores;
-h) Um representante do Departamento de Oceanografia e Pescas da Universidade dos Açores;
-i) Um representante da comunidade de investigadores científicos internacionais com actuação na área internacional do Parque Marinho dos Açores, a indicar pelo departamento do Governo Regional com competência em matéria de investigação científica;
-j) Um representante das organizações não governamentais de ambiente (ONGA) presentes no Conselho Regional de Ambiente e Desenvolvimento Sustentável, designado por elas por cada período de três anos;
-k) Um representante de uma organização não governamental de ambiente com carácter internacional e actuação sobre a componente internacional do Parque Marinho dos Açores, a designar pelo membro do Governo Regional competente em matéria de ambiente;
-l) Um representante da Convenção OSPAR.
-2 - O conselho consultivo reúne ordinariamente uma vez por ano e extraordinariamente sempre que convocado pelo director do Parque Marinho dos Açores, por sua iniciativa ou a solicitação de, pelo menos, um terço dos seus membros.
-3 - As instalações necessárias ao funcionamento do conselho consultivo bem como o apoio logístico e administrativo são assegurados pelo órgão de gestão do Parque Marinho dos Açores.
+### Iniciativa
+1 - Podem propor a classificação e reclassificação de áreas marinhas protegidas, costeiras ou oceânicas, as seguintes entidades:
+a) A Autoridade de Gestão da RAMPA;
+b) O Conselho Consultivo da RAMPA;
+c) O departamento do Governo Regional com competência em matéria de ambiente;
+d) O departamento do Governo Regional com competência em matéria de mar e pescas.
+2 - As propostas de classificação ou reclassificação de áreas marinhas protegidas, costeiras ou oceânicas, por iniciativa de qualquer entidade pública ou privada, que não as referidas no número anterior, designadamente as autarquias locais e associações não governamentais de defesa do ambiente ou representativas do setor das pescas e das atividades marítimo-turísticas, devem ser objeto de apreciação e ser propostas através de qualquer uma das entidades referidas no número anterior.
+3 - A Estratégia de Gestão da RAMPA (EGRAMPA) define o procedimento de iniciativa, apreciação e submissão das propostas referidas nos números anteriores.
+4 - A proposta para classificação e reclassificação de áreas marinhas protegidas, costeiras ou oceânicas, deve ser instruída com os seguintes elementos:
+a) Caracterização da área sob os aspetos geológicos, geográficos, biofísicos, paisagísticos e socioeconómicos;
+b) Justificação da necessidade de classificação ou reclassificação da área marinha protegida, que inclui, obrigatoriamente, uma análise de diagnóstico científico detalhado com a avaliação qualitativa e quantitativa do património natural existente, o seu contributo para a RAMPA e as razões que impõem a sua conservação, nomeadamente aquelas que sejam resultantes de melhor conhecimento científico disponível;
+c) Identificação da categoria ou categorias de áreas marinhas protegidas consideradas mais adequadas aos objetivos de gestão e objetivos específicos de conservação visados.

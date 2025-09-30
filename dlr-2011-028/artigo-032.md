@@ -1,0 +1,4 @@
+# Artigo 32.º
+### Usos e atividades proibidos ou condicionados
+1 - Sem prejuízo do disposto nos n.ºs 2 e 3 do artigo 3.º, as áreas marinhas protegidas costeiras referidas no n.º 2 do artigo anterior seguem, quanto aos usos e atividades proibidos ou condicionados, o regime previsto nos decretos legislativos regionais ali referidos e nos respetivos planos de gestão, sempre que estes existirem, incluindo o regime contraordenacional.
+2 - Sem prejuízo do disposto no número anterior, até à aprovação da EGRAMPA, a que se refere a secção ii do capítulo v, deve ser observado o regime de compatibilidade de usos e atividades previsto no plano de situação de ordenamento do espaço marítimo, subdivisão Açores, no que se refere ao quadro de usos e atividades proibidos ou condicionados nas áreas marinhas protegidas costeiras referidas no n.º 2 do artigo anterior.
