@@ -1,5 +1,3 @@
-## Capítulo XV
-## Férias, faltas e licenças
 ## Secção I
 ## Férias
 # Artigo 129.º
