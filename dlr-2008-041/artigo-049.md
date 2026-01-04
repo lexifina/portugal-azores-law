@@ -6,3 +6,4 @@ b) «Competência demonstrada», a que corresponde uma pontuação de 3;
 c) «Competência não demonstrada ou inexistente», a que corresponde uma pontuação de 1.
 2 - A classificação final do parâmetro «Competências» resulta da média aritmética simples das pontuações atribuídas nas diferentes competências avaliadas.
 3 - A classificação da competência a que se refere o n.º 5 do artigo anterior é majorada em um nível, até à pontuação máxima de 5, quando a avaliação obtida na formação correspondente é positiva.
+4 - Sem prejuízo do disposto no n.º 7 do artigo anterior, é atribuída majoração em um nível à competência selecionada pelo avaliador, ouvido o avaliado, para os trabalhadores inseridos em carreiras e categorias com grau de complexidade funcional 1.

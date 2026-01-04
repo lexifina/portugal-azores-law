@@ -1,6 +1,6 @@
 # Artigo 6.º
-Beneficiários e finalidade dos apoios
-1 - São beneficiárias dos apoios previstos nas alíneas a) e d) do n.º 1 do artigo 2.º as pessoas singulares para construção de habitação própria permanente.
+### Beneficiários e finalidade dos apoios
+1 - São beneficiárias dos apoios previstos nas alíneas a), d) e f) do n.º 1 do artigo 2.º as pessoas singulares para construção de habitação própria permanente.
 2 - São beneficiárias dos apoios previstos nas alíneas a), d) e e) do n.º 1 do artigo 2.º as cooperativas de habitação e construção para a construção de habitação de custos controlados destinada a venda para habitação própria permanente dos seus membros ou a arrendamento habitacional em regime de renda condicionada aos mesmos.
 3 - São beneficiárias dos apoios previstos nas alíneas a), d) e e) do n.º 1 do artigo 2.º as instituições particulares de solidariedade social e outras pessoas colectivas de utilidade pública administrativa que prossigam fins assistenciais para construção de habitação de custos controlados destinada a arrendamento em regime de renda apoiada.
 4 - São beneficiárias dos apoios previstos nas alíneas a) a e) do n.º 1 do artigo 2.º as empresas construtoras ou promotoras de empreendimentos imobiliários para construção de habitação de custos controlados destinada a venda para habitação própria permanente ou a arrendamento habitacional em regime de renda condicionada.

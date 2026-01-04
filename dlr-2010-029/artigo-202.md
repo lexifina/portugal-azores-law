@@ -2,7 +2,7 @@
 ## Disposições finais
 # Artigo 202.º
 ### Portos de pesca e núcleos de pesca
-1 - O departamento do Governo Regional responsável pelas pescas exerce a jurisdição e as funções de autoridade portuária nas áreas dos portos de classe D, conforme disposto no Decreto Legislativo Regional n.º 24/2011/A, de 22 de agosto, que aprova o Sistema Portuário dos Açores.
+1 - O departamento do Governo Regional responsável pelas pescas exerce a jurisdição e as funções de autoridade portuária nas áreas dos portos de classe D, conforme disposto no Decreto Legislativo Regional n.º 24/2011/A, de 22 de agosto, na sua redação atual, que aprova o Sistema Portuário dos Açores, sem prejuízo de, por despacho do membro do Governo Regional com competência em matéria de pescas, ser designada outra entidade para o exercício de parte, ou da totalidade, das referidas funções.
 2 - As áreas portuárias destinadas à pesca nos portos da classe A, B e C, conforme disposto no Decreto Legislativo Regional n.º 24/2011/A, de 22 de agosto, que aprova o Sistema Portuário dos Açores, tomam a designação de núcleos de pesca e são definidas por resolução do Conselho do Governo Regional.
 3 - Os membros do Governo Regional responsáveis pelos transportes marítimos e pelas pescas podem celebrar protocolos, com vista ao estabelecimento de uma eficaz administração e gestão dos núcleos de pesca referidos no número anterior.
 4 - O departamento do Governo Regional responsável pelas pescas pode estabelecer por edital regras de utilização e de ordenamento das áreas terrestres e marítimas dos portos de pesca referidos no n.º 1, bem como nos núcleos de pesca referidos nos n.os 2 e 3.

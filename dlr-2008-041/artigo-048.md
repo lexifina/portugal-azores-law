@@ -6,3 +6,4 @@
 4 - O dirigente máximo do serviço estabelece duas competências a que se subordina a avaliação dos trabalhadores, definidas por área de atividade e ou grau de complexidade funcional, a definir nos termos da portaria referida no n.º 6 do artigo 35.º
 5 - Entre as competências definidas, o avaliador, ouvido o avaliado, seleciona aquela que é objeto de ação de formação de entre as identificadas em catálogo próprio para o efeito, elaborado pelo Centro de Formação da Administração Pública dos Açores - CEFAPA ou pelo Instituto Nacional da Administração, I. P. - INA, I. P.
 6 - A formação a que se refere o número anterior é objeto de avaliação pela entidade formadora.
+7 - Aos trabalhadores inseridos em carreiras e categorias com grau de complexidade funcional 1 não é aplicável o disposto nos n.os 5 e 6.
