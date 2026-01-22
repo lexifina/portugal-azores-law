@@ -8,11 +8,11 @@
 6 - A não aplicação da penalidade a que se refere o número anterior, por motivo atendível, possibilita ao candidato apresentar-se aos procedimentos concursais nos anos subsequentes e, obtendo colocação, prestar serviço em estabelecimento de ensino do sistema educativo regional.
 7 - Os contratos previstos no presente Regulamento são celebrados de acordo com o prazo em que se encontre vago ou disponível o lugar cujo preenchimento se visa assegurar, não podendo ser celebrados por período inferior a 30 dias.
 8 - O contrato celebrado pelo período de um ano escolar vigora até 31 de agosto do ano escolar a que respeita.
-9 - Os contratos celebrados por período inferior a um ano podem ser renovados, até ao termo do ano escolar, por períodos de 30 dias, ou enquanto durar o impedimento do titular, por despacho do diretor regional competente em matéria de educação, sob proposta do órgão executivo competente, com a antecedência mínima de cinco dias úteis, mediante simples anotação.
-10 - Para além das alterações decorrentes do número de horas letivas, a aquisição de licenciatura ou habilitação profissional para a atividade docente determina a alteração do índice com efeitos ao dia 1 do mês seguinte.
+9 - Os contratos celebrados por período inferior a um ano podem ser, excecionalmente, prorrogados para além do prazo indicado no n.º 7, no limite, até ao termo do ano escolar, por despacho do diretor regional competente em matéria de administração educativa, sob proposta, fundamentada, do órgão executivo competente, com a antecedência mínima de dois dias úteis, mediante simples anotação.
+10 - Para além das alterações decorrentes do número de horas letivas, a aquisição de habilitação profissional para a docência determina a alteração do índice remuneratório com efeitos ao dia 1 do mês seguinte ao da comprovação desse facto.
 11 - A renovação dos contratos referidos no n.º 9 depende de comunicação ao contratado, a realizar pelo órgão de gestão da unidade orgânica.
 12 - O contrato celebrado para substituição temporária do docente titular do lugar vigora até três dias úteis após a apresentação deste, sem prejuízo do disposto nos números seguintes.
 13 - Nos casos em que o docente titular do lugar se apresente ao serviço após o dia 31 de maio, o contrato considera-se em vigor até ao final do ano escolar, desde que o docente naquele ano escolar tenha prestado um mínimo de 150 dias de trabalho efetivo ou tenha sido colocado até 10 dias úteis após o início do segundo período letivo, em qualquer dos casos em horário igual ou superior a quinze horas letivas semanais.
 14 - Durante os períodos de interrupção da atividade letiva não há lugar a prorrogação da vigência do contrato a que se refere o n.º 12, salvo se o docente titular do lugar se apresentar no decurso dos trabalhos de avaliação ou durante os quinze dias seguidos imediatamente anteriores, caso em que o contrato se considera em vigor até à conclusão do processo avaliativo.
-15 - [Revogado.]
-16 - [Revogado.]
+15 - (Revogado.)
+16 - (Revogado.)

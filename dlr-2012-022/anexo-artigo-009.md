@@ -4,32 +4,43 @@
 2 - Para efeitos da graduação profissional constante do artigo 10.º do presente Regulamento, tem-se em conta a classificação profissional e o número de anos de serviço docente.
 3 - Para efeitos da graduação académica constante do artigo 11.º do presente Regulamento, tem-se em conta as classificações académicas e o número de anos de serviço docente, considerando, ainda, os escalões das habilitações próprias, nos termos da legislação em vigor.
 4 - Para os docentes candidatos ao concurso interno de provimento são critérios de prioridade, não cumulativos, por ordem decrescente:
-a) Ser titular de quadro de escola com vínculo definitivo e pretender mudar para outro quadro de escola;
-b) Ser titular de quadro de escola com vínculo provisório e pretender mudar para outro quadro de escola;
-c) Ser titular de quadro de escola com vínculo definitivo e pretender mudar para quadro de ilha;
-d) Ser titular de quadro de escola com vínculo provisório e pretender mudar para quadro de ilha;
+a) Ser titular de quadro de escola e pretender mudar para outro quadro de escola, no respetivo grupo de recrutamento, por período não inferior a cinco anos, em que se encontre determinada a aplicação de incentivos à estabilidade nos termos do n.º 12 do artigo 4.º, prevalecendo os docentes com vínculo definitivo;
+b) Ser titular de quadro de escola e pretender mudar de grupo de recrutamento para o qual também possua habilitação profissional, por período não inferior a cinco anos, para quadro de escola em que se encontre determinada a aplicação de incentivos à estabilidade, nos termos do n.º 12 do artigo 4.º, prevalecendo os docentes com vínculo definitivo;
+c) Ser titular de quadro de ilha e candidatar-se a provimento em quadro de escola, no respetivo grupo de recrutamento, por período não inferior a cinco anos, em que se encontre determinada a aplicação de incentivos à estabilidade, nos termos do n.º 12 do artigo 4.º, prevalecendo os docentes com vínculo definitivo;
+d) Ser titular de quadro de ilha e pretender mudar de grupo de recrutamento para o qual também possua habilitação profissional por período não inferior a cinco anos, para quadro de escola em que se encontre determinada a aplicação de incentivos à estabilidade, nos termos do n.º 12 do artigo 4.º, prevalecendo os docentes com vínculo definitivo;
 e) [Revogada.]
-f) Ser titular de quadro de escola com vínculo definitivo que pretende mudar de grupo de recrutamento para o qual também possui habilitação profissional;
-g) Ser titular de quadro de ilha ou de quadro de zona pedagógica de Portugal continental ou da Região Autónoma da Madeira, com vínculo definitivo que pretende mudar para o quadro de escola;
-h) Ser titular de quadro de ilha ou de quadro de zona pedagógica de Portugal continental ou da Região Autónoma da Madeira, com vínculo provisório que pretende mudar para quadro de escola;
-i) Ser titular de quadro de ilha que pretende mudar para outro quadro de ilha no mesmo grupo de recrutamento;
-j) Ser titular de quadro de ilha que pretende mudar para outro quadro de ilha noutro grupo de recrutamento para o qual também possui habilitação profissional.
+f) Ser titular de quadro de escola e pretender mudar para outro quadro de escola, no respetivo grupo de recrutamento, prevalecendo os docentes com vínculo definitivo;
+g) Ser titular de quadro de escola e pretender mudar para quadro de ilha, no respetivo grupo de recrutamento, prevalecendo os docentes com vínculo definitivo;
+h) Ser titular de quadro de escola e pretender mudar de grupo de recrutamento para o qual também possua habilitação profissional, no respetivo ou noutro quadro de escola, prevalecendo os docentes com vínculo definitivo;
+i) Ser titular de quadro de escola e pretender mudar de grupo de recrutamento para o qual também possui habilitação profissional, em quadro de ilha, prevalecendo os docentes com vínculo definitivo;
+j) Ser titular de quadro de ilha ou de quadro de zona pedagógica de Portugal continental ou da Região Autónoma da Madeira, e pretender mudar para quadro de escola, no respetivo grupo de recrutamento, prevalecendo os docentes com vínculo definitivo;
+k) Ser titular de quadro de ilha e candidatar-se a provimento em quadro de escola, noutro grupo de recrutamento, para o qual também possua habilitação profissional prevalecendo os docentes com vínculo definitivo;
+l) Ser titular de quadro de ilha ou de quadro de zona pedagógica de Portugal continental ou da Região Autónoma da Madeira que pretende mudar para outro quadro de ilha no mesmo grupo de recrutamento, prevalecendo os docentes com vínculo definitivo;
+m) Ser titular de quadro de ilha ou de quadro de zona pedagógica de Portugal continental ou da Região Autónoma da Madeira que pretende mudar para outro quadro de ilha noutro grupo de recrutamento para o qual também possui habilitação profissional, prevalecendo os docentes com vínculo definitivo;
+n) Ser titular de quadro na situação de licença sem remuneração de longa duração, nos termos do n.º 4 do artigo 19.º
 5 - Para os docentes candidatos ao procedimento concursal externo de provimento em quadro de escola são critérios de prioridade, não cumulativos, por ordem decrescente:
-a) Candidatos com habilitação profissional;
+a) Candidatos com habilitação profissional, que tenham sido contratados a termo nos últimos três anos escolares completos e consecutivos na mesma escola e grupo de recrutamento em que se encontre determinada a aplicação de incentivos à estabilidade, nos termos do n.º 12 do artigo 4.º, e cuja vaga tenha sido apurada para o efeito do disposto no n.º 4 do artigo 4.º-B, e que aí aceitem ser providos por um período não inferior a cinco anos;
 b) [Revogada.]
-c) Candidatos com habilitação própria.
-6 - Na ordenação dos candidatos a que se refere a alínea a) do número anterior, tem-se ainda em consideração a ordem de prioridades seguinte:
-a) Ter sido bolseiro da Região Autónoma dos Açores durante, pelo menos, um dos anos letivos do curso que lhe confere habilitação profissional para a docência, ou ter prestado, pelo menos, três anos de serviço docente como docente profissionalizado em escola da rede pública ou particular, cooperativa ou solidária da Região Autónoma dos Açores, ou ter realizado estágio profissionalizante, mesmo quando este não seja remunerado, em escola da rede pública, particular, cooperativa e solidária da Região Autónoma dos Açores;
-b) Ser detentor de habilitação profissional não incluído na alínea anterior.
+c) Candidatos com habilitação profissional, que aceitem ser providos por um período não inferior a cinco anos em quadro de escola e grupo de recrutamento em que se encontre determinada a aplicação de incentivos à estabilidade, nos termos do n.º 12 do artigo 4.º, que tenham sido bolseiros da Região Autónoma dos Açores durante, pelo menos, um dos anos letivos do curso que lhes confere habilitação profissional para a docência, ou que tenham prestado, pelo menos, três anos de serviço docente como docente profissionalizado em escola da rede pública ou particular, cooperativa ou solidária da Região Autónoma dos Açores, ou tenham realizado estágio profissionalizante, mesmo quando este não seja remunerado, em escola da rede pública, particular, cooperativa e solidária da Região Autónoma dos Açores;
+d) Candidatos com habilitação profissional, que aceitem ser providos por um período não inferior a cinco anos em quadro de escola e grupo de recrutamento em que se encontre determinada a aplicação de incentivos à estabilidade, nos termos do n.º 12 do artigo 4.º;
+e) Candidatos com habilitação profissional, que tenham celebrado sucessivos contratos de trabalho a termo resolutivo com as unidades orgânicas da rede pública do sistema educativo regional, em horário anual e completo, perfazendo um total de 1095 dias de serviço docente efetivo correspondentes ao ano escolar em que efetuam a candidatura e aos dois anos escolares imediatamente anteriores e se candidatem ao mesmo grupo de recrutamento em que lecionaram nesse ano, que sejam opositores, em concomitância, a provimento a todos os quadros de escola e a todos os quadros de ilha para os quais possuam habilitação profissional;
+f) Candidatos com habilitação profissional, que tenham sido bolseiros da Região Autónoma dos Açores durante, pelo menos, um dos anos letivos do curso que lhes confere habilitação profissional para a docência, ou que tenham prestado, pelo menos, três anos de serviço docente como docente profissionalizado em escola da rede pública ou particular, cooperativa ou solidária da Região Autónoma dos Açores, ou tenham realizado estágio profissionalizante, mesmo quando este não seja remunerado, em escola da rede pública, particular, cooperativa e solidária da Região Autónoma dos Açores;
+g) Candidatos com habilitação profissional;
+h) Candidatos com habilitação própria.
+6 - (Revogado.)
 7 - Para os docentes candidatos ao procedimento concursal externo de provimento em quadro de ilha são critérios de prioridade, não cumulativos, por ordem decrescente:
-a) Ter prestado, pelo menos, 1095 dias de serviço nos quatro anos escolares imediatamente anteriores em estabelecimentos de educação ou ensino da rede pública da administração educativa regional, com qualificação profissional;
-b) Ter prestado, pelo menos, 1460 dias de serviço em estabelecimentos de educação ou ensino da rede pública da administração educativa regional, com qualificação profissional;
-c) Ser detentor de habilitação profissional não incluído nas alíneas anteriores.
+a) Candidatos com habilitação profissional, que tenham celebrado sucessivos contratos de trabalho a termo resolutivo com as unidades orgânicas da rede pública do sistema educativo regional, em horário anual e completo, perfazendo um total de 1095 dias de serviço docente efetivo correspondentes ao ano escolar em que efetuam a candidatura e aos dois anos escolares imediatamente anteriores e se candidatem ao mesmo grupo de recrutamento em que lecionaram nesse ano, que sejam opositores, em concomitância, a provimento a todos os quadros de escola e a todos os quadros de ilha para os quais possuam habilitação profissional;
+b) Ter prestado, pelo menos, 1095 dias de serviço nos quatro anos escolares imediatamente anteriores em estabelecimentos de educação ou ensino da rede pública da administração educativa regional, com qualificação profissional;
+c) Ter prestado, pelo menos, 1460 dias de serviço em estabelecimentos de educação ou ensino da rede pública da administração educativa regional, com qualificação profissional;
+d) Ser detentor de habilitação profissional não incluído nas alíneas anteriores.
 8 - Para os candidatos ao procedimento concursal para contratação a termo resolutivo são critérios de prioridade, não cumulativos, por ordem decrescente:
 a) [Revogada.]
 b) [Revogada.]
-c) Candidatos detentores de habilitação profissional que, na qualidade de opositores ao concurso externo de provimento precedente, tenham sido integrados no critério de ordenação a que se refere a alínea a) do n.º 6;
-d) Candidatos detentores de habilitação profissional que, na qualidade de opositores ao concurso externo de provimento precedente, tenham sido integrados no critério de ordenação a que se refere a alínea b) do número anterior;
-e) Candidatos com habilitação profissional;
-f) Candidatos com habilitação própria.
-9 - [Revogado.]
+c) Candidatos com habilitação profissional, que se candidatam à escola e grupo de recrutamento em que se encontram colocados, com contrato completo e anual e em que se encontre determinada a aplicação de incentivos à estabilidade, nos termos do n.º 12 do artigo 4.º, e que aí tenham sido admitidos no concurso externo precedente, integrados no critério de ordenação a que se refere a alínea a) do n.º 5, candidatando-se nessa qualidade;
+d) Candidatos com habilitação profissional, que se candidatam à escola e grupo de recrutamento em que se encontram colocados, com contrato completo e anual e em que se encontre determinada a aplicação de incentivos à estabilidade, nos termos do n.º 12 do artigo 4.º, e que aí tenham sido admitidos no concurso externo precedente, integrados no critério de ordenação a que se refere a alínea c) do n.º 5, candidatando-se nessa qualidade;
+e) Candidatos com habilitação profissional que, na qualidade de opositores ao concurso externo de provimento precedente, tenham sido integrados no critério de ordenação a que se refere a alínea e) do n.º 5;
+f) Candidatos com habilitação profissional que, na qualidade de opositores ao concurso externo de provimento precedente, tenham sido integrados no critério de ordenação a que se refere a alínea f) do n.º 5;
+g) Candidatos com habilitação profissional que, na qualidade de opositores ao concurso externo de provimento precedente, tenham sido integrados no critério de ordenação a que se refere a alínea g) do n.º 5;
+h) Candidatos com habilitação profissional;
+i) Candidatos com habilitação própria.
+9 - (Revogado.)
