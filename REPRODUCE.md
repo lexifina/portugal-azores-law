@@ -152,7 +152,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `dlr-2025-015` | Decreto Legislativo Regional n.º 15/2025/A: Alteração ao Decreto Legislativo Regional n.º 41/2008/A, de 27 de agosto, que estabelece o sistema integrado de gestão e avaliação do desempenho na administração pública regional dos Açores (SIADAPRA) | 2 | 2025-04-23 to 2026-10-30 |
 | `dlr-2025-026` | Decreto Legislativo Regional n.º 26/2025/A: Quadro plurianual de programação orçamental para o período de 2026 a 2029 | 2 | 2025-10-29 to 2026-01-04 |
 
-The build made 360 commits:
+The build made 366 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -176,15 +176,15 @@ When a law gives no date of its own, the default rule applies: Each version take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9712fe45904e6b781088b46632d109133b5bf49d99cdcf4c6f394a90844de618` (10733514 bytes).
+- Corpus: sha256 `1e466d94d9b672b5cbee625f149e12a2706bf8b0281d1bc244798238ae0aa245` (10860029 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-377 versions of 134 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 360 history commits and 663 tags (history tip `c8f982879b316f3611ecf9eeaea302770aa7bcfc`).
 
 ## Decisions made by hand
 
@@ -224,6 +224,8 @@ No second build of this corpus has been compared yet.
 - Credits: a changed provision is credited to the amending act the DR's amendment timeline names for that version (or, for an undated change, the one act the DR dates to that day). Where the DR names two acts, or none, the change is left uncredited and committed as the publisher's, labelled unexplained. Versions the DR renews with the same words change nothing.
 - Dates: each version takes effect on the day the DR gives it; where the DR's text for a day shows a version early or late, the record follows the version's own day (as portugal-law does). Undated versions take the first day the DR's consolidated text shows them, or the publication day of the correction the DR names for them.
 - Files: one file per article (artigo-NNN), plus the preamble and the signatures; the headings of the parts that begin before an article are ## lines at the top of its file. Annexes are in folders of their own (anexo-...). Where the DR's text for a day shows two provisions under one number (a renumbering it carried back), the later one is in a file of its own named with its DR fragment id (artigo-NNN-fragmento-<id>).
+- Table cell boundaries in the official consolidated JSON HTML are retained as spaces; this correction changes only annex text where a published table joined words across cells.
+- Table cell boundaries in the official consolidated JSON HTML are retained as spaces; this correction changes only annex text where a published table joined words across cells.
 
 ## What AI did and did not do
 

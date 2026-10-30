@@ -153,6 +153,20 @@
     "dlr-2025-026"
    ],
    "sha256": "6a431087372234fe3782f7db7d0966bdffd67a1fb6f8312508e5c7f35772fc1b"
+  },
+  "90-table-cells-20-dlr-01.json": {
+   "acts": [
+    "dlr-2004-018",
+    "dlr-2005-021"
+   ],
+   "sha256": "11f79c24b8e091cf8d1f14b7c5802b8b4d14889a93ee377f3be94b46ad523335"
+  },
+  "90-table-cells-20-dlr-03.json": {
+   "acts": [
+    "dlr-2024-010",
+    "dlr-2025-026"
+   ],
+   "sha256": "e38b8077bcc892d5af3d8b56c47a585f44728bfcd05c95f191be9b05582508fa"
   }
  },
  "schema": 1
