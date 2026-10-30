@@ -1,0 +1,14 @@
+# Decreto Legislativo Regional n.º 5/2014/A: Regime de distribuição de almoço durante os períodos de férias e interrupções letivas
+
+DLR 5/2014/A · 2 versions, from 2014-04-02 (latest in force: 2024-01-01) · <https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2014-220016459>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Artigo 1.º | [artigo-001.md](artigo-001.md) | 0 |  |
+| Artigo 2.º | [artigo-002.md](artigo-002.md) | 0 |  |
+| Artigo 3.º | [artigo-003.md](artigo-003.md) | 0 |  |
+| Artigo 4.º | [artigo-004.md](artigo-004.md) | 1 | 2024-01-01 |
+| Artigo 5.º | [artigo-005.md](artigo-005.md) | 0 |  |
+| Artigo 6.º | [artigo-006.md](artigo-006.md) | 0 |  |
+| Assinatura | [assinatura.md](assinatura.md) | 0 |  |
+| Preâmbulo | [preambulo.md](preambulo.md) | 0 |  |

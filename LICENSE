@@ -1,0 +1,24 @@
+Source of the legal text
+
+The text of the acts in this repository is the consolidated text (Legislação Consolidada) of the Diário da República,
+the official journal of the Portuguese Republic, published at https://diariodarepublica.pt by the Imprensa
+Nacional-Casa da Moeda, S.A. (INCM). Source: Diário da República, INCM, https://diariodarepublica.pt.
+
+The DR's legal notice (Avisos Legais, https://diariodarepublica.pt/dr/geral/avisos-legais, read on 2026-10-28) says
+that the public service of universal and free access to the Diário da República (Decreto-Lei n.º 83/2016) "compreende
+a possibilidade de impressão, arquivo, pesquisa e livre acesso ao conteúdo dos atos publicados nas 1.ª e 2.ª séries
+do Diário da República" (includes printing, archiving, searching and free access to the content of the acts
+published in the 1st and 2nd series), and that the INCM produces "o texto consolidado dos atos publicados, ainda que
+sem valor legal" (the consolidated text of published acts, though without legal value). The notice forbids only
+attempts to alter or upload information, or any action that could harm the system; it states no other condition
+on reuse. Under the Portuguese Copyright Code (Código do Direito de Autor e dos Direitos Conexos, artigo 8.º),
+official texts such as laws do not benefit from copyright protection. The site's footer reads "INCM, SA - todos os
+direitos reservados".
+
+The consolidated texts have no legal value. Only the Diário da República as published is authoritative.
+
+Everything else in this repository (the history as commits, the commit messages, the tables and the tools) is
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+To the extent possible under law, Lexifina has waived all copyright and related or neighbouring rights to this work.

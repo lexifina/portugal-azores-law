@@ -1,0 +1,11 @@
+{
+  "path": "pt-20",
+  "code": "PT-20",
+  "name": "Autonomous Region of the Azores",
+  "level": "autonomous region",
+  "parent": "pt",
+  "repo": "https://github.com/lexifina/portugal-azores-law",
+  "build": "built: the Political-Administrative Statute and the regional legislative decrees in force that the Diário da República consolidates, with every dated version",
+  "language": "pt",
+  "sources": 1
+}
