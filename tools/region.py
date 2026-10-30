@@ -58,10 +58,9 @@ def act_of(hit: dict, region: dict, statute: bool = False) -> dict:
 
 def targets(listing: dict, region: dict) -> list[dict]:
     out = []
-    # The Statute is consolidated under the Lei that approved it (the oldest); later revising Leis may carry a
-    # consolidation of their own articles only.
-    for h in sorted(listing.get('statute', []), key=lambda h: h['dataPublicacao']):
-        if h.get('DiplomaFragmentadoId') and h.get('consolidacaoEstado') == 'CONCLUDED':
+    # The Statute: the DR consolidation that carries it in force, named per region (fetch.REGIONS).
+    for h in listing.get('statute', []):
+        if h.get('numero') == region.get('statute_consolidated') and h.get('DiplomaFragmentadoId') and h.get('consolidacaoEstado') == 'CONCLUDED':
             out.append(act_of(h, region, statute=True))
             break
     dl = [h for h in listing['dlr'].values() if h.get('vigencia') == 'VIGENTE' and h.get('DiplomaFragmentadoId')

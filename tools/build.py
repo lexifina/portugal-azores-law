@@ -27,6 +27,7 @@ from zoneinfo import ZoneInfo
 
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
+import publish_marker  # noqa: E402
 try:
     import private  # noqa: E402  (Lexifina's list of what stays off shared repos)
 except ImportError:  # a published copy of this builder runs without it
@@ -42,26 +43,50 @@ class CorpusError(SystemExit):
 
 # ---------------------------------------------------------------- loading and validation
 
-def load(folder: Path) -> tuple[dict, bytes]:
+def load(folder: Path, *, part_records: dict | None = None,
+         required_parts: set[str] | None = None) -> tuple[dict, bytes]:
     """corpus.json, plus any parts in corpus.d/*.json (so several agents can each own some acts of one country).
 
     A part holds `acts`, and optionally `laws`, `sources`, `applies`, `decisions` and `ai_use`. Its laws are merged
-    by key; the same key in two files must describe the same law (same label). Parts are read in file-name order. The
+    by key; the same key in two files must describe the same law (same label). `corrects` names an earlier part whose
+    acts this part replaces by slug. Parts are read in file-name order. The
     returned bytes are what the build hashes: corpus.json followed by each part, so any change to any part changes it.
     """
     main_path = folder / 'corpus.json'
     parts = sorted((folder / 'corpus.d').glob('*.json')) if (folder / 'corpus.d').exists() else []
     if os.environ.get('GITLAW_VERIFIED_PARTS_ONLY') == '1':
         # The main-branch build: only parts their owner has verified against the official text (<part>.PUBLISH).
-        parts = [p for p in parts if p.with_suffix('.PUBLISH').exists()]
+        parts = [p for p in parts if publish_marker.verified(p)]
+    for name in sorted(required_parts or ()):
+        path = folder / 'corpus.d' / name
+        state, detail = publish_marker.status(path)
+        if path not in parts or state not in ('legacy', 'match'):
+            raise CorpusError(f'previously published part {name} is no longer verified: '
+                              + (detail if state not in ('legacy', 'match') else 'absent part file or snapshot input'))
     if not main_path.exists() and not parts:
         raise CorpusError(f'{folder} has no corpus.json')
-    raw = main_path.read_bytes() if main_path.exists() else b''
-    c = json.loads(raw.decode('utf-8')) if raw else {}
+    head = main_path.read_bytes() if main_path.exists() else b''
+    c = json.loads(head.decode('utf-8')) if head else {}
+    chunks = [head]  # joined once at the end: growing one bytes object part by part copied it once per part
+    slots = {}
+    for i, act in enumerate(c.get('acts', [])):
+        slots.setdefault(act.get('slug'), []).append(('corpus.json', i))
+    loaded_parts = set()
     for p in parts:
         b = p.read_bytes()
-        raw += b'\n' + p.name.encode() + b'\n' + b
+        if os.environ.get('GITLAW_VERIFIED_PARTS_ONLY') == '1' or p.name in (required_parts or ()):
+            # Check the bytes consumed, even if the part changed after selection.
+            state, detail = publish_marker.status(p, content=b)
+            if state not in ('legacy', 'match'):
+                if p.name in (required_parts or ()):
+                    raise CorpusError(f'previously published part {p.name} is no longer verified: {detail}')
+                print(f'UNVERIFIED: {detail}', file=sys.stderr)
+                continue
+        chunks.append(b'\n' + p.name.encode() + b'\n' + b)
         part = json.loads(b.decode('utf-8'))
+        if part_records is not None:
+            part_records[p.name] = {'sha256': hashlib.sha256(b).hexdigest(),
+                                    'acts': sorted(a['slug'] for a in part.get('acts', []))}
         if not c.get('country') and part.get('country'):
             c['country'] = part['country']
         for key, law in part.get('laws', {}).items():
@@ -69,7 +94,26 @@ def load(folder: Path) -> tuple[dict, bytes]:
             if have and have.get('label') != law.get('label'):
                 raise CorpusError(f'{p.name}: law {key!r} is {law.get("label")!r} here but {have.get("label")!r} elsewhere')
             c['laws'].setdefault(key, law)
-        for field in ('acts', 'sources', 'applies', 'decisions', 'ai_use'):
+        acts = c.setdefault('acts', [])
+        if 'corrects' in part:
+            target = part['corrects']
+            if not isinstance(target, str) or target not in loaded_parts:
+                raise CorpusError(f'{p.name}: corrects {target!r} must name an earlier loaded part')
+            for act in part.get('acts', []):
+                slug = act.get('slug')
+                have = slots.get(slug, [])
+                if len(have) != 1 or have[0][0] != target:
+                    raise CorpusError(f'{p.name}: corrects {target!r}: act slug {slug!r} must occur exactly once '
+                                      'and still belong to that part')
+                i = have[0][1]
+                acts[i] = act
+                slots[slug] = [(p.name, i)]
+        else:
+            for act in part.get('acts', []):
+                slots.setdefault(act.get('slug'), []).append((p.name, len(acts)))
+                acts.append(act)
+        loaded_parts.add(p.name)
+        for field in ('sources', 'applies', 'decisions', 'ai_use'):
             c.setdefault(field, []).extend(part.get(field, []))
     # A version without `units` is an event that changed no words (a ruling, a rejected referendum): it reads as the
     # version before it, so the corpus need not repeat the whole text.
@@ -86,7 +130,7 @@ def load(folder: Path) -> tuple[dict, bytes]:
                 else:
                     units[k] = u
             v['units'] = units
-    return c, raw
+    return c, b''.join(chunks)
 
 
 def validate(c: dict) -> list[str]:
@@ -840,14 +884,15 @@ def reproduce(c: dict, folder: Path, raw: bytes, log: list[dict], tags: dict, do
     return re.sub(r'\{\{([A-Z_]+)\}\}', lambda m: fill[m.group(1)], tpl)
 
 
-def docs_files(c: dict, folder: Path, raw: bytes, log: list[dict], tags: dict, docs_date: str) -> dict[str, str]:
+def docs_files(c: dict, folder: Path, raw: bytes, log: list[dict], tags: dict, docs_date: str,
+               part_records: dict | None = None) -> dict[str, str]:
     files: dict[str, str] = {}
     static = folder / 'repo'
     if static.exists():
         for p in sorted(static.rglob('*')):
             if p.is_file() and '__pycache__' not in p.parts:
                 files[p.relative_to(static).as_posix()] = p.read_text(encoding='utf-8').replace('\r\n', '\n')
-    for name in ('on.py', 'check.py', 'build.py', 'SCHEMA.md', 'REPRODUCE.template.md'):
+    for name in ('on.py', 'check.py', 'build.py', 'publish_marker.py', 'published_parts.py', 'SCHEMA.md', 'REPRODUCE.template.md'):
         text = (HERE / name).read_text(encoding='utf-8').replace('\r\n', '\n')
         # Passages for Lexifina's agents only (how sources are fetched, internal paths) stay out of the published copy.
         text = re.sub(r'\n?', '', text, flags=re.S)
@@ -880,6 +925,9 @@ def docs_files(c: dict, folder: Path, raw: bytes, log: list[dict], tags: dict, d
             files[rel] = public_readme(files[rel], keep)
     files['data/corpus.sha256'] = f'{hashlib.sha256(raw).hexdigest()}  corpus.json\n'
     files.update(tables(c, log))
+    if part_records is not None:
+        files['data/parts.json'] = json.dumps({'schema': 1, 'parts': part_records},
+                                             ensure_ascii=False, sort_keys=True, indent=1) + '\n'
     files['REPRODUCE.md'] = reproduce(c, folder, raw, log, tags, docs_date)
     return files
 
@@ -887,7 +935,8 @@ def docs_files(c: dict, folder: Path, raw: bytes, log: list[dict], tags: dict, d
 # ---------------------------------------------------------------- main
 
 def build(folder: Path, repo: Path, docs_date: str) -> dict:
-    c, raw = load(folder)
+    part_records = {}
+    c, raw = load(folder, part_records=part_records)
     errs = validate(c)
     if errs:
         raise CorpusError('corpus.json has problems:\n  ' + '\n  '.join(errs[:60]) + (f'\n  … {len(errs) - 60} more' if len(errs) > 60 else ''))
@@ -897,7 +946,7 @@ def build(folder: Path, repo: Path, docs_date: str) -> dict:
     w, tags, log, clock = write_history(repo, c, docs_date, commits)
     co = c['country']
     committer = ('Lexifina', f'{co["slug"]}-law@lexifina.com')
-    files = docs_files(c, folder, raw, log, tags, docs_date)
+    files = docs_files(c, folder, raw, log, tags, docs_date, part_records=part_records)
     # The documentation commit goes on main, dated the day the data was retrieved, so a rebuild on any later day from
     # the same corpus gives the same hashes. The future branch keeps only laws; tools read it for later dates.
     future = co.get('future_branch', 'futuro')
