@@ -20,7 +20,8 @@ p) Organizar e participar em iniciativas que promovam a formação e a ocupaçã
 q) Participar nas atividades da escola, nos termos do respetivo regulamento interno;
 r) Participar no processo de avaliação através dos mecanismos de auto e heteroavaliação;
 s) Usufruir de instalações com boas condições de higiene e salubridade e em que prevalece a limpeza;
-t) Beneficiar de medidas a definir pela escola, adequadas à recuperação da aprendizagem nas situações de ausência das atividades escolares devidamente justificada.
+t) Beneficiar de medidas a definir pela escola, adequadas à recuperação da aprendizagem nas situações de ausência das atividades escolares devidamente justificada;
+u) (Revogada.)
 2 - O aluno tem ainda direito a participar na elaboração do regulamento interno da unidade orgânica, a conhecê-lo e a estar informado, em termos adequados à sua idade e ao ano frequentado, sobre todos os assuntos que justificadamente sejam do seu interesse, nomeadamente:
 a) O modo de organização do plano de estudos ou curso;
 b) O programa e os objetivos essenciais de cada disciplina ou área disciplinar;
