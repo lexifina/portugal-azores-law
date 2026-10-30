@@ -1,5 +1,3 @@
-## Capítulo III
-## Fase de formação do contrato
 ## Secção I
 ## Anúncios e peças dos procedimentos
 # Artigo 26.º
