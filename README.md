@@ -1,5 +1,7 @@
 # Autonomous Region of the Azores (Região Autónoma dos Açores): law in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Autonomous Region of the Azores, Portugal, which global-law reads at `portugal/azores/acts/`.
+
 The law of the Autonomous Region of the Azores (Portugal) in git: one file per article, one commit per amending act on the day its change took effect, from the consolidated texts of the Diário da República. `git blame`, `git log` and `tools/on.py` work as in the other repositories of the shared design.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `pt-20/`. The national law is in [lexifina/portugal-law](https://github.com/lexifina/portugal-law).
