@@ -1,7 +1,7 @@
 """Prints the law as it stood on a day, read from this repository's history.
 
     python tools/on.py 2015-06-01                      # every act's commit in force that day
-    python tools/on.py 2015-06-01 constitucion         # the whole act on that day
+    python tools/on.py 2015-06-01 constitucion         # the whole act on that day (by its id, or by its folder)
     python tools/on.py 2015-06-01 constitucion art-019 # one provision (a file name without .md)
     python tools/on.py 2015-06-01 constitucion 19      # the same, by article number
     python tools/on.py --law 2015-06-01 constitucion art-019  # also name the law behind the version shown
@@ -11,6 +11,12 @@ the source of truth: git cannot store dates before 1970, and reading the trailer
 in force on a day is the last commit on or before it that touches the act. Laws published but not yet in force live on
 the future branch, which is read for days after the newest commit on main. Merge commits are ignored. Standard library
 only.
+
+Acts may live in folders named by their official identifier (<kind>/<year>/<number>/, data/paths.json maps each act
+id to its folder). Before that layout move each act's folder was named by its id; this tool reads both names, so any
+day gives the right text, and the layout commit itself (Kind: documentation) is not a change of law. Without
+data/paths.json it reads exactly as gitlaw_common's on.py. (gitlaw_common/on_layout.py, shipped as tools/on.py in
+repositories with data/paths.json.)
 """
 import datetime as dt
 import re
@@ -37,14 +43,65 @@ def branches() -> tuple[str, str | None]:
     return 'main', None
 
 
+_PATHS: dict = {}
+
+
+def paths(repo=None) -> dict[str, str]:
+    """{act id: folder} from data/paths.json on main ({} without it)."""
+    if repo not in _PATHS:
+        import json
+        p = subprocess.run(['git', 'show', 'main:data/paths.json'], cwd=repo, capture_output=True, text=True,
+                           encoding='utf-8')
+        try:
+            _PATHS[repo] = (json.loads(p.stdout).get('paths') or {}) if p.returncode == 0 else {}
+        except ValueError:
+            _PATHS[repo] = {}
+    return _PATHS[repo]
+
+
+def _sub(path: str, table: dict[str, str]) -> str:
+    parts = path.split('/')
+    for i in range(len(parts), 0, -1):
+        hit = table.get('/'.join(parts[:i]))
+        if hit is not None:
+            return '/'.join([hit] + parts[i:])
+    return path
+
+
+def to_new(path: str, repo=None) -> str:
+    """A path (or act) under its act's folder now (unchanged without data/paths.json)."""
+    return _sub(path, paths(repo)) if paths(repo) else path
+
+
+def act_id(act: str, repo=None) -> str:
+    """The act id of an act given by id or by folder."""
+    p = paths(repo)
+    if not p:
+        return act
+    back = {v: k for k, v in p.items()}
+    return back.get(act, act)
+
+
+def variants(path: str, repo=None) -> list[str]:
+    """A path under every name its act has had: its folder now, then its id (before the layout move)."""
+    p = paths(repo)
+    if not p:
+        return [path]
+    new = to_new(path, repo)
+    return list(dict.fromkeys([new, _sub(new, {v: k for k, v in p.items()})]))
+
+
 def history(branch: str, path: str, repo=None) -> list[tuple[str, str, str]]:
-    """(commit, in-force day, author) for every commit touching path, newest first."""
-    args = ('log', '--no-merges', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)%x09%an', branch, '--', path)
+    """(commit, in-force day, author) for every commit touching path (under any name its act has had), newest first.
+    With data/paths.json, the layout commit (Kind: documentation) is left out: it moves folders, it changes no law."""
+    layout = bool(paths(repo))
+    args = ('log', '--no-merges', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)%x09%an'
+            + ('%x09%(trailers:key=Kind,valueonly,separator=)' if layout else ''), branch, '--', *variants(path, repo))
     out = git(*args) if repo is None else _g(repo, *args)
     rows = []
     for line in out.splitlines():
-        h, d, a = (line.split('\t') + ['', ''])[:3]
-        if d.strip():
+        h, d, a, k = (line.split('\t') + ['', '', ''])[:4]
+        if d.strip() and not (layout and 'documentation' in k):
             rows.append((h, d.strip(), a))
     return rows
 
@@ -70,12 +127,14 @@ def _under(p: str, base: str) -> bool:
 
 
 def _ls(repo, commit: str, path: str) -> dict[str, str]:
-    """{path: blob id} of every file at or under `path` in `commit`."""
+    """{path: blob id} of every file at or under `path` in `commit` (under any name its act has had, each file named
+    by its act's folder now)."""
     out = {}
-    for rec in _g(repo, '-c', 'core.quotePath=false', 'ls-tree', '-r', '-z', commit, '--', path).split('\0'):
+    for rec in _g(repo, '-c', 'core.quotePath=false', 'ls-tree', '-r', '-z', commit, '--',
+                  *variants(path, repo)).split('\0'):
         meta, _, p = rec.partition('\t')
         if p and meta.split()[1] == 'blob':
-            out[p] = meta.split()[2]
+            out[to_new(p, repo)] = meta.split()[2]
     return out
 
 
@@ -100,15 +159,15 @@ def corrections(ref: str, repo=None) -> list[dict]:
                 a, _, b = parts[1].partition('..')
                 ranges[parts[0]] = (a, b or None)
         acts = list(ranges)
-        listed = [p.strip() for p in named.split('\x1f') if p.strip()]
-        given = [p.strip().rstrip('/') for p in apath.split('\x1f') if p.strip()]
+        listed = [to_new(p.strip(), repo) for p in named.split('\x1f') if p.strip()]
+        given = [to_new(p.strip().rstrip('/'), repo) for p in apath.split('\x1f') if p.strip()]
         paths = {}
         for i, a in enumerate(acts):
             if i < len(given):
                 paths[a] = given[i]
             else:
                 dirs = {p.rsplit('/', 1)[0] for p in listed if '/' in p}
-                paths[a] = dirs.pop() if len(dirs) == 1 and len(acts) == 1 else a
+                paths[a] = dirs.pop() if len(dirs) == 1 and len(acts) == 1 else to_new(a, repo)
         files: dict[str, dict] = {}
         if listed:
             for a in acts:
@@ -120,6 +179,7 @@ def corrections(ref: str, repo=None) -> list[dict]:
             f = _g(repo, '-c', 'core.quotePath=false', 'diff-tree', '-r', '-z', '--no-renames', '--no-commit-id',
                    f'{h}^', h).split('\0')
             for meta, path in zip(f[0::2], f[1::2]):
+                path = to_new(path, repo)
                 for a in acts:
                     if _under(path, paths[a]) and path.endswith('.md') and path != f'{paths[a]}/README.md':
                         m = meta.split()
@@ -142,12 +202,16 @@ class Reader:
         self._rows: dict[str, list] = {}
 
     def name(self, act: str) -> str:
-        """The act's name in Corrects, for an act given by name or by path."""
-        return self.alias.get(act.rstrip('/'), act)
+        """The act's name in Corrects, for an act given by name or by path (or by its folder)."""
+        if not paths(self.repo):
+            return self.alias.get(act.rstrip('/'), act)
+        act = act.rstrip('/')
+        return self.alias.get(to_new(act, self.repo), act_id(act, self.repo))
 
     def path(self, act: str) -> str:
         n = self.name(act)
-        return next((f['paths'][n] for f in self.fixes if n in f['paths']), act)
+        return next((f['paths'][n] for f in self.fixes if n in f['paths']),
+                    to_new(act.rstrip('/'), self.repo) if paths(self.repo) else act)
 
     def rows(self, act: str) -> list[tuple[str, str, str]]:
         """(commit, in-force day, author), newest first, of the act's ordinary commits (corrections left out)."""
@@ -233,7 +297,7 @@ def main():
         sys.exit(f'{day!r} is not a date (YYYY-MM-DD).')
     main_ref, future = branches()
     readers = {r: Reader(r) for r in (main_ref, future) if r}
-    if any(rd.fixes for rd in readers.values()):
+    if any(rd.fixes for rd in readers.values()) or paths():
         return corrected(day, args, show_law, readers[main_ref], readers.get(future))
     if len(args) == 1:
         acts = sorted({p.split('/')[0] for p in git('ls-tree', '-r', '--name-only', 'main').split('\n')
@@ -274,8 +338,10 @@ def corrected(day: str, args: list[str], show_law: bool, rd_main: Reader, rd_fut
         return f'\tcorrected by {used[-1]["commit"][:10]}' if used else ''
 
     if len(args) == 1:
-        acts = sorted({p.split('/')[0] for p in git('ls-tree', '-r', '--name-only', 'main').split('\n')
-                       if '/' in p and p.split('/')[0] not in ('data', 'tools')})
+        tops = {p.split('/')[0] for p in git('ls-tree', '-r', '--name-only', 'main').split('\n')
+                if '/' in p and p.split('/')[0] not in ('data', 'tools')}
+        moved = {v.split('/')[0] for v in paths().values()}
+        acts = sorted(set(paths()) | (tops - moved)) if paths() else sorted(tops)
         for act in acts:
             files, hit, used = reader(act).files(act, day)
             if files is None:
@@ -285,15 +351,15 @@ def corrected(day: str, args: list[str], show_law: bool, rd_main: Reader, rd_fut
             else:
                 print(f'{act}\t{used[-1]["ranges"][reader(act).name(act)][0]}\t{used[-1]["commit"][:10]}\tcorrection')
         return
-    act = args[1].rstrip('/')
+    act = to_new(args[1].rstrip('/'))  # the act's folder (an id or a folder may be given)
     rd = reader(act)
     files, hit, used = rd.files(act, day)
     if not files:
-        sys.exit(f'{act} is not in the record on {day}: it took effect later, or the name is wrong (see `python tools/on.py {day}`).')
+        sys.exit(f'{args[1].rstrip("/")} is not in the record on {day}: it took effect later, or the name is wrong (see `python tools/on.py {day}`).')
     if len(args) > 2 or rd.path(act).endswith('.md'):
         path = rd.path(act) if len(args) == 2 else resolve('', act, args[2], sorted(files))
         if not path or path not in files:
-            sys.exit(f'{act}/{args[2]} was not in the text on {day} (it may have been inserted later or removed earlier).')
+            sys.exit(f'{args[1].rstrip("/")}/{args[2]} was not in the text on {day} (it may have been inserted later or removed earlier).')
         if show_law:
             fix = next((f for f in reversed(used) if path in f['files'].get(rd.name(act), {})), None)
             if fix:
